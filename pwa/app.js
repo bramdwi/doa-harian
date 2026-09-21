@@ -565,7 +565,7 @@
     function registerServiceWorker() {
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js').then((reg) => {
+                navigator.serviceWorker.register('/sw.js', { scope: '/' }).then((reg) => {
                     console.log('Daily Du\'a SW registered:', reg.scope);
                 }).catch((err) => {
                     console.log('Daily Du\'a SW registration failed:', err);
