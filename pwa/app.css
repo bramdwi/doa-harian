@@ -206,53 +206,16 @@ body {
     background-color: var(--bg-surface);
 }
 
-/* --- Secondary Control Bar (Font & Translation Toggle) --- */
-.chapter-selector-btn {
-    background-color: var(--bg-surface);
-    border: 1px solid var(--gold-primary);
-    border-radius: var(--radius-full);
-    padding: 6px 14px;
-    font-family: system-ui, -apple-system, sans-serif;
-    font-size: 0.82rem;
-    font-weight: 600;
-    color: var(--gold-dark);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    cursor: pointer;
-    box-shadow: var(--shadow-sm);
-    transition: all 0.2s ease;
-}
-
-.chapter-selector-btn:hover {
-    background-color: #EDE4D0;
-    border-color: var(--gold-deep);
-}
-
-.selector-dot {
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-    background-color: var(--gold-primary);
-    flex-shrink: 0;
-}
-
-.control-actions-wrapper {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
-/* --- Secondary Control Bar (Font & Translation Toggle) --- */
+/* --- Secondary Control Bar (Zoom, Latin, & Translation Toggle - Centered) --- */
 .control-bar {
     max-width: 800px;
-    margin: 10px auto 4px auto;
+    margin: 12px auto 6px auto;
     padding: 0 16px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 10px;
 }
 
 .control-group {
