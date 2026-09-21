@@ -207,7 +207,6 @@
         // 1. Chapter Hero
         html += `
             <div class="chapter-hero">
-                <div class="hero-ornament">❊ ❊ ❊</div>
                 <h2 class="hero-title-in">${escapeHTML(chapter.titleIndo)}</h2>
                 ${chapter.mukaddimah ? `<div class="hero-mukaddimah">${escapeHTML(chapter.mukaddimah)}</div>` : ''}
             </div>

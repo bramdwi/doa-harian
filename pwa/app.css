@@ -291,16 +291,9 @@ body {
 /* Chapter Heading */
 .chapter-hero {
     text-align: center;
-    padding: 16px 8px 22px 8px;
+    padding: 10px 8px 18px 8px;
     border-bottom: 1px solid var(--bg-card-border);
     margin-bottom: 18px;
-}
-
-.hero-ornament {
-    color: var(--gold-primary);
-    font-size: 1.1rem;
-    letter-spacing: 4px;
-    margin-bottom: 6px;
 }
 
 .hero-title-ar {
