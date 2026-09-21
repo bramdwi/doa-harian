@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sholawat 40</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+
+    <style>
+        @font-face {
+            font-family: 'Amiri';
+            src: local('Amiri'),
+                 url('../fonts/Amiri-Regular.ttf') format('truetype'),
+                 url('../Amiri-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Amiri';
+            src: local('Amiri Bold'),
+                 local('Amiri-Bold'),
+                 url('../fonts/Amiri-Bold.ttf') format('truetype'),
+                 url('../Amiri-Bold.ttf') format('truetype');
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        /* Fallback / alias */
+        @font-face {
+            font-family: 'ArabicFont';
+            src: local('Amiri'),
+                 url('../fonts/Amiri-Regular.ttf') format('truetype'),
+                 url('../Amiri-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond'),
+                 url('../fonts/CormorantGaramond-Var.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond Italic'),
+                 url('../fonts/CormorantGaramond-Italic-Var.ttf') format('truetype');
+            font-weight: normal;
+            font-style: italic;
+        }
+
+        @page {
+            size: A5;
+            margin: 14mm 15mm 13mm 15mm;
+            background-color: #FAF6EC;
+        }
+
+        body {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 12.5pt;
+            line-height: 1.45;
+            color: #2B2016;
+            background-color: #FAF6EC;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Header Bab */
+        .header-bab {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #D8C69E;
+        }
+
+        .ornamen-top {
+            color: #B8935A;
+            font-size: 11pt;
+            letter-spacing: 4px;
+            margin-bottom: 4px;
+        }
+
+        .judul-bab-arab {
+            font-family: 'Amiri', 'ArabicFont', serif;
+            font-size: 21pt;
+            font-weight: bold;
+            color: #2B2016;
+            margin: 12px 0 6px 0;
+            direction: rtl;
+        }
+
+        .judul-bab-indo {
+            font-style: italic;
+            font-size: 13pt;
+            color: #967140;
+            margin: 0;
+        }
+
+        /* Mukaddimah */
+        .mukaddimah {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .mukaddimah-arab {
+            font-family: 'Amiri', 'ArabicFont', serif;
+            font-size: 19pt;
+            line-height: 1.95;
+            direction: rtl;
+            color: #2B2016;
+            margin-top: 10px;
+            margin-bottom: 8px;
+        }
+
+        /* Blok Doa */
+        .doa-blok {
+            page-break-inside: auto;
+            margin-bottom: 16px;
+            position: relative;
+        }
+
+        /* Meta / Nomor Doa */
+        .doa-header {
+            text-align: center;
+            margin-bottom: 8px;
+            position: relative;
+        }
+
+        .nomor-doa {
+            display: inline-block;
+            width: 5.5mm;
+            height: 5.5mm;
+            line-height: 5.5mm;
+            border-radius: 50%;
+            background-color: #FAF6EC;
+            border: 1px solid #B8935A;
+            color: #967140;
+            font-size: 8.5pt;
+            font-weight: bold;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        .garis-pembatas-top {
+            border-top: 1px solid #D8C69E;
+            margin-top: -2.75mm;
+            margin-bottom: 8px;
+            z-index: -1;
+        }
+
+        /* Teks Arab */
+        .teks-arab {
+            font-family: 'Amiri', 'ArabicFont', serif;
+            font-size: 20.5pt;
+            line-height: 1.95;
+            text-align: center;
+            direction: rtl;
+            color: #2B2016;
+            margin-top: 14px;
+            margin-bottom: 10px;
+        }
+
+        /* Referensi Rubrikasi */
+        .referensi {
+            font-family: 'Amiri', 'ArabicFont', serif;
+            font-size: 12.5pt;
+            color: #8B3A2E;
+            text-align: center;
+            direction: rtl;
+            margin-top: 6px;
+            margin-bottom: 8px;
+        }
+
+        /* Terjemahan */
+        .label-terjemahan {
+            font-style: italic;
+            font-weight: bold;
+            color: #967140;
+        }
+
+        .terjemahan {
+            text-align: justify;
+            margin-bottom: 6px;
+            color: #2B2016;
+        }
+
+        /* Catatan / Faedah Box */
+        .catatan-box {
+            background-color: #E8DCC4;
+            border-left: 2pt solid #B8935A;
+            padding: 6px 10px;
+            font-style: italic;
+            color: #4A3B2A;
+            margin-top: 6px;
+            margin-bottom: 8px;
+            font-size: 9.5pt;
+        }
+
+        .catatan-box .label-catatan {
+            font-weight: bold;
+            color: #967140;
+            font-style: normal;
+        }
+
+        /* Pemisah Antar Doa */
+        .pemisah-doa {
+            text-align: center;
+            color: #B8935A;
+            font-size: 10pt;
+            margin: 12px 0;
+        }
+
+        /* Penutup */
+        .penutup-blok {
+            text-align: center;
+            margin-top: 25px;
+            padding-top: 10px;
+            border-top: 1px solid #D8C69E;
+        }
+
+        .penutup-arab {
+            font-family: 'Amiri', 'ArabicFont', serif;
+            font-size: 19pt;
+            font-weight: bold;
+            color: #2B2016;
+            margin-top: 14px;
+            direction: rtl;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER BAB -->
+    <div class="header-bab">
+        <div class="ornamen-top">❊ ❊ ❊</div>
+        <h1 class="judul-bab-arab">أَرْبَعُوْنَ حَدِيْثًا فِي الصَّلَاةِ وَالسَّلَامِ</h1>
+        <h2 class="judul-bab-indo">Empat Puluh Hadits Shalawat & Salam</h2>
+    </div>
+
+    <!-- MUKADDIMAH -->
+    <div class="mukaddimah">
+        <div class="mukaddimah-arab">
+            بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ<br>
+            سَلَامٌ عَلٰى عِبَادِهِ الَّذِيْنَ اصْطَفٰى ۝ سَلَامٌ عَلَى الْمُرْسَلِيْنَ ۝
+        </div>
+    </div>
+
+    <div class="pemisah-doa">۞</div>
+
+    <!-- HADITS 1 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">1</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّأَنْزِلْهُ الْمَقْعَدَ الْمُقَرَّبَ عِنْدَكَ يَوْمَ الْقِيَامَةِ ۝
+        </div>
+        <div class="referensi">(HR. At-Thabrani)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan tempatkanlah beliau pada kedudukan yang dekat di sisi-Mu pada hari kiamat.
+        </div>
+        <div class="catatan-box">
+            <span class="label-catatan">Faedah:</span> Rasulullah SAW bersabda bahwa barang siapa yang membaca shalawat ini, maka syafaat beliau wajib baginya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 2 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">2</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ الْقَائِمَةِ وَالصَّلٰوةِ النَّافِعَةِ صَلِّ عَلٰى مُحَمَّدٍ وَارْضَ عَنِّيْ رِضًى لَّا تَسْخَطُ بَعْدَهُ أَبَدًا ۝
+        </div>
+        <div class="referensi">(HR. Ahmad bin Mani' / Ibnu Abi Syaibah)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah, Tuhan pemilik seruan yang sempurna dan shalat yang bermanfaat ini! Limpahkanlah shalawat kepada Muhammad dan ridhailah aku dengan keridhaan yang setelahnya Engkau tidak akan murka kepadaku selama-lamanya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 3 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">3</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ وَصَلِّ عَلَى الْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ وَالْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ ۝
+        </div>
+        <div class="referensi">(HR. Ibnu Hibban)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad hamba-Mu dan Rasul-Mu, serta limpahkanlah shalawat kepada seluruh mukmin laki-laki dan mukmin perempuan, juga muslim laki-laki dan muslim perempuan.
+        </div>
+        <div class="catatan-box">
+            <span class="label-catatan">Faedah:</span> Abu Sa'id Al-Khudri RA meriwayatkan bahwa Rasulullah SAW bersabda: "Siapa saja orang Islam yang tidak memiliki sedekah, hendaklah ia membaca shalawat ini dalam doanya, niscaya itu menjadi zakat (pembersih) baginya."
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 4 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">4</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَارْحَمْ مُحَمَّدًا وَّآلَ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Al-Baihaqi)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad, berkahilah Muhammad dan keluarga Muhammad, serta rahmatilah Muhammad dan keluarga Muhammad, sebagaimana Engkau telah melimpahkan shalawat, berkah, dan rahmat kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 5 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">5</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Bukhari)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 6 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">6</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Muslim)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 7 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">7</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 8 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">8</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 9 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">9</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 10 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">10</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 11 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">11</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Muslim)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 12 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">12</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau telah bershalawat kepada Ibrahim. Dan berkahilah Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 13 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">13</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Ibnu Majah)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 14 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">14</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدِنِ النَّبِيِّ وَأَزْوَاجِهِ أُمَّهَاتِ الْمُؤْمِنِيْنَ وَذُرِّيَّتِهِ وَأَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Nabi Muhammad, istri-istrinya sang ummahatul mukminin (ibu kaum beriman), keturunannya, dan ahli baitnya sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+        <div class="catatan-box">
+            <span class="label-catatan">Faedah:</span> Abu Hurairah RA meriwayatkan bahwa Rasulullah SAW bersabda: "Barang siapa yang suka takarannya dipenuhi saat bershalawat kepada kami para ahlul bait, hendaklah ia membaca doa ini."
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 15 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">15</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ وَتَرَحَّمْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا تَرَحَّمْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ ۝
+        </div>
+        <div class="referensi">(HR. At-Thabari)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim dan keluarga Ibrahim. Berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim. Serta rahmatilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah merahmati Ibrahim dan keluarga Ibrahim.
+        </div>
+        <div class="catatan-box">
+            <span class="label-catatan">Faedah:</span> Abu Hurairah RA meriwayatkan bahwa siapa yang bershalawat dengan lafaz ini, maka baginya pahala timbangan yang sangat sempurna.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 16 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">16</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ فِي الْأَوَّلِيْنَ وَالْآخِرِيْنَ وَفِي الْمَلَإِ الْأَعْلٰى إِلٰى يَوْمِ الدِّينِ ۝
+        </div>
+        <div class="referensi">(HR. Al-Mu'afiri)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad di kalangan orang-orang terdahulu maupun orang-orang kemudian, serta di kalangan para malaikat tertinggi (Al-Mala'il A'la) hingga hari pembalasan.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 17 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">17</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَبَارِكْ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَارْحَمْ مُحَمَّدًا وَّآلَ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ فِي الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Ishaq bin Rahawaih / Al-Hakim)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad, serta berkahilah dan limpahkanlah salam kepada Muhammad dan keluarga Muhammad, dan rahmatilah Muhammad dan keluarga Muhammad, sebagaimana Engkau telah bershalawat, memberkahi, dan merahmati Ibrahim dan keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 18 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">18</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Ahmad & At-Thabrani)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 19 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">19</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad hamba-Mu dan Rasul-Mu sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad serta keluarga Muhammad sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 20 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">20</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Nabi Muhammad yang ummi dan keluarga Muhammad sebagaimana Engkau telah bershalawat kepada Ibrahim dan keluarga Ibrahim. Dan berkahilah Nabi Muhammad yang ummi sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 21 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">21</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ صَلَاةً تَكُوْنُ لَكَ رِضًى وَّلِحَقِّهِ أَدَاءً وَأَعْطِهِ الْوَسِيْلَةَ وَالْمَقَامَ الْمَحْمُوْدَ الَّذِيْ وَعَدْتَّهُ ۝
+        </div>
+        <div class="referensi">(Al-Qaul al-Badi')</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada keluarga Muhammad dengan shalawat yang mendatangkan keridhaan-Mu dan menjadi penunai bagi hak beliau, serta anugerahkanlah kepadanya Al-Wasilah dan kedudukan terpuji (Al-Maqam Al-Mahmud) yang telah Engkau janjikan.
+        </div>
+        <div class="catatan-box">
+            <span class="label-catatan">Faedah:</span> Ibn Abi 'Ashim RA meriwayatkan bahwa Rasulullah SAW bersabda: "Barang siapa bershalawat kepadaku dengan doa ini, wajib baginya syafaatku."
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 22 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">22</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ وَعَلٰى آلِهِ وَسَلِّمْ تَسْلِيْمًا ۝
+        </div>
+        <div class="referensi">(HR. Al-Baihaqi)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad, sang Nabi yang ummi, serta kepada keluarganya dan curahkanlah salam penghormatan yang sempurna kepadanya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 23 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">23</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ صَلِّ عَلَيْنَا مَعَهُمْ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلَيْنَا مَعَهُمْ، صَلَوَاتُ اللَّهِ وَصَلَوَاتُ الْمُؤْمِنِيْنَ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ ۝
+        </div>
+        <div class="referensi">(HR. Ibnu Abi Syaibah)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat kepada Muhammad dan kepada ahli baitnya sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Limpahkanlah shalawat kepada kami bersama mereka. Ya Allah! Berkahilah Muhammad dan ahli baitnya sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah kami bersama mereka. Semoga shalawat dari Allah dan shalawat orang-orang mukmin senantiasa tercurah kepada Muhammad, sang Nabi yang ummi.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 24 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">24</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝
+        </div>
+        <div class="referensi">(HR. Ibnu Abi 'Ashim)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Jadikanlah shalawat-Mu dan keberkahan-Mu tercurah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah menjadikannya kepada Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Dan berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 25 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">25</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            وَصَلَّى اللهُ عَلَى النَّبِيِّ الْأُمِّيِّ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Dan semoga Allah senantiasa melimpahkan shalawat kepada Nabi yang ummi.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HEADER BAGIAN TASYAHHUD / SALAM -->
+    <div class="header-bab" style="margin-top: 25px; margin-bottom: 15px;">
+        <h3 class="judul-bab-arab" style="font-size: 13pt;">صِيَغُ السَّلَامِ (التَّشَهُّدُ)</h3>
+        <h4 class="judul-bab-indo" style="font-size: 11pt;">Lafaz-lafaz Bacaan Tasyahhud & Salam</h4>
+    </div>
+
+    <!-- HADITS 26 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">26</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(HR. Bukhari & Muslim - Tasyahhud Ibnu Mas'ud RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan, shalawat, dan kebaikan hanyalah milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 27 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">27</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(HR. Muslim & An-Nasa'i - Tasyahhud Ibnu Abbas RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan, kebaikan, dan shalawat hanyalah milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 28 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">28</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ لِلَّهِ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i & Abu Dawud - Tasyahhud Ibnu Umar RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan milik Allah, segala kebaikan dan shalawat adalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 29 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">29</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، سَلَامٌ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، سَلَامٌ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i & Ibnu Majah - Tasyahhud Jabir RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan yang penuh keberkahan, shalawat, dan kebaikan hanyalah milik Allah semata. Kesejahteraan tercurah kepadamu wahai Nabi, beserta rahmat Allah dan keberkahan-Nya. Kesejahteraan tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 30 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">30</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            بِسْمِ اللَّهِ وَبِاللَّهِ، اَلتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، أَسْأَلُ اللَّهَ الْجَنَّةَ وَأَعُوْذُ بِاللَّهِ مِنَ النَّارِ ۝
+        </div>
+        <div class="referensi">(HR. An-Nasa'i - Tasyahhud Abu Sa'id al-Khudri RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Dengan menyebut nama Allah dan bersama Allah. Segala penghormatan, shalawat, dan kebaikan hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Aku memohon surga kepada Allah dan berlindung kepada Allah dari api neraka.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 31 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">31</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ لِلَّهِ الزَّاكِيَاتُ لِلَّهِ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(Al-Muwatta' Imam Malik - Tasyahhud Umar bin al-Khattab RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan milik Allah, segala amal kesucian milik Allah, segala kebaikan dan shalawat semata-mata milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 32 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">32</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            بِسْمِ اللَّهِ وَبِاللَّهِ خَيْرِ الْأَسْمَاءِ، اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ أَرْسَلَهُ بِالْحَقِّ بَشِيْرًا وَّنَذِيْرًا وَأَنَّ السَّاعَةَ آتِيَةٌ لَّا رَيْبَ فِيْهَا، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، اَللّٰهُمَّ اغْفِرْ لِيْ وَاهْدِنِيْ ۝
+        </div>
+        <div class="referensi">(HR. At-Thabrani - Tasyahhud Salman al-Farisi RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Dengan menyebut nama Allah dan bersama Allah, sebaik-baik nama. Segala penghormatan, kebaikan, dan shalawat hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya yang diutus dengan membawa kebenaran sebagai pembawa kabar gembira dan peringatan, dan sesungguhnya hari kiamat pasti datang tanpa keraguan padanya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Ya Allah, ampunilah aku dan berilah aku petunjuk.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 33 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">33</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الطَّيِّبَاتُ وَالصَّلَوَاتُ وَالْمُلْكُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud - Tasyahhud Samurah bin Jundab RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan, kebaikan, shalawat, dan kerajaan alam semesta hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 34 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">34</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            بِسْمِ اللَّهِ، اَلتَّحِيَّاتُ لِلَّهِ، اَلصَّلَوَاتُ لِلَّهِ، اَلزَّاكِيَاتُ لِلَّهِ، اَلسَّلَامُ عَلَى النَّبِيِّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، شَهِدْتُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ، شَهِدْتُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ ۝
+        </div>
+        <div class="referensi">(Al-Muwatta' & Sunan Al-Baihaqi - Tasyahhud Ibnu Umar RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Dengan nama Allah, segala penghormatan milik Allah, segala shalawat milik Allah, segala kesucian milik Allah semata. Semoga keselamatan senantiasa tercurah kepada Nabi beserta rahmat Allah dan keberkahan-Nya. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah utusan Allah.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 35 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">35</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝
+        </div>
+        <div class="referensi">(Syarh Ma'ani al-Atsar li Ath-Thahawi - Tasyahhud Abu Musa al-Asy'ari RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan, kebaikan, shalawat, dan kesucian hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan bahwa Muhammad adalah hamba dan utusan-Nya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 36 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">36</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُوْلُهُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝
+        </div>
+        <div class="referensi">(Al-Muwatta' Imam Malik - Tasyahhud Sayyidah Aisyah RA)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan, kebaikan, shalawat, dan kesucian hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba Allah dan utusan-Nya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 37 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">37</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝
+        </div>
+        <div class="referensi">(Syarh Ma'ani al-Atsar li Ath-Thahawi - Riwayat Al-Hasan Al-Bashri)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan dan shalawat hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 38 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">38</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ لِلَّهِ الصَّلَوَاتُ الطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝
+        </div>
+        <div class="referensi">(HR. Abu Dawud & Al-Baihaqi)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan milik Allah, serta shalawat dan kebaikan semata-mata milik-Nya. Semoga keselamatan serta rahmat Allah senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 39 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">39</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ ۝
+        </div>
+        <div class="referensi">(HR. Muslim - Lafaz Asy-Syafi'i / Sunan Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Segala penghormatan yang penuh keberkahan, shalawat, dan kebaikan semata-mata milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah utusan Allah.
+        </div>
+    </div>
+    <div class="pemisah-doa">۞</div>
+    <!-- HADITS 40 -->
+    <div class="doa-blok">
+        <div class="doa-header">
+            <span class="nomor-doa">40</span>
+            <div class="garis-pembatas-top"></div>
+        </div>
+        <div class="teks-arab">
+            بِسْمِ اللَّهِ وَالسَّلَامُ عَلٰى رَسُوْلِ اللَّهِ ۝
+        </div>
+        <div class="referensi">(HR. Al-Hakim dalam Al-Mustadrak / Ibnu Majah & Abu Dawud)</div>
+        <div class="terjemahan">
+            <span class="label-terjemahan">Terjemahan:</span> Dengan menyebut nama Allah dan semoga keselamatan senantiasa tercurah kepada Rasulullah.
+        </div>
+    </div>
+    <!-- PENUTUP -->
+    <div class="penutup-blok">
+        <div class="penutup-arab">
+            وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِيْنَ
+        </div>
+    </div>
+
+</body>
+
+</html>

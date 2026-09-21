@@ -1,0 +1,38 @@
+{
+  "name": "Doa Harian — Mukhtashar Al-Hizbul A'zham & Sholawat 40",
+  "short_name": "Doa Harian",
+  "description": "Kumpulan doa harian 7 Hizib Mukhtashar Al-Hizbul A'zham & 40 Hadits Shalawat & Salam",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EC",
+  "theme_color": "#FAF6EC",
+  "orientation": "portrait-primary",
+  "categories": ["books", "lifestyle", "education"],
+  "icons": [
+    {
+      "src": "pwa/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "pwa/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

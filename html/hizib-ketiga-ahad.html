@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Hizib Ketiga - Hari Ahad</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+
+  <style>
+        @font-face {
+            font-family: 'Amiri';
+            src: local('Amiri'),
+                 url('../fonts/Amiri-Regular.ttf') format('truetype'),
+                 url('../Amiri-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Amiri';
+            src: local('Amiri Bold'),
+                 local('Amiri-Bold'),
+                 url('../fonts/Amiri-Bold.ttf') format('truetype'),
+                 url('../Amiri-Bold.ttf') format('truetype');
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        /* Fallback / alias */
+        @font-face {
+            font-family: 'ArabicFont';
+            src: local('Amiri'),
+                 url('../fonts/Amiri-Regular.ttf') format('truetype'),
+                 url('../Amiri-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond'),
+                 url('../fonts/CormorantGaramond-Var.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond Italic'),
+                 url('../fonts/CormorantGaramond-Italic-Var.ttf') format('truetype');
+            font-weight: normal;
+            font-style: italic;
+        }
+
+        @page {
+      size: A5;
+      margin: 14mm 15mm 13mm 15mm;
+      background-color: #FAF6EC;
+    }
+
+    body {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 12.5pt;
+      line-height: 1.45;
+      color: #2B2016;
+      background-color: #FAF6EC;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Header Bab */
+    .header-bab {
+      text-align: center;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #D8C69E;
+    }
+    .ornamen-top {
+      color: #B8935A;
+      font-size: 11pt;
+      letter-spacing: 4px;
+      margin-bottom: 4px;
+    }
+    .judul-bab-arab {
+      font-family: 'Amiri', 'ArabicFont', serif;
+      font-size: 21pt;
+      font-weight: bold;
+      color: #2B2016;
+      margin: 12px 0 6px 0;
+      direction: rtl;
+    }
+    .judul-bab-indo {
+      font-style: italic;
+      font-size: 13pt;
+      color: #967140;
+      margin: 0;
+    }
+
+    /* Blok Doa */
+    .doa-blok {
+      page-break-inside: auto;
+      margin-bottom: 16px;
+      position: relative;
+    }
+
+    /* Meta / Nomor Doa */
+    .doa-header {
+      text-align: center;
+      margin-bottom: 8px;
+      position: relative;
+    }
+    .nomor-doa {
+      display: inline-block;
+      width: 5.5mm;
+      height: 5.5mm;
+      line-height: 5.5mm;
+      border-radius: 50%;
+      background-color: #FAF6EC;
+      border: 1px solid #B8935A;
+      color: #967140;
+      font-size: 8.5pt;
+      font-weight: bold;
+      text-align: center;
+      margin: 0 auto;
+    }
+    .garis-pembatas-top {
+      border-top: 1px solid #D8C69E;
+      margin-top: -2.75mm;
+      margin-bottom: 8px;
+      z-index: -1;
+    }
+
+    /* Teks Arab */
+    .teks-arab {
+      font-family: 'Amiri', 'ArabicFont', serif;
+      font-size: 20.5pt;
+      line-height: 1.95;
+      text-align: center;
+      direction: rtl;
+      color: #2B2016;
+      margin-top: 14px;
+      margin-bottom: 10px;
+    }
+
+    /* Referensi Rubrikasi */
+    .referensi {
+      font-family: 'Amiri', 'ArabicFont', serif;
+      font-size: 12.5pt;
+      color: #8B3A2E;
+      text-align: center;
+      direction: rtl;
+      margin-top: 6px;
+      margin-bottom: 8px;
+    }
+
+    /* Terjemahan */
+    .label-terjemahan {
+      font-style: italic;
+      font-weight: bold;
+      color: #967140;
+    }
+    .terjemahan {
+      text-align: justify;
+      margin-bottom: 6px;
+      color: #2B2016;
+    }
+
+    /* Catatan / Faedah Box */
+    .catatan-box {
+      background-color: #E8DCC4;
+      border-left: 2pt solid #B8935A;
+      padding: 6px 10px;
+      font-style: italic;
+      color: #4A3B2A;
+      margin-top: 6px;
+      margin-bottom: 8px;
+      font-size: 9.5pt;
+    }
+    .catatan-box .label-catatan {
+      font-weight: bold;
+      color: #967140;
+      font-style: normal;
+    }
+
+    /* Pemisah Antar Doa */
+    .pemisah-doa {
+      text-align: center;
+      color: #B8935A;
+      font-size: 10pt;
+      margin: 12px 0;
+    }
+
+    /* Penutup */
+    .penutup-blok {
+      text-align: center;
+      margin-top: 25px;
+      padding-top: 10px;
+      border-top: 1px solid #D8C69E;
+    }
+    .penutup-arab {
+      font-family: 'Amiri', 'ArabicFont', serif;
+      font-size: 19pt;
+      font-weight: bold;
+      color: #2B2016;
+      margin-top: 14px;
+      direction: rtl;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER BAB -->
+  <div class="header-bab">
+    <div class="ornamen-top">❊ ❊ ❊</div>
+    <h1 class="judul-bab-arab">الحِزْبُ الثَّالِثُ (يَوْمُ الْأَحَدِ)</h1>
+    <h2 class="judul-bab-indo">Hizib Ketiga untuk Hari Ahad</h2>
+  </div>
+
+  <!-- DOA 1 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">1</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝
+    </div>
+    <div class="referensi">(QS. Al-Fatihah: 1-7)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 2 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">2</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلٰوةِ وَالتَّسْلِيْمِ عَلٰى حَبِيْبِكَ سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ الَّذِيْ أَكْرَمْتَهُ بِأَكْمَلِ الْخُلُقِ حَيْثُ قُلْتَ فِيْ حَقِّهِ "وَإِنَّكَ لَعَلٰى خُلُقٍ عَظِيْمٍ"
+    </div>
+    <div class="referensi">(QS. Al-Qalam: 4)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat dan salam yang paling mulia kepada kekasih-Mu, hamba-Mu dan Rasul-Mu, pemimpin dan Nabi kami Muhammad SAW, yang telah Engkau muliakan dengan akhlak yang paling sempurna, sebagaimana Engkau berfirman mengenai beliau: <em>"Dan sesungguhnya engkau benar-benar berbudi pekerti yang agung."</em>
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Allah Ta'ala sendiri yang menyifati keagungan akhlak Nabi SAW. Betapa luar biasa tingginya kemuliaan beliau yang diakui langsung oleh Sang Pencipta alam semesta.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 3 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">3</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ لَكَ الْحَمْدُ كَمَا أَنْتَ أَهْلُهُ فَصَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ كَمَا أَنْتَ أَهْلُهُ وَافْعَلْ بِنَا مَا أَنْتَ أَهْلُهُ فَإِنَّكَ أَهْلُ التَّقْوٰى وَأَهْلُ الْمَغْفِرَةِ
+    </div>
+    <div class="referensi">(Fadhail ash-Shalawat)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Hanya bagi-Mu segala puji sebagaimana yang layak bagi keagungan-Mu, maka limpahkanlah shalawat dan salam kepada Sayyidina Muhammad sebagaimana yang layak bagi keagungan-Mu, dan perlakukanlah kami sesuai dengan kemurahan yang layak bagi keagungan-Mu, sesungguhnya Engkau adalah Zat yang berhak untuk ditakuti dan berhak memberikan ampunan.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Allamah Ibnul Mushtahar Rahimahullah menyatakan barang siapa yang ingin memuji Allah, membaca shalawat kepada Nabi SAW, dan berdoa dengan ucapan yang paling utama dibandingkan yang pernah diucapkan seluruh makhluk, hendaknya ia merutinkan bacaan ini.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 4 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">4</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ أَوْزِعْنِيْ أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِيْ أَنْعَمْتَ عَلَيَّ وَعَلٰى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِيْ فِيْ ذُرِّيَّتِيْ إِنِّيْ تُبْتُ إِلَيْكَ وَإِنِّيْ مِنَ الْمُسْلِمِيْنَ
+    </div>
+    <div class="referensi">(QS. Al-Ahqaf: 15)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Berilah aku petunjuk untuk tetap mensyukuri nikmat-Mu yang telah Engkau anugerahkan kepadaku dan kepada kedua ibu bapakku dan supaya aku dapat mengerjakan amal saleh yang Engkau ridhai; berilah kebaikan kepadaku dengan (memberi kebaikan) kepada anak cucuku. Sesungguhnya aku bertaubat kepada-Mu dan sesungguhnya aku termasuk orang-orang yang berserah diri.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Ayat ini turun berkenaan dengan Sayyidina Abu Bakar Ash-Shiddiq RA. Berkat doa ini, kedua orang tua, anak-anak, serta saudara beliau dianugerahi hidayah Islam. Sangat dianjurkan dibaca untuk memohon kesalehan dan hidayah bagi anak keturunan serta keluarga.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 5 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">5</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِيْنَ سَبَقُوْنَا بِالْإِيْمَانِ وَلَا تَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ آمَنُوْا رَبَّنَا إِنَّكَ رَءُوْفٌ رَّحِيْمٌ
+    </div>
+    <div class="referensi">(QS. Al-Hasyr: 10)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Ampunilah kami dan saudara-saudara kami yang telah beriman lebih dahulu dari kami, dan janganlah Engkau membiarkan kedengkian dalam hati kami terhadap orang-orang yang beriman; Ya Tuhan kami, Sesungguhnya Engkau Maha Penyayang lagi Maha Penyayang.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa ini diajarkan Al-Qur'an untuk memohonkan ampunan bagi kaum mukminin terdahulu, khususnya para Sahabat Nabi SAW, serta menjaga hati dari rasa benci dan dengki sesama muslim.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 6 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">6</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ بِأَنِّيْ أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلٰهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَّهُ كُفُوًا أَحَدٌ
+    </div>
+    <div class="referensi">(HR. Abu Dawud, Tirmidzi & An-Nasa'i)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Aku memohon kepada-Mu dengan bersaksi bahwa Engkaulah Allah, tidak ada Tuhan selain Engkau, Yang Maha Esa, tempat bergantung segala sesuatu, yang tidak beranak dan tidak diperanakkan, serta tidak ada seorang pun yang setara dengan-Nya.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Hadis menyebutkan bahwa dalam doa ini terdapat Ismul A'zham (Nama Allah yang Paling Agung). Apabila seseorang berdoa mendahuluinya dengan lafaz ini, doanya pasti dikabulkan.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 7 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">7</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِيْ دِيْنِيْ وَدُنْيَايَ وَأَهْلِيْ وَمَالِيْ
+    </div>
+    <div class="referensi">(HR. Abu Dawud & An-Nasa'i)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Aku memohon ampunan dan keselamatan ('afiat) dalam agamaku, duniaku, keluargaku, dan hartaku.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa memohon 'afiat (keselamatan & kedamaian) adalah doa yang paling dicintai Allah Ta'ala karena mencerminkan permohonan perlindungan dan perhambaan yang tulus.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 8 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">8</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ أَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلَا تَكِلْنِيْ إِلٰى نَفْسِيْ طَرْفَةَ عَيْنٍ
+    </div>
+    <div class="referensi">(HR. An-Nasa'i & Al-Hakim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Wahai Yang Maha Hidup, wahai Yang Maha Berdiri Sendiri, dengan rahmat-Mu aku memohon pertolongan. Perbaikilah seluruh urusanku dan janganlah Engkau serahkan diriku kepada diriku sendiri walau sekejap mata pun.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Mengandung Ismul A'zham. Rasulullah SAW sangat sering membaca doa ini dan mewasiatkan kepada Sayyidatina Fatima RADHIYALLAHU 'ANHA untuk membacanya setiap pagi dan petang.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 9 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">9</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ صِحَّةً فِيْ إِيْمَانٍ وَإِيْمَانًا فِيْ حُسْنِ خُلُقٍ وَنَجَاةً يَّتْبَعُهَا فَلَاحٌ وَرَحْمَةً مِّنْكَ وَعَافِيَةً وَمَغْفِرَةً مِّنْكَ وَرِضْوَانًا
+    </div>
+    <div class="referensi">(Al-Mu'jam al-Ausath At-Thabrani)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Aku memohon kepada-Mu kebenaran/kesempurnaan dalam iman, iman yang disertai akhlak yang baik, keselamatan yang diiringi keberhasilan/kejayaan, serta rahmat, 'afiat, ampunan, dan keridhaan dari sisi-Mu.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Rasulullah SAW mengajarkan doa ini kepada Sahabat Salman Al-Farisi RA dan menyebutnya sebagai "Kalimat-kalimat Ar-Rahman". Beliau berpesan agar menjadikannya doa harian siang dan malam.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 10 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">10</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ اغْفِرْ لِيْ ذَنْبِيْ وَوَسِّعْ لِيْ فِيْ دَارِيْ وَبَارِكْ لِيْ فِيْ رِزْقِيْ
+    </div>
+    <div class="referensi">(HR. An-Nasa'i)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Ampunilah dosaku, luaskanlah kediamanku/rumahku, dan berkahilah rezekiku.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa ringkas yang sangat padat mencakup pengampunan dosa, kelapangan tempat tinggal, dan keberkahan rezeki. Disunnahkan dibaca saat berwudhu.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 11 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">11</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ اجْعَلْ فِيْ قَلْبِيْ نُوْرًا وَفِيْ بَصَرِيْ نُوْرًا وَفِيْ سَمْعِيْ نُوْرًا وَعَنْ يَّمِيْنِيْ نُوْرًا وَعَنْ شِمَالِيْ نُوْرًا وَمِنْ خَلْفِيْ نُوْرًا وَمِنْ أَمَامِيْ نُوْرًا وَاجْعَلْ مِنْ فَوْقِيْ نُوْرًا وَمِنْ تَحْتِيْ نُوْرًا ۝ اَللّٰهُمَّ أَعْطِنِيْ نُوْرًا وَاجْعَلْ لِيْ نُوْرًا وَفِيْ عَصَبِيْ نُوْرًا وَفِيْ لَحْمِيْ نُوْرًا وَفِيْ دَمِيْ نُوْرًا وَفِيْ شَعْرِيْ نُوْرًا وَفِيْ بَشَرِيْ نُوْرًا وَفِيْ لِسَانِيْ نُوْرًا وَاجْعَلْ فِيْ نَفْسِيْ نُوْرًا وَأَعْظِمْ لِيْ نُوْرًا وَاجْعَلْنِيْ نُوْرًا
+    </div>
+    <div class="referensi">(HR. Bukhari & Muslim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Jadikanlah cahaya di dalam hatiku, cahaya pada penglihatanku, cahaya pada pendengaranku, cahaya di sebelah kananku, cahaya di sebelah kiriku, cahaya di belakangku, cahaya di depanku, cahaya di atasku, dan cahaya di bawahku. Ya Allah! Berilah aku cahaya, jadikanlah bagiku cahaya, pada sarafku cahaya, pada dagingku cahaya, pada darahku cahaya, pada rambutku cahaya, pada kulitku cahaya, pada lisanku cahaya, jadikanlah pada jiwaku cahaya, agungkanlah cahayaku, dan jadikanlah seluruh diriku sebagai cahaya.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa ini disunnahkan dibaca saat melangkah menuju masjid untuk shalat atau ketika mendirikan shalat Tahajud. Cahaya yang dimaksud adalah petunjuk, kejernihan hakikat, serta perlindungan dari kesesatan di dunia dan kegelapan akhirat.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 12 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">12</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلٰوةِ وَالتَّسْلِيْمِ عَلٰى حَبِيْبِكَ سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ الَّذِيْ جَعَلْتَهُ نُوْرًا حَيْثُ قُلْتَ "قَدْ جَاءَكُمْ مِّنَ اللَّهِ نُورٌ وَكِتَابٌ مُّبِينٌ"
+    </div>
+    <div class="referensi">(QS. Al-Ma'idah: 15)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat dan salam yang paling mulia kepada kekasih-Mu, hamba-Mu, Rasul-Mu, pemimpin dan Nabi kami Muhammad SAW, yang telah Engkau jadikan sebagai cahaya, sebagaimana Engkau berfirman mengenai beliau: <em>"Sesungguhnya telah datang kepadamu cahaya dari Allah, dan Kitab yang menerangkan."</em>
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Ayat ini menegaskan kedudukan Sayyidina Rasulullah SAW sebagai 'Nur' (cahaya petunjuk) yang menerangi kegelapan alam semesta.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 13 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">13</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ لَا تَجْعَلْ مُصِيْبَتَنَا فِيْ دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا
+    </div>
+    <div class="referensi">(Hisn Hasin / HR. Tirmidzi)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Janganlah Engkau jadikan musibah kami menimpa agama kami, janganlah Engkau jadikan dunia sebagai cita-cita terbesar kami dan puncak pengetahuan kami, serta janganlah Engkau kuasakan atas kami orang yang tidak menyayangi kami.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 14 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">14</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ أَعْطِ نَفْسِيْ تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا أَنْتَ وَلِيُّهَا وَمَوْلَاهَا
+    </div>
+    <div class="referensi">(Musnad Ahmad & HR. Muslim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Berikanlah ketakwaan kepada jiwaku dan suci-bersihkanlah ia, Engkaulah sebaik-baik Zat yang menyucikannya, Engkaulah Pelindung dan Pemiliknya.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Ibunda Aisyah RADHIYALLAHU 'ANHA pernah mendengar Rasulullah SAW membaca doa ini dalam sujud shalat malam beliau. Merupakan doa terutaman untuk tazkiyatun nafs (penyucian jiwa).
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 15 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">15</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ حَاسِبْنِيْ حِسَابًا يَّسِيْرًا
+    </div>
+    <div class="referensi">(Mustadrak Al-Hakim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Periksalah/hisablah aku dengan pemeriksaan yang mudah.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa yang amat penting untuk keselamatan akhirat, karena barang siapa yang hisabnya dipermudah oleh Allah, maka ia dipastikan selamat dan masuk surga.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 16 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">16</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ أَعِنِّيْ عَلٰى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ
+    </div>
+    <div class="referensi">(HR. Abu Dawud & An-Nasa'i)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Tolonglah aku untuk senantiasa mengingat-Mu, bersyukur kepada-Mu, dan beribadah kepada-Mu dengan cara yang terbaik.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa ini diajarkan langsung oleh Rasulullah SAW kepada Sahabat Mu'adz bin Jabal RA dan disunnahkan dibaca seusai shalat fardhu.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 17 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">17</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ أَصْلِحْ لِيْ دِيْنِيَ الَّذِيْ هُوَ عِصْمَةُ أَمْرِيْ وَأَصْلِحْ لِيْ دُنْيَايَ الَّتِيْ فِيْهَا مَعَاشِيْ وَأَصْلِحْ لِيْ آخِرَتِيَ الَّتِيْ فِيْهَا مَعَادِيْ
+    </div>
+    <div class="referensi">(HR. Muslim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Perbaikilah bagiku agamaku yang menjadi benteng/pelindung urusanku, perbaikilah duniaku yang menjadi tempat penghidupanku, dan perbaikilah akhiratku yang menjadi tempat kembalikanku.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa Nabawi komprehensif yang memohon kebaikan dan keseimbangan hidup mencakup aspek agama, kehidupan dunia, dan keselamatan masa depan di akhirat.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 18 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">18</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ اغْفِرْ وَارْحَمْ إِنَّكَ أَنْتَ الْأَعَزُّ الْأَكْرَمُ
+    </div>
+    <div class="referensi">(Mushannaf Ibnu Abi Syaibah / As-Sunan Al-Kubra Al-Baihaqi)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Ampunilah dan rahmati (aku), sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Mulia.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 19 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">19</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ نَجِّنِيْ مِنَ الْقَوْمِ الظَّالِمِيْنَ
+    </div>
+    <div class="referensi">(QS. Al-Qashas: 21)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Selamatkanlah aku dari orang-orang yang zalim itu.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa Nabi Musa 'Alaihissalam ketika terancam oleh kekejaman Firaun dan kaumnya. Ampuh untuk memohon keselamatan dari kedzaliman.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 20 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">20</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ انْصُرْنِيْ عَلَى الْقَوْمِ الْمُفْسِدِيْنَ
+    </div>
+    <div class="referensi">(QS. Al-'Ankabut: 30)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Tolonglah aku (dengan menimpakan azab) atas kaum yang berbuat kerusakan itu.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Doa Nabi Luth 'Alaihissalam untuk memohon pertolongan Allah menghadapi para perusak moral dan kejahatan di masyarakat.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 21 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">21</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      رَبِّ إِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ
+    </div>
+    <div class="referensi">(QS. Al-Qashas: 16)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Tuhanku! Sesungguhnya aku telah aniaya terhadap diriku sendiri, sebab itu ampunilah aku.
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Lafaz istighfar yang sangat ringkas namun padat dari Nabi Musa 'Alaihissalam.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 22 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">22</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ
+    </div>
+    <div class="referensi">(HR. Tirmidzi)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad SAW, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad SAW. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.
+    </div>
+  </div>
+
+  <div class="pemisah-doa">۞</div>
+
+  <!-- DOA 23 -->
+  <div class="doa-blok">
+    <div class="doa-header">
+      <span class="nomor-doa">23</span>
+      <div class="garis-pembatas-top"></div>
+    </div>
+    <div class="teks-arab">
+      اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلٰوةِ وَالتَّسْلِيْمِ عَلٰى حَبِيْبِكَ سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ الَّذِيْ قَالَ عَنْ نَّفْسِهِ "أَنَا سَيِّدُ وَلَدِ آدَمَ وَلَا فَخْرَ"
+    </div>
+    <div class="referensi">(HR. Muslim)</div>
+    <div class="terjemahan">
+      <span class="label-terjemahan">Terjemahan:</span> Ya Allah! Limpahkanlah shalawat dan salam yang paling mulia kepada kekasih-Mu, hamba-Mu, Rasul-Mu, pemimpin dan Nabi kami Muhammad SAW, yang bersabda mengenai dirinya sendiri: <em>"Aku adalah pemimpin seluruh anak cucu Adam, dan aku tidak sombong (menyampaikan hal ini)."</em>
+    </div>
+    <div class="catatan-box">
+      <span class="label-catatan">Faedah:</span> Menegaskan kedudukan Rasulullah SAW sebagai pemimpin tertinggi seluruh umat manusia dari awal hingga akhir zaman.
+    </div>
+  </div>
+
+  <!-- PENUTUP -->
+  <div class="penutup-blok">
+    <div class="penutup-arab">
+      وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِيْنَ
+    </div>
+  </div>
+
+</body>
+</html>
