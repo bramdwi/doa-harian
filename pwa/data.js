@@ -17,7 +17,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Surah Al-Fatihah di sini dibaca dengan niat memuji Allah dan berdoa. Orang yang sedang haid atau junub diperbolehkan membacanya dengan niat doa (Radd al-Muhtar hlm. 302), namun tidak boleh menyentuh mushafnya langsung. Dalam hadis diriwayatkan bahwa Al-Fatihah mengandung penawar bagi segala penyakit (HR. Ad-Darimi), dan pahalanya setara dengan dua pertiga Al-Qur'an (Fadhail Al-Qur'an). Para masyaikh menyebutkan bahwa membacanya dengan iman dan keyakinan akan menjadi obat segala penyakit lahir-batin, serta ayat <em>Iyyāka na'budu wa iyyāka nasta'īn</em> mencakup seluruh cita-cita duniawi dan ukhrawi."
         },
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin. (Aamiin)."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "jumat-2",
@@ -29,7 +29,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Perintah shalawat dalam ayat ini diawali dengan penghormatan yang sangat istimewa, di mana Allah SWT sendiri bershalawat kepada Nabi sebelum memerintahkan hamba-Nya. Ini menunjukkan betapa agungnya kedudukan Nabi ﷺ di sisi Allah. Tidak ada ibadah lain yang diperintahkan dengan tata cara dan keagungan seperti ini."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulika nabiyyir-rahmatilladzi amartal-mu'minina bish-shalati was-salami 'alaihi fi kitabika fabada'ta bish-shalati 'alaihi binafsika wa tsannaita bimala'ikatika faqulta ya man jalla sya'nuk: \"Innallaha wa mala'ikatahu yushalluna 'alan-nabiyy, ya ayyuhalladzina amanu shallu 'alaihi wa sallimu taslima.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlika nabiyyir-rahmatilladzī amartal-mu'minīna bish-shalāti was-salāmi 'alaihi fī kitābika fabada'ta bish-shalāti 'alaihi binafsika wa tsannaita bimalā'ikatika faqulta yā man jalla sya'nuk: \"Innallāha wa malā'ikatahū yushallūna 'alan-nabiyy, yā ayyuhalladzīna āmanū shallū 'alaihi wa sallimū taslīmā.\""
       },
       {
         "id": "jumat-3",
@@ -41,7 +41,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Sayyidina Abdullah bin Mas'ud RA menganjurkan agar ketika membaca shalawat, hendaknya kita mengucapkannya dengan cara yang terbaik dan paling sempurna."
         },
-        "latin": "Allahummaj'al shalawatika wa rahmataka wa barakatika 'ala sayyidil-mursalina wa imamil-muttaqina wa khatamin-nabiyyina Muhammadin 'abdika wa rasulika imamil-khairi wa qa'idil-khairi wa rasulir-rahmah. Allahummab'atshu maqamam-mahmuday-yaghbithuhu bihil-awwaluna wal-akhirun. Allahumma shalli 'ala Muhammadin wa 'ala ali Muhammadin kama shallaita 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid. Allahumma barik 'ala Muhammadin wa 'ala ali Muhammadin kama barakta 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhummaj'al shalawātika wa rahmataka wa barakātika 'alā sayyidil-mursalīna wa imāmil-muttaqīna wa khātamin-nabiyyīna Muhammadin 'abdika wa rasūlika imāmil-khairi wa qā'idil-khairi wa rasūlir-rahmah. Allāhummab'atshu maqāmam-mahmūday-yaghbithuhū bihil-awwalūna wal-ākhirūn. Allāhumma shalli 'alā Muhammadin wa 'alā āli Muhammadin kamā shallaita 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alā Muhammadin wa 'alā āli Muhammadin kamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "jumat-4",
@@ -53,7 +53,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Diriwayatkan dari Abu Hurairah RA bahwa siapa saja yang ingin pahala shalawatnya ditimbang dengan takaran yang paling sempurna untuk ahli bait Nabi, hendaknya membaca lafaz shalawat ini."
         },
-        "latin": "Allahumma shalli 'ala Muhammadinin-nabiyyi wa azwajihi ummahatil-mu'minina wa dzurriyyatihi wa ahli baitihi kama shallaita 'ala Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadinin-nabiyyi wa azwājihī ummahātil-mu'minīna wa dzurriyyatihī wa ahli baitihī kamā shallaita 'alā Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "jumat-5",
@@ -65,7 +65,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Sahabat Ruwaifi' RA menyampaikan bahwa barang siapa membaca doa ini, maka syafaat Nabi ﷺ wajib baginya."
         },
-        "latin": "Allahumma shalli 'ala Muhammadin wa anzilhul-maq'adal-muqarraba 'indaka yaumal-qiyamah."
+        "latin": "Allāhumma shalli 'alā Muhammadin wa anzilhul-maq'adal-muqarraba 'indaka yaumal-qiyāmah."
       },
       {
         "id": "jumat-6",
@@ -77,7 +77,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Pembaca shalawat ini mendapatkan penghormatan khusus dari Nabi ﷺ dengan didudukkan sangat dekat di sisi beliau."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin wa 'ala ali (sayyidina) Muhammadin kama tuhibbu wa tardha lah."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā āli (sayyidinā) Muhammadin kamā tuhibbu wa tardhā lah."
       },
       {
         "id": "jumat-7",
@@ -89,7 +89,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Diriwayatkan dari Ibnu Mas'ud RA. Orang yang memohonkan Wasilah bagi Nabi ﷺ dijamin akan mendapatkan syafaat beliau."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin wa ablighhul-wasilata wad-darajatar-rafi'ata minal-jannah. Allahummaj'al fil-mushthafaina mahabbatahu wa fil-muqarrabina mawaddatahu wa fil-a'laina dzikrah, was-salamu 'alaihi wa rahmatullahi wa barakatuh."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin wa ablighhul-wasīlata wad-darajatar-rafī'ata minal-jannah. Allāhummaj'al fil-mushthafaina mahabbatahū wa fil-muqarrabīna mawaddatahū wa fil-a'laina dzikrah, was-salāmu 'alaihi wa rahmatullāhi wa barakātuh."
       },
       {
         "id": "jumat-8",
@@ -101,7 +101,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Barang siapa membaca shalawat ini, dianjurkan membacanya 70 kali saat hendak tidur dalam keadaan suci/berwudhu. Fadhilahnya adalah dianugerahi bermimpi bertemu Rasulullah ﷺ, mendapatkan syafaat, dan dijauhkan jasadnya dari api neraka."
         },
-        "latin": "Allahumma shalli 'ala ruhi (sayyidina) Muhammadin fil-arwah, wa shalli 'ala jasadi sayyidina Muhammadin fil-ajsad, wa shalli 'ala qabri sayyidina Muhammadin fil-qubur."
+        "latin": "Allāhumma shalli 'alā rūhi (sayyidinā) Muhammadin fil-arwāh, wa shalli 'alā jasadi sayyidinā Muhammadin fil-ajsād, wa shalli 'alā qabri sayyidinā Muhammadin fil-qubūr."
       },
       {
         "id": "jumat-9",
@@ -113,7 +113,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Ini adalah shalawat yang senantiasa dibaca oleh Imam Asy-Syafi'i Rahimahullah. Beliau dianugerahi ampunan dosa berkat rutinitas membaca shalawat ini."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin kullama dzakarahudz-dzakirun, wa shalli 'ala sayyidina Muhammadin kullama ghafala 'an dzikrihil-ghafilun."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin kullamā dzakarahudz-dzākirūn, wa shalli 'alā sayyidinā Muhammadin kullamā ghafala 'an dzikrihil-ghāfilūn."
       },
       {
         "id": "jumat-10",
@@ -125,7 +125,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Siapa yang membaca shalawat ini sebanyak 7 kali pada 7 hari Jumat berturut-turut, maka wajib baginya syafaat Rasulullah ﷺ."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin wa 'ala ali (sayyidina) Muhammadin shalatan takunu laka ridhan wa lihaqqihi ada'an wa a'thihil-wasilata wal-maqamal-mahmudalladzi wa'adtah, wajzihi 'anna ma huwa ahluh, wajzihi 'anna min afdhali ma jazaita nabiyyan 'an ummatih, wa shalli 'ala jami'i ikhwanihi minan-nabiyyina wash-shalihina ya arhamar-rahimin."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā āli (sayyidinā) Muhammadin shalātan takūnu laka ridhan wa lihaqqihī adā'an wa a'thihil-wasīlata wal-maqāmal-mahmūdalladzī wa'adtah, wajzihī 'annā mā huwa ahluh, wajzihī 'annā min afdhali mā jazaita nabiyyan 'an ummatih, wa shalli 'alā jamī'i ikhwānihī minan-nabiyyīna wash-shālihīna yā arhamar-rāhimīn."
       },
       {
         "id": "jumat-11",
@@ -137,7 +137,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Nabi ﷺ bersabda bahwa siapa saja yang tidak memiliki harta untuk bersedekah, hendaknya membaca shalawat ini dalam doanya sebagai sarana pembersih jiwa (<em>tazkiyah</em>)."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin 'abdika wa rasulik, wa shalli 'alal-mu'minina wal-mu'minati wal-muslimina wal-muslimat."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin 'abdika wa rasūlik, wa shalli 'alal-mu'minīna wal-mu'mināti wal-muslimīna wal-muslimāt."
       },
       {
         "id": "jumat-12",
@@ -149,7 +149,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Diriwayatkan dari Sayyidina Ali RA bahwa beliau membaca shalawat ini saat shalat jenazah Rasulullah ﷺ dan mengajarkannya kepada para sahabat."
         },
-        "latin": "Innallaha wa mala'ikatahu yushalluna 'alan-nabiyy, ya ayyuhalladzina amanu shallu 'alaihi wa sallimu taslima. Labbaika allahumma rabbi wa sa'daik, shalawatullahil-barrir-rahim, wal-mala'ikatil-muqarrabin, wan-nabiyyina wash-shiddiqina wash-syuhada'i wash-shalihin, wa ma sabbaha laka min syai'in ya rabbal-'alamin, 'ala sayyidina Muhammadibni 'Abdillah, khatamin-nabiyyina wa sayyidil-mursalina wa imamil-muttaqina wa rasuli rabbil-'alamin, asy-syahidil-basyirid-da'i ilaika bi'idznika as-sirajil-munir, wa 'alaihis-salam."
+        "latin": "Innallāha wa malā'ikatahū yushallūna 'alan-nabiyy, yā ayyuhalladzīna āmanū shallū 'alaihi wa sallimū taslīmā. Labbaika allāhumma rabbī wa sa'daik, shalawātullāhil-barrir-rahīm, wal-malā'ikatil-muqarrabīn, wan-nabiyyīna wash-shiddīqīna wash-syuhadā'i wash-shālihīn, wa mā sabbaha laka min syai'in yā rabbal-'ālamīn, 'alā sayyidinā Muhammadibni 'Abdillāh, khātamin-nabiyyīna wa sayyidil-mursalīna wa imāmil-muttaqīna wa rasūli rabbil-'ālamīn, asy-syāhidil-basyīrid-dā'ī ilaika bi'idznika as-sirājil-munīr, wa 'alaihis-salām."
       },
       {
         "id": "jumat-13",
@@ -161,7 +161,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Shalawat doa ini diriwayatkan dari Ibnu Abbas RADHIYALLAHU 'ANHUMA."
         },
-        "latin": "Allahumma taqabbal syafa'ata sayyidina Muhammadinil-kubra warfa' darajatahul-'ulya wa a'thihi su'lahu fil-akhirati wal-ula kama ataita Ibrahima wa Musa."
+        "latin": "Allāhumma taqabbal syafā'ata sayyidinā Muhammadinil-kubrā warfa' darajatahūl-'ulyā wa a'thihī su'lahū fil-ākhirati wal-ūlā kamā ātaita Ibrāhīma wa Mūsā."
       },
       {
         "id": "jumat-14",
@@ -173,7 +173,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Merupakan lafaz shalawat yang diriwayatkan dari Al-Hasan Al-Bashri Rahimahullah."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin wa 'ala ali (sayyidina) Muhammadin wa ash-habihi wa awladihi wa ahli baitihi wa dzurriyyatihi wa muhibbihi wa atba'ihi wa asy-ya'ihi wa 'alaina ma'ahum ajma'ina ya arhamar-rahimin."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā āli (sayyidinā) Muhammadin wa ash-hābihī wa awlādihī wa ahli baitihī wa dzurriyyatihī wa muhibbīhi wa atbā'ihī wa asy-yā'ihī wa 'alainā ma'ahum ajma'īna yā arhamar-rāhimīn."
       },
       {
         "id": "jumat-15",
@@ -185,7 +185,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Syekh Abu Abdullah Al-Qasthallani Rahimahullah mengadukan kesempitan rezeki dalam mimpinya kepada Nabi ﷺ, lalu Rasulullah ﷺ mengajarkan lafaz shalawat ini."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin wa 'ala ali (sayyidina) Muhammadin wa hab lanallahumma min rizqikal-halalith-thayyibil-mubaraki ma tashunu bihi wujuhana 'anit-ta'arrudhi ila ahadim-min khalqik."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin wa 'alā āli (sayyidinā) Muhammadin wa hab lanāllāhumma min rizqikal-halālith-thayyibil-mubāraki mā tashūnu bihī wujūhanā 'anit-ta'arrudhi ilā ahadim-min khalqik."
       },
       {
         "id": "jumat-16",
@@ -197,7 +197,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Dibaca setelah rangkaian shalawat sebagai doa permohonan ampunan (<em>istighfar</em>) yang mencakup seluruh umat, serta pembersih hati dari sifat dengki."
         },
-        "latin": "Allahummaghfir lil-mu'minina wal-mu'minati wal-muslimina wal-muslimat, al-ahya'i minhum wal-amwat, wa li'ikhwaninalladzina sabaquna bil-iman, wa la taj'al fi qulubina ghillal-lilladzina amanu rabbana innaka ra'ufur-rahim."
+        "latin": "Allāhummaghfir lil-mu'minīna wal-mu'mināti wal-muslimīna wal-muslimāt, al-ahyā'i minhum wal-amwāt, wa li'ikhwāninalladzīna sabaqūnā bil-īmān, wa lā taj'al fī qulūbinā ghillal-lilladzīna āmanū rabbanā innaka ra'ūfur-rahīm."
       },
       {
         "id": "jumat-17",
@@ -209,7 +209,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Dalam hadis disebutkan bahwa barang siapa membaca shalawat ini sebanyak 80 kali pada hari Jumat, maka akan diampuni dosa-dosanya selama 80 tahun."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin 'abdika wa nabiyyika wa rasulikan-nabiyyil-ummiyy."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin 'abdika wa nabiyyika wa rasūlikan-nabiyyil-ummiyy."
       },
       {
         "id": "jumat-18",
@@ -221,7 +221,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Bermanfaat sebagai penawar penyakit fisik dan batin jika dirutinkan pembacaannya."
         },
-        "latin": "Allahumma shalli wa sallim wa barik 'ala ruhi sayyidina Muhammadin fil-arwah, wa shalli wa sallim 'ala qalbi sayyidina Muhammadin fil-qulub, wa shalli wa sallim 'ala jasadi sayyidina Muhammadin fil-ajsad, wa shalli wa sallim 'ala qabri sayyidina Muhammadin fil-qubur."
+        "latin": "Allāhumma shalli wa sallim wa bārik 'alā rūhi sayyidinā Muhammadin fil-arwāh, wa shalli wa sallim 'alā qalbi sayyidinā Muhammadin fil-qulūb, wa shalli wa sallim 'alā jasadi sayyidinā Muhammadin fil-ajsād, wa shalli wa sallim 'alā qabri sayyidinā Muhammadin fil-qubūr."
       },
       {
         "id": "jumat-19",
@@ -233,7 +233,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa Nabawi ringkas yang merangkum seluruh permohonan kebaikan dunia dan akhirat."
         },
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka sayyiduna Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka sayyiduna Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka sayyidunā Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka sayyidunā Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "jumat-20",
@@ -245,7 +245,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Dikenal sebagai Shalawat Munjiyat. Dibaca sebanyak 70 kali setelah shalat Isya sebagai wasilah perlindungan dari segala bahaya dan bencana."
         },
-        "latin": "Allahumma shalli 'ala sayyidina Muhammadin shalatan tunjina biha min jami'il-ahwali wal-afat, wa taqdhi lana biha jami'al-hajat, wa tuthahhiruna biha min jami'is-sayyi'at, wa tarfa'una biha a'lad-darajat, wa tuballighuna biha aqshal-ghayati min jami'il-khairati fil-hayati wa ba'dal-mamat, innaka 'ala kulli syai'in qadir."
+        "latin": "Allāhumma shalli 'alā sayyidinā Muhammadin shalātan tunjīnā bihā min jamī'il-ahwāli wal-āfāt, wa taqdhī lanā bihā jamī'al-hājāt, wa tuthahhirunā bihā min jamī'is-sayyi'āt, wa tarfa'unā bihā a'lad-darajāt, wa tuballighunā bihā aqshal-ghāyāti min jamī'il-khairāti fil-hayāti wa ba'dal-mamāt, innaka 'alā kulli syai'in qadīr."
       }
     ]
   },
@@ -262,7 +262,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(QS. Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "sabtu-2",
@@ -274,7 +274,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Shalawat ini sesuai dengan riwayat Shahih Bukhari, merupakan lafaz shalawat yang paling shahih dan paling utama untuk dirutinkan baik dalam shalat maupun di luar shalat. Lafaz ini diajarkan langsung oleh Rasulullah ﷺ atas wahyu Allah melalui Malaikat Jibril. Para masyaikh menyebutkan bahwa kata \"Allahumma\" mewakili seluruh Asmaul Husna, sedangkan \"Hamid\" dan \"Majid\" mencerminkan seluruh sifat Jalaliyah dan Jamaliyah Allah."
         },
-        "latin": "Allahumma shalli 'ala Muhammadin wa 'ala ali Muhammadin kama shallaita 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid. Allahumma barik 'ala Muhammadin wa 'ala ali Muhammadin kama barakta 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadin wa 'alā āli Muhammadin kamā shallaita 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alā Muhammadin wa 'alā āli Muhammadin kamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sabtu-3",
@@ -286,7 +286,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Dalam Shahih Bukhari dan Muslim disebutkan bahwa doa ini adalah doa yang paling sering dibaca oleh Rasulullah ﷺ. Disunnahkan pula untuk dibaca saat melakukan Thawaf."
         },
-        "latin": "Rabbana atina fid-dunya hasanataw-wa fil-akhirati hasanataw-wa qina 'adzaban-nar."
+        "latin": "Rabbanā ātinā fid-dunyā hasanataw-wa fil-ākhirati hasanataw-wa qinā 'adzāban-nār."
       },
       {
         "id": "sabtu-4",
@@ -298,7 +298,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ diperintahkan untuk berdoa dengan ayat ini. Dalam sebuah riwayat disebutkan bahwa di dalam ayat ini terdapat Ismul A'zham (nama Allah yang paling agung), yang mana apabila seseorang berdoa dengannya maka doanya dipastikan dikabulkan."
         },
-        "latin": "Qulillahumma malikal-mulki tu'til-mulka man tasya'u wa tanzi'ul-mulka mimman tasya'u wa tu'izzu man tasya'u wa tudzillu man tasya', biyadikal-khair, innaka 'ala kulli syai'in qadir. Tulijul-laila fin-nahari wa tulijun-nahara fil-laili wa tukhrijul-hayya minal-mayyiti wa tukhrijul-mayyita minal-hayyi wa tarzuqu man tasya'u bighairi hisab."
+        "latin": "Qulillāhumma mālikal-mulki tu'til-mulka man tasyā'u wa tanzi'ul-mulka mimman tasyā'u wa tu'izzu man tasyā'u wa tudzillu man tasyā', biyadikal-khair, innaka 'alā kulli syai'in qadīr. Tūlijul-laila fin-nahāri wa tūlijun-nahāra fil-laili wa tukhrijul-hayya minal-mayyiti wa tukhrijul-mayyita minal-hayyi wa tarzuqu man tasyā'u bighairi hisāb."
       },
       {
         "id": "sabtu-5",
@@ -310,7 +310,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Ini adalah doa Nabi Zakaria 'Alaihissalam ketika beliau sudah lanjut usia dan secara hukum sebab-musabab tidak memungkinkan lagi memiliki keturunan. Beliau memanjatkan doa ini setelah menyaksikan buah-buahan luar musim ada di mihrab Sayyidatina Maryam 'Alaihassalam."
         },
-        "latin": "Rabbi hab li mil-ladunka dzurriyyatan thayyibatan innaka sami'ud-du'a'."
+        "latin": "Rabbi hab lī mil-ladunka dzurriyyatan thayyibatan innaka samī'ud-du'ā'."
       },
       {
         "id": "sabtu-6",
@@ -322,7 +322,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Merupakan doa pengikut setia Nabi Isa 'Alaihissalam (Hawariyyun) yang diabadikan dalam Al-Qur'an. Dalam riwayat hadis disunnahkan membacanya setelah selesai shalat fardhu."
         },
-        "latin": "Rabbana amanna bima anzalta wattaba'nar-rasula faktubna ma'asy-syahidin."
+        "latin": "Rabbanā āmannā bimā anzalta wattaba'nar-rasūla faktubnā ma'asy-syāhidīn."
       },
       {
         "id": "sabtu-7",
@@ -334,7 +334,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan dari Abu Hurairah RA bahwa Rasulullah ﷺ senantiasa membaca sepuluh ayat terakhir Surah Ali 'Imran pada malam hari. Sayyidina Utsman RA menyebutkan bahwa siapa yang membacanya di akhir malam, akan dicatat pahala beribadah sepanjang malam."
         },
-        "latin": "Rabbana ma khalaqta hadza bathilan subhanaka faqina 'adzaban-nar. Rabbana innaka man tudkhilin-nara faqad akhzaitahu wa ma lizh-zhalimina min anshar. Rabbana innana sami'na munadiyay-yunadi lil-imani an aminu birabbikum fa'amanna, rabbana faghfir lana dzunubana wa kaffir 'anna sayyi'atina wa tawaffana ma'al-abrar. Rabbana wa atina ma wa'attana 'ala rusulika wa la tukhzina yaumal-qiyamati innaka la tukhliful-mi'ad."
+        "latin": "Rabbanā mā khalaqta hādzā bāthilan subhānaka faqinā 'adzāban-nār. Rabbanā innaka man tudkhilin-nāra faqad akhzaitahū wa mā lizh-zhālimīna min anshār. Rabbanā innanā sami'nā munādiyay-yunādī lil-īmāni an āminū birabbikum fa'āmannā, rabbanā faghfir lanā dzunūbanā wa kaffir 'annā sayyi'ātinā wa tawaffanā ma'al-abrār. Rabbanā wa ātinā mā wa'attanā 'alā rusulika wa lā tukhzinā yaumal-qiyāmati innaka lā tukhliful-mī'ād."
       },
       {
         "id": "sabtu-8",
@@ -346,7 +346,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Merupakan doa Nabi Ibrahim 'Alaihissalam. Sangat dianjurkan dibaca pada tasyahud akhir sebelum salam dalam shalat."
         },
-        "latin": "Rabbij'alni muqimash-shalati wa min dzurriyyati rabbana wa taqabbal du'a'. Rabbanaghfir li wa liwalidayya wa lil-mu'minina yauma yaqumul-hisab."
+        "latin": "Rabbij'alnī muqīmash-shalāti wa min dzurriyyatī rabbanā wa taqabbal du'ā'. Rabbanaghfir lī wa liwālidayya wa lil-mu'minīna yauma yaqūmul-hisāb."
       },
       {
         "id": "sabtu-9",
@@ -358,7 +358,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Allah SWT mengajarkan lafaz terbaik ini kepada hamba-Nya untuk mendoakan kedua orang tua."
         },
-        "latin": "Rabbirhamhuma kama rabbayani shaghira."
+        "latin": "Rabbirhamhumā kamā rabbayānī shaghīrā."
       },
       {
         "id": "sabtu-10",
@@ -370,7 +370,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang diajarkan oleh Nabi Musa 'Alaihissalam kepada kaumnya untuk memohon perlindungan dari kejahatan serta fitnah penguasa zalim."
         },
-        "latin": "Rabbana la taj'alna fitnatal-lil-qaumizh-zhalimin. Wa najjina birahmatika minal-qaumil-kafirin."
+        "latin": "Rabbanā lā taj'alnā fitnatal-lil-qaumizh-zhālimīn. Wa najjinā birahmatika minal-qaumil-kāfirīn."
       },
       {
         "id": "sabtu-11",
@@ -382,7 +382,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Allah SWT menjadikan tolok ukur kecintaan seseorang kepada-Nya terletak pada sejauh mana ia mengikuti sunnah Rasulullah ﷺ."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi ja'altattiba'ahu mujibal-limahabbatika haitsu qulta fi haqqih: \"Qul in kuntum tuhibbunallaha fattabi'uni yuhbibkumullah.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī ja'altattibā'ahū mûjibal-limahabbatika haitsu qulta fī haqqih: \"Qul in kuntum tuhibbūnallāha fattabi'ūnī yuhbibkumullāh.\""
       },
       {
         "id": "sabtu-12",
@@ -394,7 +394,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Ayyub 'Alaihissalam. Imam Ja'far ash-Shadiq Rahimahullah menyebutkan doa ini sangat mujarab untuk menghilangkan penyakit, kesusahan, dan musibah berat."
         },
-        "latin": "Rabbi inni massaniyad-dhurru wa anta arhamur-rahimin."
+        "latin": "Rabbi innī massaniyad-dhurru wa anta arhamur-rāhimīn."
       },
       {
         "id": "sabtu-13",
@@ -406,7 +406,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Zakaria 'Alaihissalam. Sangat dianjurkan dibaca bagi orang yang mendambakan keturunan shalih."
         },
-        "latin": "Rabbi la tadzarni fardaw-wa anta khairul-waritsin."
+        "latin": "Rabbi lā tadzarnī fardaw-wa anta khairul-wāritsīn."
       },
       {
         "id": "sabtu-14",
@@ -418,7 +418,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Yunus 'Alaihissalam (Dzun-Nun) saat berada di dalam perut ikan. Rasulullah ﷺ bersabda bahwa siapa saja yang membaca doa ini sebanyak 40 kali dalam sakitnya lalu meninggal, ia mendapatkan pahala mati syahid. Doa ini mengandung Ismul A'zham yang sangat ampuh membebaskan seseorang dari segala kesulitan hidup."
         },
-        "latin": "La ilaha illa anta subhanaka inni kuntu minazh-zhalimin."
+        "latin": "Lā ilāha illā anta subhānaka innī kuntu minazh-zhālimīn."
       },
       {
         "id": "sabtu-15",
@@ -430,7 +430,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ diperintahkan langsung oleh Allah SWT untuk merutinkan doa permohonan ampun dan rahmat ini."
         },
-        "latin": "Rabbighfir warham wa anta khairur-rahimin."
+        "latin": "Rabbighfir warham wa anta khairur-rāhimīn."
       },
       {
         "id": "sabtu-16",
@@ -442,7 +442,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa utama untuk keharmonisan rumah tangga, keturunan yang shalih, serta memohon kedudukan ketakwaan yang tinggi di sisi Allah."
         },
-        "latin": "Rabbana hab lana min azwajina wa dzurriyyatina qurrata a'yuniw-waj'alna lil-muttaqina imama."
+        "latin": "Rabbanā hab lanā min azwājinā wa dzurriyyātinā qurrata a'yuniw-waj'alnā lil-muttaqīna imāmā."
       },
       {
         "id": "sabtu-17",
@@ -454,7 +454,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Musa 'Alaihissalam saat berada dalam keterasingan dan fakir. Sangat berfaedah untuk mengentaskan kemiskinan dan mendatangkan pertolongan tak terduga."
         },
-        "latin": "Rabbi inni lima anzalta ilayya min khairin faqir."
+        "latin": "Rabbi innī limā anzalta ilayya min khairin faqīr."
       },
       {
         "id": "sabtu-18",
@@ -466,7 +466,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa untuk mendapatkan benteng perlindungan Allah dari kebodohan, tindakan emosional, dan kesesatan."
         },
-        "latin": "A'udzu billahi an akuna minal-jahilin."
+        "latin": "A'ūdzu billāhi an akūna minal-jāhilīn."
       },
       {
         "id": "sabtu-19",
@@ -478,7 +478,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan dari Ibunda Ummu Salamah RADHIYALLAHU 'ANHA bahwa Nabi ﷺ sering membaca doa ini bersamaan dengan \"Yā Muqallibal qulūb tsabbit qalbī 'alā dīnik\". Ibunda Aisyah RADHIYALLAHU 'ANHA juga menyebutkan Nabi ﷺ senantiasa membacanya di malam hari."
         },
-        "latin": "Rabbana la tuzigh qulubana ba'da idz hadaitana wa hab lana mil-ladunka rahmah, innaka antal-wahhab."
+        "latin": "Rabbanā lā tuzigh qulūbanā ba'da idz hadaitanā wa hab lanā mil-ladunka rahmah, innaka antal-wahhāb."
       },
       {
         "id": "sabtu-20",
@@ -490,7 +490,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Merupakan Rajanya Istighfar (Sayyidul Istighfar). Barang siapa membacanya di siang hari dengan penuh keyakinan lalu meninggal sebelum sore, maka ia termasuk penghuni surga. Demikian pula jika dibaca di malam hari dan meninggal sebelum subuh."
         },
-        "latin": "Allahumma anta rabbi la ilaha illa anta khalaqtani wa ana 'abduka wa ana 'ala 'ahdika wa wa'dika mastatha'tu, a'udzu bika min syarri ma shana'tu, abu'u laka bini'matika 'alayya wa abu'u bidzanbi faghfir li fa'innahu la yaghfirudz-dzunuba illa ant."
+        "latin": "Allāhumma anta rabbī lā ilāha illā anta khalaqtanī wa ana 'abduka wa ana 'alā 'ahdika wa wa'dika mastatha'tu, a'ūdzu bika min syarri mā shana'tu, abū'u laka bini'matika 'alayya wa abū'u bidzanbī faghfir lī fa'innahū lā yaghfirudz-dzunūba illā ant."
       },
       {
         "id": "sabtu-21",
@@ -498,7 +498,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad ﷺ, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad ﷺ. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "sabtu-22",
@@ -510,7 +510,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Kemuliaan nama Rasulullah ﷺ senantiasa disandingkan dengan Nama Allah Ta'ala di dalam Kalimat Syahadat, Azan, Iqamah, Shalat, hingga Khutbah."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi qarantas-mahu ma'as-mika haitsu qulta fi haqqih: \"Wa rafa'na laka dzikrak.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī qarantas-mahū ma'as-mika haitsu qulta fī haqqih: \"Wa rafa'nā laka dzikrak.\""
       }
     ]
   },
@@ -527,7 +527,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(QS. Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "ahad-2",
@@ -539,7 +539,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Allah Ta'ala sendiri yang menyifati keagungan akhlak Nabi ﷺ. Betapa luar biasa tingginya kemuliaan beliau yang diakui langsung oleh Sang Pencipta alam semesta."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi akramtahu bi'akmalil-khuluqi haitsu qulta fi haqqih: \"Wa innaka la'ala khuluqin 'azhim.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī akramtahū bi'akmalil-khuluqi haitsu qulta fī haqqih: \"Wa innaka la'alā khuluqin 'azhīm.\""
       },
       {
         "id": "ahad-3",
@@ -551,7 +551,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Allamah Ibnul Mushtahar Rahimahullah menyatakan barang siapa yang ingin memuji Allah, membaca shalawat kepada Nabi ﷺ, dan berdoa dengan ucapan yang paling utama dibandingkan yang pernah diucapkan seluruh makhluk, hendaknya ia merutinkan bacaan ini."
         },
-        "latin": "Allahumma lakal-hamdu kama anta ahluh, fashalli wa sallim 'ala sayyidina Muhammadin kama anta ahluh, waf'al bina ma anta ahluh, fa'innaka ahlut-taqwa wa ahlul-maghfirah."
+        "latin": "Allāhumma lakal-hamdu kamā anta ahluh, fashalli wa sallim 'alā sayyidinā Muhammadin kamā anta ahluh, waf'al binā mā anta ahluh, fa'innaka ahlut-taqwā wa ahlul-maghfirah."
       },
       {
         "id": "ahad-4",
@@ -563,7 +563,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Ayat ini turun berkenaan dengan Sayyidina Abu Bakar Ash-Shiddiq RA. Berkat doa ini, kedua orang tua, anak-anak, serta saudara beliau dianugerahi hidayah Islam. Sangat dianjurkan dibaca untuk memohon kesalehan dan hidayah bagi anak keturunan serta keluarga."
         },
-        "latin": "Rabbi auzi'ni an asykura ni'matakallati an'amta 'alayya wa 'ala walidayya wa an a'mala shalihan tardhahu wa ashlih li fi dzurriyyati, inni tubtu ilaika wa inni minal-muslimin."
+        "latin": "Rabbi awzi'nī an asykura ni'matakallatī an'amta 'alayya wa 'alā wālidayya wa an a'mala shālihan tardhāhu wa ashlih lī fī dzurriyyatī, innī tubtu ilaika wa innī minal-muslimīn."
       },
       {
         "id": "ahad-5",
@@ -575,7 +575,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini diajarkan Al-Qur'an untuk memohonkan ampunan bagi kaum mukminin terdahulu, khususnya para Sahabat Nabi ﷺ, serta menjaga hati dari rasa benci dan dengki sesama muslim."
         },
-        "latin": "Rabbanaghfir lana wa li'ikhwaninalladzina sabaquna bil-imani wa la taj'al fi qulubina ghillal-lilladzina amanu rabbana innaka ra'ufur-rahim."
+        "latin": "Rabbanaghfir lanā wa li'ikhwāninalladzīna sabaqūnā bil-īmāni wa lā taj'al fī qulūbinā ghillal-lilladzīna āmanū rabbanā innaka ra'ūfur-rahīm."
       },
       {
         "id": "ahad-6",
@@ -587,7 +587,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Hadis menyebutkan bahwa dalam doa ini terdapat Ismul A'zham (Nama Allah yang Paling Agung). Apabila seseorang berdoa mendahuluinya dengan lafaz ini, doanya pasti dikabulkan."
         },
-        "latin": "Allahumma inni as'aluka bi'anni asyhadu annaka antallahu la ilaha illa antal-ahadus-shamadulladzi lam yalid wa lam yulad wa lam yakul-lahu kufuwan ahad."
+        "latin": "Allāhumma innī as'aluka bi'annī asyhadu annaka antallāhu lā ilāha illā antal-ahadus-shamadulladzī lam yalid wa lam yūlad wa lam yakul-lahū kufuwan ahad."
       },
       {
         "id": "ahad-7",
@@ -599,7 +599,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa memohon 'afiat (keselamatan & kedamaian) adalah doa yang paling dicintai Allah Ta'ala karena mencerminkan permohonan perlindungan dan perhambaan yang tulus."
         },
-        "latin": "Allahumma inni as'alukal-'afwa wal-'afiyata fi dini wa dunyaya wa ahli wa mali."
+        "latin": "Allāhumma innī as'alukal-'afwa wal-'āfiyata fī dīnī wa dunyāya wa ahlī wa mālī."
       },
       {
         "id": "ahad-8",
@@ -611,7 +611,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Mengandung Ismul A'zham. Rasulullah ﷺ sangat sering membaca doa ini dan mewasiatkan kepada Sayyidatina Fatima RADHIYALLAHU 'ANHA untuk membacanya setiap pagi dan petang."
         },
-        "latin": "Ya Hayyu Ya Qayyumu birahmatika astaghits, ashlih li sya'ni kullah, wa la takilni ila nafsi tharfata 'ain."
+        "latin": "Yā Hayyu Yā Qayyūmu birahmatika astaghīts, ashlih lī sya'nī kullah, wa lā takilnī ilā nafsī tharfata 'ain."
       },
       {
         "id": "ahad-9",
@@ -623,7 +623,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ mengajarkan doa ini kepada Sahabat Salman Al-Farisi RA dan menyebutnya sebagai \"Kalimat-kalimat Ar-Rahman\". Beliau berpesan agar menjadikannya doa harian siang dan malam."
         },
-        "latin": "Allahumma inni as'aluka sihhatan fi iman, wa imanan fi husni khuluq, wa najatay-yatba'uha falah, wa rahmatam-minka wa 'afiyah, wa maghfiratam-minka wa ridhwana."
+        "latin": "Allāhumma innī as'aluka sihhatan fī īmān, wa īmānan fī husni khuluq, wa najātay-yatba'uhā falāh, wa rahmatam-minka wa 'āfiyah, wa maghfiratam-minka wa ridhwānā."
       },
       {
         "id": "ahad-10",
@@ -635,7 +635,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ringkas yang sangat padat mencakup pengampunan dosa, kelapangan tempat tinggal, dan keberkahan rezeki. Disunnahkan dibaca saat berwudhu."
         },
-        "latin": "Allahummaghfir li dzanbi, wa wassi' li fi dari, wa barik li fi rizqi."
+        "latin": "Allāhummaghfir lī dzanbī, wa wassi' lī fī dārī, wa bārik lī fī rizqī."
       },
       {
         "id": "ahad-11",
@@ -647,7 +647,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini disunnahkan dibaca saat melangkah menuju masjid untuk shalat atau ketika mendirikan shalat Tahajud. Cahaya yang dimaksud adalah petunjuk, kejernihan hakikat, serta perlindungan dari kesesatan di dunia dan kegelapan akhirat."
         },
-        "latin": "Allahummaj'al fi qalbi nura, wa fi bashari nura, wa fi sam'i nura, wa 'an yamini nura, wa 'an syimali nura, wa min khalfi nura, wa min amami nura, waj'al min fauqi nura, wa min tahti nura. Allahumma a'thini nura, waj'al li nura, wa fi 'ashabi nura, wa fi lahmi nura, wa fi dami nura, wa fi sya'ri nura, wa fi basyari nura, wa fi lisani nura, waj'al fi nafsi nura, wa a'zhim li nura, waj'alni nura."
+        "latin": "Allāhummaj'al fī qalbī nūrā, wa fī basharī nūrā, wa fī sam'ī nūrā, wa 'an yamīnī nūrā, wa 'an syimālī nūrā, wa min khalfī nūrā, wa min amāmī nūrā, waj'al min fauqī nūrā, wa min tahtī nūrā. Allāhumma a'thinī nūrā, waj'al lī nūrā, wa fī 'ashabī nūrā, wa fī lahmī nūrā, wa fī damī nūrā, wa fī sya'rī nūrā, wa fī basyarī nūrā, wa fī lisānī nūrā, waj'al fī nafsī nūrā, wa a'zhim lī nūrā, waj'alnī nūrā."
       },
       {
         "id": "ahad-12",
@@ -659,7 +659,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Ayat ini menegaskan kedudukan Sayyidina Rasulullah ﷺ sebagai 'Nur' (cahaya petunjuk) yang menerangi kegelapan alam semesta."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi ja'altahu nura, haitsu qulta: \"Qad ja'akum minallahi nuruw-wa kitabum-mubin.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī ja'altahū nūrā, haitsu qulta: \"Qad jā'akum minallāhi nūruw-wa kitābum-mubīn.\""
       },
       {
         "id": "ahad-13",
@@ -667,7 +667,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ لَا تَجْعَلْ مُصِيْبَتَنَا فِيْ دِيْنِنَا وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا وَلَا مَبْلَغَ عِلْمِنَا وَلَا تُسَلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا",
         "reference": "(Hisn Hasin / HR. Tirmidzi)",
         "translation": "Ya Allah! Janganlah Engkau jadikan musibah kami menimpa agama kami, janganlah Engkau jadikan dunia sebagai cita-cita terbesar kami dan puncak pengetahuan kami, serta janganlah Engkau kuasakan atas kami orang yang tidak menyayangi kami.",
-        "latin": "Allahumma la taj'al mushibatana fi dinina, wa la taj'alid-dunya akbara hammina, wa la mablagha 'ilmina, wa la tusallith 'alaina mal-la yarhamuna."
+        "latin": "Allāhumma lā taj'al mushībatanā fī dīninā, wa lā taj'alid-dunyā akbara hamminā, wa lā mablagha 'ilminā, wa lā tusallith 'alainā mal-lā yarhamunā."
       },
       {
         "id": "ahad-14",
@@ -679,7 +679,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Ibunda Aisyah RADHIYALLAHU 'ANHA pernah mendengar Rasulullah ﷺ membaca doa ini dalam sujud shalat malam beliau. Merupakan doa terutaman untuk tazkiyatun nafs (penyucian jiwa)."
         },
-        "latin": "Rabbi a'thi nafsi taqwaha, wa zakkiha anta khairu man zakkaha, anta waliyyuha wa maulaha."
+        "latin": "Rabbi a'thi nafsī taqwāhā, wa zakkihā anta khairu man zakkāhā, anta waliyyuhā wa mawlāhā."
       },
       {
         "id": "ahad-15",
@@ -691,7 +691,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang amat penting untuk keselamatan akhirat, karena barang siapa yang hisabnya dipermudah oleh Allah, maka ia dipastikan selamat dan masuk surga."
         },
-        "latin": "Allahumma hasibni hisabay-yasira."
+        "latin": "Allāhumma hāsibnī hisābay-yasīrā."
       },
       {
         "id": "ahad-16",
@@ -703,7 +703,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini diajarkan langsung oleh Rasulullah ﷺ kepada Sahabat Mu'adz bin Jabal RA dan disunnahkan dibaca seusai shalat fardhu."
         },
-        "latin": "Allahumma a'inni 'ala dzikrika wa syukrika wa husni 'ibadatik."
+        "latin": "Allāhumma a'innī 'alā dzikrika wa syukrika wa husni 'ibādatik."
       },
       {
         "id": "ahad-17",
@@ -715,7 +715,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi komprehensif yang memohon kebaikan dan keseimbangan hidup mencakup aspek agama, kehidupan dunia, dan keselamatan masa depan di akhirat."
         },
-        "latin": "Allahumma ashlih li diniyalladzi huwa 'ishmatu amri, wa ashlih li dunyayallati fiha ma'asyi, wa ashlih li akhiratiyallati fiha ma'adi."
+        "latin": "Allāhumma ashlih lī dīniyalladzī huwa 'ishmatu amrī, wa ashlih lī dunyāyallatī fīhā ma'āsyī, wa ashlih lī ākhiratiyallatī fīhā ma'ādī."
       },
       {
         "id": "ahad-18",
@@ -735,7 +735,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Musa 'Alaihissalam ketika terancam oleh kekejaman Firaun dan kaumnya. Ampuh untuk memohon keselamatan dari kedzaliman."
         },
-        "latin": "Rabbi najjini minal-qaumizh-zhalimin."
+        "latin": "Rabbi najjinī minal-qaumizh-zhālimīn."
       },
       {
         "id": "ahad-20",
@@ -747,7 +747,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabi Luth 'Alaihissalam untuk memohon pertolongan Allah menghadapi para perusak moral dan kejahatan di masyarakat."
         },
-        "latin": "Rabbinshurni 'alal-qaumil-mufsidin."
+        "latin": "Rabbinshurnī 'alal-qaumil-mufsidīn."
       },
       {
         "id": "ahad-21",
@@ -759,7 +759,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Lafaz istighfar yang sangat ringkas namun padat dari Nabi Musa 'Alaihissalam."
         },
-        "latin": "Rabbi inni zhalamtu nafsi faghfir li."
+        "latin": "Rabbi innī zhalamtu nafsī faghfir lī."
       },
       {
         "id": "ahad-22",
@@ -767,7 +767,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad ﷺ, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad ﷺ. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "ahad-23",
@@ -779,7 +779,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Menegaskan kedudukan Rasulullah ﷺ sebagai pemimpin tertinggi seluruh umat manusia dari awal hingga akhir zaman."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi qala 'an nafsih: \"Ana sayyidu waladi Adama wa la fakhr.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī qāla 'an nafsih: \"Anā sayyidu waladi Ādama wa lā fakhr.\""
       }
     ]
   },
@@ -796,7 +796,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(QS. Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "senin-2",
@@ -808,7 +808,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Gambaran Maqam Mahmud pada hari kiamat adalah di sebelah kanan 'Arasy, di mana beliau SAW dianugerahi pakaian hijau surga dan diserahi Panji Pujian (Liwa-ul Hamd). Pada saat itulah Syafa'at Kubra beliau dilaksanakan, yang mana seluruh makhluk dan para nabi menaruh rasa iri dan hormat atas kemuliaan tersebut."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulika shahibil-maqamil-mahmudilladzi qulta fi haqqih: \"'Asa ay-yab'atsaka rabbuka maqamam-mahmuda.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlika shāhibil-maqāmil-mahmūdilladzī qulta fī haqqih: \"'Asā ay-yab'atsaka rabbuka maqāmam-mahmūdā.\""
       },
       {
         "id": "senin-3",
@@ -820,7 +820,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan dari Ibunda 'Aisyah RADHIYALLAHU 'ANHA bahwa ketika Nabi Adam 'Alaihissalam diturunkan ke bumi, beliau menuju Ka'bah, melaksanakan shalat dua rakaat, lalu Allah Ta'ala mengilhamkan doa ini ke dalam hati beliau. Allah menjamin bahwa siapa saja yang berdoa dengannya, doanya akan dikabulkan dan dihilangkan segala kesulitannya."
         },
-        "latin": "Allahumma innaka ta'lamu sirri wa 'alaniyati faqbal ma'dzirati, wa ta'lamu hajati fa'athini su'li, wa ta'lamu ma fi nafsi faghfir li dzunubi. Allahumma inni as'aluka imanay-yubasyiru qalbi, wa yaqinan shadiqan hatta a'lama annahu la yushibuni illa ma katabta li, wa ridham-bima qasamta li."
+        "latin": "Allāhumma innaka ta'lamu sirrī wa 'alāniyatī faqbal ma'dziratī, wa ta'lamu hājatī fa'a'thinī su'lī, wa ta'lamu mā fī nafsī faghfir lī dzunūbī. Allāhumma innī as'aluka īmānay-yubāsyiru qalbī, wa yaqīnan shādiqan hattā a'lama annahū lā yushībunī illā mā katabta lī, wa ridham-bimā qasamta lī."
       },
       {
         "id": "senin-4",
@@ -832,7 +832,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa masnun ini disunnahkan dibaca sewaktu meminum air Zamzam (saat ijabah doa). Sangat baik untuk dirutinkan setiap waktu."
         },
-        "latin": "Allahumma inni as'aluka 'ilman nafi'an, wa rizqaw-wasi'an, wa syifa'am-min kulli da'."
+        "latin": "Allāhumma innī as'aluka 'ilman nāfi'an, wa rizqaw-wāsi'an, wa syifā'am-min kulli dā'."
       },
       {
         "id": "senin-5",
@@ -844,7 +844,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik untuk memohon qana'ah dan keberkahan rezeki."
         },
-        "latin": "Allahumma qanni'ni bima razaqtani wa barik li fihi wakhluf 'ala kulli gha'ibatil-li bikhair."
+        "latin": "Allāhumma qanni'nī bimā razaqtanī wa bārik lī fīhi wakhluf 'alā kulli ghā'ibatil-lī bikhair."
       },
       {
         "id": "senin-6",
@@ -856,7 +856,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang sangat agung hingga diriwayatkan disunnahkan untuk dibaca sewaktu wukuf di Arafah."
         },
-        "latin": "Allahummah-dini bil-huda, wa naqqini bit-taqwa, waghfir li fil-akhirati wal-ula."
+        "latin": "Allāhummah-dinī bil-hudā, wa naqqinī bit-taqwā, waghfir lī fil-ākhirati wal-ūlā."
       },
       {
         "id": "senin-7",
@@ -868,7 +868,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ma'tsur untuk penanaman iman di dalam hati serta memohon benteng perlindungan dari kekufuran dan dosa."
         },
-        "latin": "Allahumma habbib ilainal-imana wa zayyinhu fi qulubina, wa karrih ilainal-kufra wal-fusuqa wal-'ishyana waj'alna minar-rasyidin."
+        "latin": "Allāhumma habbib ilainal-īmāna wa zayyinhu fī qulūbinā, wa karrih ilainal-kufra wal-fusūqa wal-'ishyāna waj'alnā minar-rāsyidīn."
       },
       {
         "id": "senin-8",
@@ -880,7 +880,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik untuk memohon husnul khatimah (akhir kehidupan yang baik)."
         },
-        "latin": "Allahumma tawaffana muslimina wa alhiqna bish-shalihina ghaira khazaya wa la maftunin."
+        "latin": "Allāhumma tawaffanā muslimīna wa alhiqnā bish-shālihīna ghaira khazāyā wa lā maftūnīn."
       },
       {
         "id": "senin-9",
@@ -892,7 +892,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi untuk memohon kemudahan menghadapi segala urusan yang sulit."
         },
-        "latin": "Allahumma la sahla illa ma ja'altahu sahla, wa anta taj'alul-hazna idza syi'ta sahla."
+        "latin": "Allāhumma lā sahla illā mā ja'altahū sahlā, wa anta taj'alul-hazna idzā syi'ta sahlā."
       },
       {
         "id": "senin-10",
@@ -904,7 +904,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa masnun Shalat Hajat, sangat mujarab dibaca untuk hajat dan pemenuhan kebutuhan hidup."
         },
-        "latin": "La ilaha illallahul-halimul-karim, subhanallahi rabbil-'arsyil-'azhim, alhamdulillahi rabbil-'alamin. As'aluka mujibati rahmatika wa 'aza'ima maghfiratika, wal-'ishmata min kulli dzanbiw-wal-ghanimata min kulli birriw-was-salamata min kulli itsm. La tada' li dzamban illa ghafartah, wa la hamman illa farrajtah, wa la karban illa naffastah, wa la dhurran illa kasyaftah, wa la hajatan hiya laka ridhan illa qadhaitaha ya arhamar-rahimin."
+        "latin": "Lā ilāha illallāhul-halīmul-karīm, subhānallāhi rabbil-'arsyil-'azhīm, al-hamdulillāhi rabbil-'ālamīn. As'aluka mūjibāti rahmatika wa 'azā'ima maghfiratika, wal-'ishmata min kulli dzambiw-wal-ghanīmata min kulli birriw-was-salāmata min kulli itsm. Lā tada' lī dzamban illā ghafartah, wa lā hamman illā farrajtah, wa lā karban illā naffastah, wa lā dhurran illā kasyaftah, wa lā hājatan hiya laka ridhan illā qadhaitahā yā arhamar-rāhimīn."
       },
       {
         "id": "senin-11",
@@ -916,7 +916,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Telaga Al-Kautsar adalah sungai surga yang dijanjikan Allah untuk Rasulullah ﷺ yang dipenuhi kebaikan berlimpah."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulika shahibil-haudhil-maurudilladzi qulta fi haqqih: \"Inna a'thainakāl-kautsar.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlika shāhibil-haudhil-mawrūdilladzī qulta fī haqqih: \"Innā a'thainākal-kautsar.\""
       },
       {
         "id": "senin-12",
@@ -928,7 +928,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi ampuh untuk menghilangkan duka dan kegelisahan."
         },
-        "latin": "Allahumma rahmataka arju fala takilni ila nafsi tharfata 'ainiw-wa ashlih li sya'ni kullah, la ilaha illa anta, ya Hayyu ya Qayyumu birahmatika astaghits."
+        "latin": "Allāhumma rahmataka arjū falā takilnī ilā nafsī tharfata 'ainiw-wa ashlih lī sya'nī kullah, lā ilāha illā anta, yā Hayyu yā Qayyūmu birahmatika astaghīts."
       },
       {
         "id": "senin-13",
@@ -940,7 +940,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa pelunas utang yang diajarkan Rasulullah ﷺ kepada Sayyidina Ali RA. Beliau bersabda: \"Meskipun utangmu sebesar Gunung Uhud, pasti Allah akan bantu melunaskannya.\""
         },
-        "latin": "Allahummak-fini bihalalika 'an haramika wa aghnini bifadhlika 'amman siwak."
+        "latin": "Allāhummak-finī bihalālika 'an harāmika wa aghninī bifadhlika 'amman siwāk."
       },
       {
         "id": "senin-14",
@@ -952,7 +952,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa untuk kemudahan pelunasan utang serta pelapang duka dan kedukaan."
         },
-        "latin": "Allahumma farijal-hammi kasyifal-ghammi mujiba da'watil-mudhtharrin, rahmanad-dunya wal-akhirati wa rahimahuma, anta tarhamuni farhamni birahmatin tughnini biha 'an rahmati man siwak."
+        "latin": "Allāhumma fārijal-hammi kāsyifal-ghammi mujība da'watil-mudhtharrīn, rahmānad-dunyā wal-ākhirati wa rahīmahumā, anta tarhamunī farhamnī birahmatin tughnīnī bihā 'an rahmati man siwāk."
       },
       {
         "id": "senin-15",
@@ -960,7 +960,7 @@ window.HIZIB_DATA = {
         "arabic": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّارِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيْمِ",
         "reference": "(QS. Ali 'Imrān: 16)",
         "translation": "Ya Tuhan kami! Sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami dan peliharalah kami dari azab neraka. Dan tiada daya dan kekuatan melainkan dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung.",
-        "latin": "Rabbana innana amanna faghfir lana dzunubana wa qina 'adzaban-nar, wa la hawla wa la quwwata illa billahil-'aliyyil-'azhim."
+        "latin": "Rabbanā innanā āmannā faghfir lanā dzunūbanā wa qinā 'adzāban-nār, wa lā hawla wa lā quwwata illā billāhil-'aliyyil-'azhīm."
       },
       {
         "id": "senin-16",
@@ -972,7 +972,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa memohon keselamatan dan keteguhan hati."
         },
-        "latin": "Allahumma musharrifal-qulubi sharrif qulubana ila tha'atik."
+        "latin": "Allāhumma musharrifal-qulūbi sharrif qulūbanā ilā thā'atik."
       },
       {
         "id": "senin-17",
@@ -984,7 +984,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi yang sangat padat mencakup kebaikan agama dan dunia."
         },
-        "latin": "Allahumma inni as'alukal-huda wat-tuqa wal-'afafa wal-ghina."
+        "latin": "Allāhumma innī as'alukal-hudā wat-tuqā wal-'afāfa wal-ghinā."
       },
       {
         "id": "senin-18",
@@ -992,7 +992,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الشِّقَاقِ وَالنِّفَاقِ وَسُوْءِ الْأَخْلَاقِ",
         "reference": "(HR. Abu Dawud & An-Nasa'i)",
         "translation": "Ya Allah! Aku berlindung kepada-Mu dari perselisihan/pembangkangan, kemunafikan, dan akhlak yang buruk.",
-        "latin": "Allahumma inni a'udzu bika minasy-syiqaqi wan-nifaqi wa su'il-akhlaq."
+        "latin": "Allāhumma innī a'ūdzu bika minasy-syiqāqi wan-nifāqi wa sū'il-akhlāq."
       },
       {
         "id": "senin-19",
@@ -1004,7 +1004,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan oleh Sahabat Jabir RA bahwa seorang sahabat datang memanggil \"Aduhai dosaku\" berulang kali. Nabi ﷺ mengajarinya membaca doa ini tiga kali, lalu beliau bersabda: \"Berdirilah, Allah telah mengampuni dosamu.\""
         },
-        "latin": "Allahumma maghfiratuka awsa'u min dzunubi wa rahmatuka arja 'indi min 'amali."
+        "latin": "Allāhumma maghfiratuka awsa'u min dzunūbī wa rahmatuka arjā 'indī min 'amalī."
       },
       {
         "id": "senin-20",
@@ -1012,7 +1012,7 @@ window.HIZIB_DATA = {
         "arabic": "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّارِ",
         "reference": "(QS. Ali 'Imran: 16)",
         "translation": "Ya Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami dan peliharalah kami dari azab neraka.",
-        "latin": "Rabbana innana amanna faghfir lana dzunubana wa qina 'adzaban-nar."
+        "latin": "Rabbanā innanā āmannā faghfir lanā dzunūbanā wa qinā 'adzāban-nār."
       },
       {
         "id": "senin-21",
@@ -1020,7 +1020,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad ﷺ, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad ﷺ. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "senin-22",
@@ -1032,7 +1032,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Menegaskan keagungan pangkat syafaat Rasulullah ﷺ dengan izin Allah Ta'ala pada hari kiamat kelak."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi huwa awwalu syafi'iw-wa awwalu musyaffa'in haitsu qala 'an nafsih: \"Ana awwalu syafi'iw-wa awwalu musyaffa'.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī huwa awwalu syāfi'iw-wa awwalu musyaffa'in haitsu qāla 'an nafsih: \"Anā awwalu syāfi'iw-wa awwalu musyaffa'.\""
       }
     ]
   },
@@ -1049,7 +1049,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(QS. Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "selasa-2",
@@ -1061,7 +1061,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rahmat yang umum ini mencakup orang mukmin, orang kafir, dan seluruh makhluk. Khusus bagi orang-orang mukmin, beliau dijadikan sangat pengasih lagi penyayang (*ra'uf dan rahim*)."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikan-nabiyyil-ummiyyi nabiyyir-rahmati-lladzi qulta fi haqqih: \"Wa ma arsalnaka illa rahmatal-lil-'alamin.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikan-nabiyyil-ummiyyi nabiyyir-rahmatilladzī qulta fī haqqih: \"Wa mā arsalnāka illā rahmatal-lil-'ālamīn.\""
       },
       {
         "id": "selasa-3",
@@ -1073,7 +1073,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik untuk memperoleh jalan pikiran yang lurus dan terhindar dari dorongan jahat hawa nafsu."
         },
-        "latin": "Allahumma alhimni rusydi wa a'idzni min syarri nafsi."
+        "latin": "Allāhumma alhimnī rusydī wa a'idznī min syarri nafsī."
       },
       {
         "id": "selasa-4",
@@ -1085,7 +1085,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa-doa ini mengandung permohonan iman, amal shalih, dan kecintaan kepada Allah Ta'ala. Sebab rasa cinta adalah kunci keikhlasan yang memudahkan pelaksanaan ibadah."
         },
-        "latin": "Allahumma inni as'aluka hubbaka wa hubba may-yuhibbuka wal-'amalalladzi yuballighuni hubbak."
+        "latin": "Allāhumma innī as'aluka hubbaka wa hubba may-yuhibbuka wal-'amalalladzī yuballighunī hubbak."
       },
       {
         "id": "selasa-5",
@@ -1093,7 +1093,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ إِلَيَّ مِنْ نَفْسِيْ وَأَهْلِيْ وَمِنَ الْمَاءِ الْبَارِدِ",
         "reference": "(HR. Tirmidzi, Al-Hakim)",
         "translation": "Ya Allah! Jadikanlah cintaku kepada-Mu lebih aku cintai melebihi diriku sendiri, keluargaku, dan melebihi air sejuk (saat dahaga).",
-        "latin": "Allahummaj'al hubbaka ahabba ilayya min nafsi wa ahli wa minal-ma'il-barid."
+        "latin": "Allāhummaj'al hubbaka ahabba ilayya min nafsī wa ahlī wa minal-mā'il-bārid."
       },
       {
         "id": "selasa-6",
@@ -1101,7 +1101,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ ارْزُقْنِيْ حُبَّكَ وَحُبَّ مَنْ يَنْفَعُنِيْ حُبُّهُ عِنْدَكَ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Anugerahkanlah kepadaku cinta-Mu dan cinta orang yang mencintainya memberi manfaat bagiku di sisi-Mu.",
-        "latin": "Allahummar-zuqni hubbaka wa hubba may-yanfa'uni hubbuhu 'indak."
+        "latin": "Allāhummar-zuqnī hubbaka wa hubba may-yanfa'unī hubbuhū 'indak."
       },
       {
         "id": "selasa-7",
@@ -1113,7 +1113,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Menghayati doa-doa ini akan menghadirkan ketenangan jiwa (*sukunul qalb*), mengikis ketamakan, serta melahirkan sifat qana'ah."
         },
-        "latin": "Allahumma fakama razaqtani mimma uhibbu faj'alhu quwwatal-li fima tuhibb. Allahumma wa ma zawaita 'anni mimma uhibbu faj'alhu faraghal-li fima tuhibb."
+        "latin": "Allāhumma fakamā razaqtanī mimmā uhibbu faj'alhu quwwatal-lī fīmā tuhibb. Allāhumma wa mā zawaita 'annī mimmā uhibbu faj'alhu farāghal-lī fīmā tuhibb."
       },
       {
         "id": "selasa-8",
@@ -1125,7 +1125,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa masnun terbaik untuk menjaga keistiqamahan dan kekukuhan dalam beragama."
         },
-        "latin": "Ya muqallibal-qulubi tsabbit qalbi 'ala dinik."
+        "latin": "Yā muqallibal-qulūbi tsabbit qalbī 'alā dīnik."
       },
       {
         "id": "selasa-9",
@@ -1137,7 +1137,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa masnun terbaik untuk memohon keselamatan iman dan keabadian nikmat surga."
         },
-        "latin": "Allahumma inni as'aluka imanal-la yartaddu wa na'imal-la yanfadu wa murafaqata nabiyyina (wa sayyidina) Muhammadin shallallahu ta'ala 'alaihi wa alihi wa sallam, fi a'la darajatil-jannati jannatil-khuld."
+        "latin": "Allāhumma innī as'aluka īmānal-lā yartaddu wa na'īmal-lā yanfadu wa murāfaqata nabiyyinā (wa sayyidinā) Muhammadin shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, fī a'lā darajātil-jannati jannatil-khuld."
       },
       {
         "id": "selasa-10",
@@ -1149,7 +1149,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Kedudukan Rasulullah ﷺ amatlah tinggi di sisi Allah SWT hingga ketaatan kepada beliau disepadankan langsung dengan ketaatan kepada Allah."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi ja'alta tha'atahu 'aina tha'atika haitsu qulta fi haqqih: \"Wa may-yuthi'ir-rasula faqad atha'allah.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī ja'alta thā'atahū 'aina thā'atika haitsu qulta fī haqqih: \"Wa may-yuthi'ir-rasūla faqad athā'allāh.\""
       },
       {
         "id": "selasa-11",
@@ -1161,7 +1161,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini diajarkan oleh Rasulullah ﷺ kepada Sayyidatina Barirah RADHIYALLAHU 'ANHA."
         },
-        "latin": "Allahumma inni dha'ifun fa qawwi fi ridhaka dha'fi, wa khudz ilal-khairi binasiyati, waj'alil-islama muntaha ridhay."
+        "latin": "Allāhumma innī dha'īfun fa qawwi fī ridhāka dha'fī, wa khudz ilal-khairi bināshiyatī, waj'alil-islāma muntahā ridhāy."
       },
       {
         "id": "selasa-12",
@@ -1173,7 +1173,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan dari Ibunda 'Aisyah RADHIYALLAHU 'ANHA."
         },
-        "latin": "Allahummaj'al awsa'a rizqika 'alayya 'inda kibari sinni wanqitha'i 'umuri."
+        "latin": "Allāhummaj'al awsa'a rizqika 'alayya 'inda kibari sinnī wanqithā'i 'umurī."
       },
       {
         "id": "selasa-13",
@@ -1185,7 +1185,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik memohon husnul khatimah (penutup kehidupan yang indah)."
         },
-        "latin": "Allahummaj'al khaira 'umuri akhirah, wa khaira 'amali khawatimah, wa khaira ayyami yauma alqaka fih. Ya waliyyal-islami wa ahlihi tsabbitni bihi hatta alqak."
+        "latin": "Allāhummaj'al khaira 'umurī ākhirah, wa khaira 'amalī khawātimah, wa khaira ayyāmī yauma alqāka fīh. Yā waliyyal-islāmi wa ahlihī tsabbitnī bihī hattā alqāk."
       },
       {
         "id": "selasa-14",
@@ -1197,7 +1197,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi yang sangat padat dan ringkas untuk memohon kecukupan rezeki."
         },
-        "latin": "Allahumma inni as'aluka ghinaya wa ghina maulay."
+        "latin": "Allāhumma innī as'aluka ghināya wa ghinā mawlāy."
       },
       {
         "id": "selasa-15",
@@ -1209,7 +1209,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Permohonan komprehensif untuk meraih sifat sabar, syukur, serta tawaduk (kerendahan hati)."
         },
-        "latin": "Allahummaj'alni shabura, waj'alni syakura, waj'alni fi 'aini shaghira, wa fi a'yunin-nasi kabira."
+        "latin": "Allāhummaj'alnī shabūrā, waj'alnī syakūrā, waj'alnī fī 'ainī shaghīrā, wa fī a'yunin-nāsi kabīrā."
       },
       {
         "id": "selasa-16",
@@ -1217,7 +1217,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ",
         "reference": "(At-Thabrani)",
         "translation": "Ya Allah! Aku memohon kepada-Mu dari karunia-Mu dan rahmat-Mu, karena sesungguhnya tidak ada yang memilikinya melainkan Engkau.",
-        "latin": "Allahumma inni as'aluka min fadhlika wa rahmatika fa'innahu la yamlikuha illa ant."
+        "latin": "Allāhumma innī as'aluka min fadhlika wa rahmatika fa'innahū lā yamlikuhā illā ant."
       },
       {
         "id": "selasa-17",
@@ -1229,7 +1229,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik untuk meredakan emosi/kemarahan tak terkendali dan memohon perlindungan dari fitnah. Diriwayatkan bahwa Rasulullah ﷺ mengajarkannya kepada Ibunda Ummu Salamah RADHIYALLAHU 'ANHA."
         },
-        "latin": "Allahumma rabba-nabiyyi (sayyidina) Muhammadin shallallahu ta'ala 'alaihi wa alihi wa sallama-ghfir li dzanbi wa adzhib ghaizha qalbi wa ajirni min mudhillatil-fitani ma ahyaitana."
+        "latin": "Allāhumma rabba-nabiyyi (sayyidinā) Muhammadin shallallāhu ta'ālā 'alaihi wa ālihī wa sallama-ghfir lī dzanbī wa adzhib ghaizha qalbī wa ajirnī min mudhillātil-fitani mā ahyaitanā."
       },
       {
         "id": "selasa-18",
@@ -1237,7 +1237,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِعِزَّتِكَ لَا إِلٰهَ إِلَّا أَنْتَ أَنْ تُضِلَّنِيْ، أَنْتَ الْحَيُّ الَّذِيْ لَا يَمُوْتُ وَالْجِنُّ وَالْإِنْسُ يَمُوْتُوْنَ",
         "reference": "(HR. Bukhari & Muslim)",
         "translation": "Ya Allah! Aku berlindung dengan keperkasaan-Mu, tiada Tuhan selain Engkau, agar Engkau tidak menyesatkanku. Engkaulah Yang Maha Hidup yang tidak pernah mati, sedangkan jin dan manusia semuanya akan mati.",
-        "latin": "Allahumma inni a'udzu bi'izzatika la ilaha illa anta an tudhillani, antal-hayyulladzi la yamutu wal-jinnu wal-insu yamutun."
+        "latin": "Allāhumma innī a'ūdzu bi'izzatika lā ilāha illā anta an tudhillanī, antal-hayyulladzī lā yamūtu wal-jinnu wal-insu yamūtūn."
       },
       {
         "id": "selasa-19",
@@ -1249,7 +1249,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Mengandung kalimah tauhid, istighfar, taubat, dan Ismul A'zham. Diriwayatkan bahwa barang siapa membacanya, maka diampuni dosa-dosanya meskipun sebanyak buih di lautan."
         },
-        "latin": "Astaghfirullahalladzi la ilaha illa huwal-hayyul-qayyumu wa atubu ilaih."
+        "latin": "Astaghfirullāhalladzī lā ilāha illā huwal-hayyul-qayyūmu wa atūbu ilaih."
       },
       {
         "id": "selasa-20",
@@ -1257,7 +1257,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad ﷺ, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad ﷺ. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "selasa-21",
@@ -1269,7 +1269,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Kesempurnaan iman seorang hamba sangat bergantung pada kedalaman cintanya kepada Rasulullah ﷺ."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi qala 'an nafsih: \"La yu'minu ahadukum hatta akuna ahabba ilaihi miw-walidihi wa waladihi wan-nasi ajma'in.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī qāla 'an nafsih: \"Lā yu'minu ahadukum hattā akūna ahabba ilaihi miw-wālidihi wa waladihī wan-nāsi ajma'īn.\""
       }
     ]
   },
@@ -1286,7 +1286,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(Surah Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "rabu-2",
@@ -1298,7 +1298,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Sifat <em>ra'uf</em> dan <em>rahim</em> termasuk Asmaul Husna Allah Subhanahu wa Ta'ala yang sesuai dengan keagungan sifat keilahian-Nya. Adapun sifat yang disematkan kepada Nabi ﷺ di dalam Al-Qur'an sesuai dengan kedudukan beliau sebagai hamba Allah."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikar-ra'ufir-rahimilladzi qulta fi haqqih: \"Bil-mu'minina ra'ufur-rahim.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikar-ra'ūfir-rahīmilladzī qulta fī haqqih: \"Bil-mu'minīna ra'ūfur-rahīm.\""
       },
       {
         "id": "rabu-3",
@@ -1310,7 +1310,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Nabi ﷺ membaca doa ini ketika menggali Parit Khandaq."
         },
-        "latin": "Allahumma la 'aisya illa 'aisyul-akhirah."
+        "latin": "Allāhumma lā 'aisya illā 'aisyul-ākhirah."
       },
       {
         "id": "rabu-4",
@@ -1322,7 +1322,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Merupakan doa Nabawi untuk memohon sifat tawaduk dan kerendahan hati."
         },
-        "latin": "Allahumma ahyini miskinaw-wa amitni miskinaw-wahsyurni fi zumratil-masakin."
+        "latin": "Allāhumma ahyinī miskīnaw-wa amitnī miskīnaw-wahsyurnī fī zumratil-masākīn."
       },
       {
         "id": "rabu-5",
@@ -1334,7 +1334,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Ini adalah doa dari Nabi ﷺ. Hendaknya keadaan seperti inilah yang senantiasa dimiliki oleh orang-orang beriman."
         },
-        "latin": "Allahummaj'alni minalladzina idza ahsanu-stabtsaru wa idza asa'u-staghfaru."
+        "latin": "Allāhummaj'alnī minalladzīna idzā ahsanū-stabsyarū wa idzā asā'ū-staghfarū."
       },
       {
         "id": "rabu-6",
@@ -1346,7 +1346,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Ini merupakan doa Nabawi yang menunjukkan kepasrahan dan kelemahan diri secara penuh untuk memohon pertolongan Allah Subhanahu wa Ta'ala."
         },
-        "latin": "Allahumma waqiyatan kawaqiyatil-walid."
+        "latin": "Allāhumma wāqiyatan kawāqiyatil-walīd."
       },
       {
         "id": "rabu-7",
@@ -1358,7 +1358,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Keutamaan memiliki sifat-sifat hati yang dipanjatkan dalam doa ini amatlah besar."
         },
-        "latin": "Allahumma inna nas'aluka quluban awwahatam-mukhbitatam-munibatan fi sabilik."
+        "latin": "Allāhumma innā nas'aluka qulūban awwāhatam-mukhbitatam-munībatan fī sabīlik."
       },
       {
         "id": "rabu-8",
@@ -1366,7 +1366,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ الْأَشْيَاءِ إِلَيَّ وَاجْعَلْ خَشْيَتَكَ أَخْوَفَ الْأَشْيَاءِ عِنْدِيْ وَاقْطَعْ عَنِّيْ حَاجَاتِ الدُّنْيَا بِالشَّوْقِ إِلٰى لِقَاءِكَ وَإِذَا أَقْرَرْتَ أَعْيُنَ أَهْلِ الدُّنْيَا مِنْ دُنْيَاهُمْ فَأَقْرِرْ عَيْنِيْ مِنْ عِبَادَتِكَ",
         "reference": "(Hilyatul Auliya karya Abu Nu'aim)",
         "translation": "Ya Allah! Jadikanlah cintaku kepada-Mu sebagai hal yang paling aku cintai melebihi segalanya, jadikanlah rasa takut kepada-Mu sebagai hal yang paling aku takuti melebihi apa pun, putuskanlah kebergantunganku pada kebutuhan duniawi dengan kerinduan untuk bertemu dengan-Mu, dan apabila Engkau membahagiakan mata penduduk dunia dengan dunianya, maka bahagiakanlah mataku dengan beribadah kepada-Mu.",
-        "latin": "Allahummaj'al hubbaka ahabbal-asyya'i ilayya, waj'al khasyyataka akhwafar-asyya'i 'indi, waqtha' 'anni hajatid-dunya bisy-syauqi ila liqa'ika, wa idza aqrarta a'yuna ahlid-dunya min dunyahum fa'aqrir 'aini min 'ibadatik."
+        "latin": "Allāhummaj'al hubbaka ahabbal-asyyā'i ilayya, waj'al khasyyataka akhwafar-asyyā'i 'indī, waqtha' 'annī hājātid-dunyā bisy-syauqi ilā liqā'ika, wa idzā aqrarta a'yuna ahlid-dunyā min dunyāhum fa'aqrir 'ainī min 'ibādatik."
       },
       {
         "id": "rabu-9",
@@ -1374,7 +1374,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ لَكَ الْحَمْدُ شُكْرًا وَلَكَ الْمَنُّ فَضْلًا",
         "reference": "(Al-Jami' as-Shaghir, dari Sayyidina Ka'b bin 'Ujrah RADHIYALLAHU ANHU)",
         "translation": "Ya Allah! Hanya milik-Mu segala puji sebagai bentuk rasa syukur, dan hanya milik-Mu segala karunia sebagai bentuk kemurahan-Mu.",
-        "latin": "Allahumma lakal-hamdu syukraw-wa lakal-mannu fadhla."
+        "latin": "Allāhumma lakal-hamdu syukraw-wa lakal-mannu fadhlā."
       },
       {
         "id": "rabu-10",
@@ -1386,7 +1386,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa-doa masnun ini sangat agung untuk memohon sifat-sifat yang mulia."
         },
-        "latin": "Allahumma inni as'alukat-taufiqa limashabika minal-a'mali, wa shidqat-tawakkuli 'alaika, wa husnazh-zhanni bik."
+        "latin": "Allāhumma innī as'alukat-tawfīqa limahābbika minal-a'māli, wa shidqat-tawakkuli 'alaika, wa husnazh-zhanni bik."
       },
       {
         "id": "rabu-11",
@@ -1398,7 +1398,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Ayat ini berisi perintah untuk bersikap sangat hormat dan beradab kepada Rasulullah ﷺ, serta peringatan keras atas pelanggaran sekecil apa pun."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi nahaitāl-mu'minina ay-yarfa'u ashwatahum fauqa shautih, haitsu qulta fi haqqih: \"Ya ayyuhalladzina amanu la tarfa'u ashwatakum fauqa shautin-nabiyy.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī nahaitāl-mu'minīna ay-yarfa'ū ashwātahum fawqa shawtih, haitsu qulta fī haqqih: \"Yā ayyuhalladzīna āmanū lā tarfa'ū ashwātakum fawqa shawtin-nabiyy.\""
       },
       {
         "id": "rabu-12",
@@ -1410,7 +1410,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa masnun ini dipanjatkan untuk memperoleh taufik dalam berdzikir dan berbuat taat."
         },
-        "latin": "Allahummaftah masaami'a qalbi lidzikrika, warzuqni tha'ataka wa tha'ata rasulika, wa 'amalam-bikitabik."
+        "latin": "Allāhummaftah masāmi'a qalbī lidzikrika, warzuqnī thā'ataka wa thā'ata rasūlika, wa 'amalam-bikitābik."
       },
       {
         "id": "rabu-13",
@@ -1418,7 +1418,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اعْفُ عَنِّيْ فَإِنَّكَ عَفُوٌّ كَرِيْمٌ",
         "reference": "(Al-Mu'jam al-Ausath)",
         "translation": "Ya Allah! Maafkanlah aku, karena sesungguhnya Engkau Maha Pemaaf lagi Maha Mulia.",
-        "latin": "Allahumma'fu 'anni fa'innaka 'afuwwun karim."
+        "latin": "Allāhumma'fu 'annī fa'innaka 'afuwwun karīm."
       },
       {
         "id": "rabu-14",
@@ -1430,7 +1430,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa Nabawi untuk kesucian hati dan menjaga kehormatan diri."
         },
-        "latin": "Allahumma thahhir qalbi minan-nifaq, wa 'amali minar-riya', wa lisani minal-kadzib, wa 'aini minal-khiyanah, fa'innaka ta'lamu kha'inatal-a'yuni wa ma tukhfish-shudur."
+        "latin": "Allāhumma thahhir qalbī minan-nifāq, wa 'amalī minar-riyā', wa lisānī minal-kadzib, wa 'ainī minal-khiyānah, fa'innaka ta'lamu khā'inatal-a'yuni wa mā tukhfish-shudūr."
       },
       {
         "id": "rabu-15",
@@ -1442,7 +1442,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa Nabawi untuk menunaikan dan membebaskan diri dari hak-hak sesama manusia (<em>haqqul 'ibad</em>) yang tidak sanggup ditunaikan secara langsung."
         },
-        "latin": "Allahumma inni attakhidzu 'indaka 'ahdal-lan tukhlifanihi, fa'innama ana basyar, fa'ayyu-ma mu'minin adzaytuhu aw syatamtuhu aw jaladtuhu aw la'antuhu faj'alha lahu shalataw-wa zakataw-wa qurbatan tuqarribuhu biha ilaik."
+        "latin": "Allāhumma innī attakhidzu 'indaka 'ahdal-lan tukhlifanīh, fa'innamā anā basyar, fa'ayyu-mā mu'minin ādzaytuhū aw syatamtuhū aw jaladtuhū aw la'antuhū faj'alhā lahū shalātaw-wa zakātaw-wa qurbatan tuqarribuhū bihā ilaik."
       },
       {
         "id": "rabu-16",
@@ -1454,7 +1454,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa Nabawi untuk memohon keistiqamahan."
         },
-        "latin": "Allahumma la takilni ila nafsi tharfata 'ainiw-wa la tanzi' minni saliha ma a'thaitani."
+        "latin": "Allāhumma lā takilnī ilā nafsī tharfata 'ainiw-wa lā tanzi' minnī shāliha mā a'thaitanī."
       },
       {
         "id": "rabu-17",
@@ -1466,7 +1466,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa terbaik untuk perlindungan dari kejahatan nafsu dan memperoleh petunjuk."
         },
-        "latin": "Allahumma qini syarra nafsi wa'zim li 'ala arsyadi amri."
+        "latin": "Allāhumma qinī syarra nafsī wa'zim lī 'alā arsyadi amrī."
       },
       {
         "id": "rabu-18",
@@ -1474,7 +1474,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمُ",
         "reference": "(Sunan Arba'ah)",
         "translation": "Ya Allah! Ampunilah aku, rahmatilah aku, dan terimalah tobatku, sesungguhnya Engkau Maha Penerima Tobat lagi Maha Penyayang.",
-        "latin": "Allahummaghfir li warhamni wa tub 'alayya innaka antat-tawwabur-rahim."
+        "latin": "Allāhummaghfir lī warhamnī wa tub 'alayya innaka antat-tawwābur-rahīm."
       },
       {
         "id": "rabu-19",
@@ -1486,7 +1486,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Doa untuk memohon ampunan dari segala bentuk kesalahan dan dosa."
         },
-        "latin": "Allahummaghfir li jiddi wa hazli wa khatha'i wa 'amdi wa kulla dzalika 'indi."
+        "latin": "Allāhummaghfir lī jiddī wa hazlī wa khatha'ī wa 'amdī wa kulla dzālika 'indī."
       },
       {
         "id": "rabu-20",
@@ -1494,7 +1494,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ لَكَ الْحَمْدُ كَالَّذِيْ تَقُوْلُ وَخَيْرًا مِّمَّا نَقُوْلُ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Bagi-Mu segala puji sebagaimana yang Engkau firmankan, dan pujian yang terbaik melebihi apa yang kami ucapkan.",
-        "latin": "Allahumma lakal-hamdu kalladzi taqulu wa khairam-mimma naqul."
+        "latin": "Allāhumma lakal-hamdu kalladzī taqūlu wa khairam-mimmā naqūl."
       },
       {
         "id": "rabu-21",
@@ -1502,7 +1502,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ (سَيِّدُنَا) مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Sesungguhnya kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu (Sayyidina) Muhammad ﷺ shallallahu 'alaihi wa alihi wa sallam, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu (Sayyidina) Muhammad ﷺ shallallahu 'alaihi wa alihi wa sallam. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampaian (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka (sayyiduna) Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka (sayyidunā) Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "rabu-22",
@@ -1514,7 +1514,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Pada bagian faedah catatan kaki tercantum bait syair Punjabi/Urdu tradisional yang memuji janji syafaat Nabi ﷺ berdasarkan ayat <em>wa lasaufa yu'thiika rabbuka fatardha</em>."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi aqsamta lahu haitsu qulta jalla sya'nuk: \"Wadh-dhuha. Wal-laili idza saja. Ma wadda'aka rabbuka wa ma qala. Wa lal-akhiratu khairul-laka minal-ula. Wa lasaufa yu'thika rabbuka fatardha.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī aqsamta lahū haitsu qulta jalla sya'nuk: \"Wadh-dhuhā. Wal-laili idzā sajā. Mā wadda'aka rabbuka wa mā qalā. Wa lal-ākhiratu khairul-laka minal-ūlā. Wa lasawfa yu'thīka rabbuka fatardhā.\""
       }
     ]
   },
@@ -1531,7 +1531,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ ۝ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِينَ ۝ الرَّحْمٰنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ۝",
         "reference": "(Surah Al-Fatihah: 1-7)",
         "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.",
-        "latin": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yaumid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash-shirathal-mustaqim. Shirathalladzina an'amta 'alaihim ghairil-maghdhubi 'alaihim wa ladh-dhallin."
+        "latin": "Bismillāhir-rahmānir-rahīm. Al-hamdulillāhi rabbil-'ālamīn. Ar-rahmānir-rahīm. Māliki yaumid-dīn. Iyyāka na'budu wa iyyāka nasta'īn. Ihdinash-shirāthal-mustaqīm. Shirāthalladzīna an'amta 'alaihim ghairil-maghdhūbi 'alaihim wa ladh-dhāllīn. (Āmīn)."
       },
       {
         "id": "kamis-2",
@@ -1539,7 +1539,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ أَشْرَفَ الصَّلٰوةِ وَالتَّسْلِيْمِ عَلٰى حَبِيْبِكَ سَيِّدِنَا وَنَبِيِّنَا مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ الَّذِيْ كَانَ وَجْهُهُ يَتَلَأْلَأُ كَالْقَمَرِ لَيْلَةَ الْبَدْرِ",
         "reference": "(Syifa Qadhi 'Iyadh)",
         "translation": "Ya Allah! Limpahkanlah shalawat dan salam yang paling mulia kepada kekasih-Mu, hamba-Mu, Rasul-Mu, serta pemimpin dan Nabi kami Muhammad ﷺ, yang wajah agungnya bersinar terang bagaikan bulan purnama di malam hari.",
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi kana wajhuhu yatala'la'u kal-qamari lailatal-badr."
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī kāna wajhuhū yatala'la'u kal-qamari lailatal-badr."
       },
       {
         "id": "kamis-3",
@@ -1551,7 +1551,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang sangat komprehensif untuk kebaikan dunia dan akhirat. Rasulullah ﷺ pernah bersabda kepada Sayyidina Ali bin Abi Thalib RA: \"Mau kah engkau aku beri 5.000 ekor kambing atau 5 kalimat doa yang menjamin kebaikan agama dan duniamu?\" Sayyidina Ali RA memilih 5 kalimat doa ini melebihi harta dunia."
         },
-        "latin": "Allahummaghfir li dzanbi, wa wassi' li khuluqi, wa thayyib li kasbi, wa qanni'ni bima razaqtani, wa la tudzhib thalabi ila syai'in sharaftahu 'anni. Allahu Akbar, Allahu Akbar, Allahu Akbar."
+        "latin": "Allāhummaghfir lī dzanbī, wa wassi' lī khuluqī, wa thayyib lī kasbī, wa qanni'nī bimā razaqtanī, wa lā tudzhib thalabī ilā syai'in sharaftahū 'annī. Allāhu Akbar, Allāhu Akbar, Allāhu Akbar."
       },
       {
         "id": "kamis-4",
@@ -1563,7 +1563,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini dibaca agar dihilangkan rasa takut/benci terhadap kematian bagi orang-orang yang beriman."
         },
-        "latin": "Allahumma habbibil-mauta ila may-ya'lamu anna sayyidana Muhammadan shallallahu 'alaihi wa alihi wa sallama rasuluk."
+        "latin": "Allāhumma habbibil-mawta ilā may-ya'lamu anna sayyidanā Muhammadan shallallāhu 'alaihi wa ālihī wa sallama rasūluk."
       },
       {
         "id": "kamis-5",
@@ -1575,7 +1575,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik untuk mengubah lintasan pikiran buruk menjadi pikiran yang diridhai Allah."
         },
-        "latin": "Allahummaj'al wasawisa qalbi khasyyataka wa dzikrak, waj'al himmati wa hawaya fima tuhibbu wa tardha."
+        "latin": "Allāhummaj'al wasāwisa qalbī khasyyataka wa dzikrak, waj'al himmatī wa hawāya fīmā tuhibbu wa tardhā."
       },
       {
         "id": "kamis-6",
@@ -1587,7 +1587,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Diriwayatkan dari Sayyidatinā 'Aisyah RADHIYALLAHU 'ANHA dalam hadis panjang bahwa orang yang membaca doa ini 25 kali sehari akan dianugerahi pahala derajat mati syahid."
         },
-        "latin": "Allahumma barik li fil-mauti wa fi ma ba'dal-maut."
+        "latin": "Allāhumma bārik lī fil-mawti wa fī mā ba'dal-mawt."
       },
       {
         "id": "kamis-7",
@@ -1599,7 +1599,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Disunnahkan mengusap dahi/kening dengan tangan kanan sambil membaca Bismillah dan doa ini setelah selesai shalat fardhu."
         },
-        "latin": "Allahumma adzhib 'annil-hamma wal-huzn."
+        "latin": "Allāhumma adzhib 'annil-hamma wal-huzn."
       },
       {
         "id": "kamis-8",
@@ -1611,7 +1611,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Barang siapa membacanya rutin setiap selesai shalat, maka ia berhak mendapatkan syafaat Nabi ﷺ."
         },
-        "latin": "Allahumma a'thi sayyidana Muhammadaninil-wasilata waj'al fil-mushthafaina mahabbatah, wa fil-a'layna darajatah, wa fil-muqarrabina dzikrah."
+        "latin": "Allāhumma a'thi sayyidanā Muhammadaninil-wasīlata waj'al fil-mushthafaina mahabbatah, wa fil-a'layna darajatah, wa fil-muqarrabīna dzikrah."
       },
       {
         "id": "kamis-9",
@@ -1623,7 +1623,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Dibaca saat berdiri di shaf shalat, bermanfaat sebagai wasilah memperoleh mati syahid."
         },
-        "latin": "Allahumma a'thini afdhala ma tu'ti 'ibadakash-shalihin."
+        "latin": "Allāhumma a'thinī afdhala mā tu'tī 'ibādakash-shālihīn."
       },
       {
         "id": "kamis-10",
@@ -1635,7 +1635,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ menganjurkan untuk membaca doa ini ketika muadzin mulai mengumandangkan azan."
         },
-        "latin": "Allahummaftah aqfala qulubina bidzikrik, wa atmim 'alaina ni'matak, wa asbigh 'alaina min fadhlik, waj'alna min 'ibadikash-shalihin."
+        "latin": "Allāhummaftah aqfāla qulūbinā bidzikrik, wa atmim 'alainā ni'matak, wa asbigh 'alainā min fadhlik, waj'alnā min 'ibādikash-shālihīn."
       },
       {
         "id": "kamis-11",
@@ -1647,7 +1647,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa utama untuk penyucian hati (tazkiyatun nafs) dan keselarasan lahir-batin."
         },
-        "latin": "Allahummaj'al sarirati khairam-min 'alaniyati waj'al 'alaniyati shalihah."
+        "latin": "Allāhummaj'al sarīratī khairam-min 'alāniyatī waj'al 'alāniyatī shālihah."
       },
       {
         "id": "kamis-12",
@@ -1659,7 +1659,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Barang siapa yang diberi taufik untuk ikut serta berkhidmat menjaga dan memperjuangkan agama Nabi ﷺ, maka ia pada hakikatnya menjadi perantara (sebab) terlaksananya janji pemeliharaan Allah Ta'ala."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi takaffalta bihifzhi dinihi haitsu qulta jalla sya'nuk: \"Inna nahnu nazzalnadz-dzikra wa inna lahu lahafizhun.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī takaffalta bihifzhi dīnihī haitsu qulta jalla sya'nuk: \"Innā nahnu nazzalnadz-dzikra wa innā lahū lahāfizhūn.\""
       },
       {
         "id": "kamis-13",
@@ -1671,7 +1671,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa terbaik memohon taufik untuk istiqamah dalam amal kebaikan."
         },
-        "latin": "Allahumma waffiqni lima tuhibbu wa tardha minal-qauli wal-'amali wal-fi'li wan-niyyati wal-hadyi, innaka 'ala kulli syai'in qadir."
+        "latin": "Allāhumma waffiqnī limā tuhibbu wa tardhā minal-qawli wal-'amali wal-fi'li wan-niyyati wal-hadyi, innaka 'alā kulli syai'in qadīr."
       },
       {
         "id": "kamis-14",
@@ -1683,7 +1683,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi untuk tergolong ke dalam kelompok hamba-hamba pilihan Allah Ta'ala."
         },
-        "latin": "Allahummaj'alni mimman tawakkala 'alaika fakafaytah, wastahdaka fahadaytah, wastan-sharka fanashartah."
+        "latin": "Allāhummaj'alnī mimman tawakkala 'alaika fakafaytah, wastahdāka fahadaytah, wastan-sharkā fanashartah."
       },
       {
         "id": "kamis-15",
@@ -1691,7 +1691,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ لَا تُخْزِنِيْ فَإِنَّكَ بِيْ عَالِمٌ وَلَا تُعَذِّبْنِيْ فَإِنَّكَ عَلَيَّ قَادِرٌ",
         "reference": "(Kanzul 'Ummal / Musnad Abu Ya'la)",
         "translation": "Ya Allah! Janganlah Engkau hinakan aku (pada hari kiamat) karena Engkau Maha Mengetahui segala keadaanku, dan janganlah Engkau mengazabku karena Engkau berkuasa penuh atas diriku.",
-        "latin": "Allahumma la tukhzini fa'innaka bi 'alim, wa la tu'adzdzibni fa'innaka 'alayya qadir."
+        "latin": "Allāhumma lā tukhzinī fa'innaka bī 'alīm, wa lā tu'adzdzibnī fa'innaka 'alayya qadīr."
       },
       {
         "id": "kamis-16",
@@ -1703,7 +1703,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang sangat ampuh memohon kekukuhan iman serta perlindungan bagi keluarga dan keturunan."
         },
-        "latin": "Allahummaqbil biqalbi ila dinika wahfazh miw-wara'ina birahmatik."
+        "latin": "Allāhummaqbil biqalbī ilā dīnika wahfazh miw-warā'inā birahmatik."
       },
       {
         "id": "kamis-17",
@@ -1711,7 +1711,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ احْرُسْنِيْ بِعَيْنِكَ الَّتِيْ لَا تَنَامُ وَاكْنُفْنِيْ بِرُكْنِكَ الَّذِيْ لَا يُرَامُ وَارْحَمْنِيْ بِقُدْرَتِكَ عَلَيَّ فَلَا أَهْلِكُ وَأَنْتَ رَجَائِيْ فَكَمْ مِنْ نِعْمَةٍ أَنْعَمْتَ بِهَا عَلَيَّ قَلَّ لَكَ بِهَا شُكْرِيْ وَكَمْ مِنْ بَلِيَّةٍ إِبْتَلَيْتَنِيْ بِهَا قَلَّ لَكَ بِهَا صَبْرِيْ فَيَا مَنْ قَلَّ عِنْدَ نِعْمَتِهِ شُكْرِيْ فَلَمْ يَحْرِمْنِيْ وَيَا مَنْ قَلَّ عِنْدَ بَلِيَّتِهِ صَبْرِيْ فَلَمْ يَخْذُلْنِيْ وَيَا مَنْ رَآنِيْ عَلَى الْخَطَايَا فَلَمْ يَفْضَحْنِيْ يَا ذَا الْمَعْرُوْفِ الَّذِيْ لَا يَنْقَضِيْ أَبَدًا وَيَا ذَا النَّعْمَاءِ الَّتِيْ لَا تُحْصٰى أَبَدًا أَسْأَلُكَ أَنْ تُصَلِّيَ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ وَبِكَ أَدْرَأُ فِيْ نُحُوْرِ الْأَعْدَاءِ وَالْجَبَابِرَةِ",
         "reference": "(Musnad al-Firdaus)",
         "translation": "Ya Allah! Peliharalah aku dengan pengawasan-Mu yang tidak pernah tidur, lindungilah aku dalam benteng-Mu yang tak tertembus, dan rahmati aku dengan kekuasaan-Mu atas diriku sehingga aku tidak binasa, sebab Engkaulah tempat tumpuan harapanku. Betapa banyak nikmat yang Engkau anugerahkan kepadaku namun aku sedikit bersyukur, dan betapa banyak cobaan yang Engkau ujikan kepadaku namun aku kurang bersabar. Wahai Zat yang tetap memberi nikmat meski syukurku sedikit, Wahai Zat yang tidak menelantarkanku meski sabarku kurang, Wahai Zat yang melihat dosa-dosaku namun tidak mempermalukanku di hadapan makhluk! Wahai Pemilik kebaikan yang tiada bertepi dan Pemilik kenikmatan yang tak terhitung! Aku memohon agar Engkau melimpahkan shalawat kepada Sayyidina Muhammad ﷺ dan keluarga Sayyidina Muhammad ﷺ, serta dengan pertolongan-Mu kami menolak kejahatan para musuh dan kaum yang berbuat zalim.",
-        "latin": "Allahummahrusni bi'ainikallati la tanam, waknufni biruknikalladzi la yuram, warhamni biqudratika 'alayya fala ahliku wa anta raja'i. Fakam-min ni'matin an'amta biha 'alayya qalla laka biha syukri, wa kam-min baliyyatin-ibtalaytani biha qalla laka biha shabri. Fa ya man qalla 'inda ni'matihi syukri falam yahrimni, wa ya man qalla 'inda baliyyatihi shabri falam yakhdzulni, wa ya mar-ra'ani 'alal-khathaya falam yafdhahni. Ya dzal-ma'rufilladzi la yanqadhi abada, wa ya dzan-na'ma'illati la tuhsha abada, as'aluka an tushalliya 'ala sayyidina Muhammadiw-wa 'ala ali sayyidina Muhammad, wa bika adra'u fi nuhuril-a'da'i wal-jababirah."
+        "latin": "Allāhummahrusnī bi'ainikallatī lā tanām, waknufnī biruknikalladzī lā yurām, warhamnī biqudratika 'alayya falā ahliku wa anta rajā'ī. Fakam-min ni'matin an'amta bihā 'alayya qalla laka bihā syukrī, wa kam-min baliyyatin-ibtalaytanī bihā qalla laka bihā shabrī. Fa yā man qalla 'inda ni'matihī syukrī falam yahrimnī, wa yā man qalla 'inda baliyyatihī shabrī falam yakhdzulnī, wa yā mar-ra'ānī 'alal-khathāyā falam yafdhahnī. Yā dzal-ma'rūfilladzī lā yanqadhī abadā, wa yā dzan-na'mā'illatī lā tuhshā abadā, as'aluka an tushalliya 'alā sayyidinā Muhammadiw-wa 'alā āli sayyidinā Muhammad, wa bika adra'u fī nuhūril-a'dā'i wal-jabābirah."
       },
       {
         "id": "kamis-18",
@@ -1723,7 +1723,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa yang diajarkan Rasulullah ﷺ untuk memohon kemudahan saat menghadapi detik-detik kematian."
         },
-        "latin": "Allahumma a'inni 'ala ghamaratil-mauti wa sakaratil-maut."
+        "latin": "Allāhumma a'innī 'alā ghamarātil-mawti wa sakarātil-mawt."
       },
       {
         "id": "kamis-19",
@@ -1731,7 +1731,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اجْعَلْ نَبِيَّنَا لَنَا فَرَطًا وَحَوْضَهُ لَنَا مَوْرِدًا",
         "reference": "(HR. Bukhari & Muslim / As-Sunan)",
         "translation": "Ya Allah! Jadikanlah Nabi kami sebagai penjemput/pembuka jalan bagi kami (di akhirat) dan jadikanlah telaga beliau (Al-Kautsar) sebagai tempat kami minum kelak.",
-        "latin": "Allahummaj'al nabiyyana lana farathaw-wa haudhahū lana maurida."
+        "latin": "Allāhummaj'al nabiyyanā lanā farathaw-wa hawdhahū lanā mawridā."
       },
       {
         "id": "kamis-20",
@@ -1743,7 +1743,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa ini merupakan doa terakhir yang diucapkan oleh Rasulullah ﷺ sebelum beliau wafat."
         },
-        "latin": "Allahummaghfir li warhamni wa alhiqni bir-rafiqil-a'la."
+        "latin": "Allāhummaghfir lī warhamnī wa alhiqnī bir-rafīqil-a'lā."
       },
       {
         "id": "kamis-21",
@@ -1751,7 +1751,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ مِنْهُ نَبِيُّكَ سَيِّدُنَا مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَنَعُوْذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَ مِنْهُ نَبِيُّكَ سَيِّدُنَا مُحَمَّدٌ صَلَّى اللهُ تَعَالٰى عَلَيْهِ وَآلِهِ وَسَلَّمَ وَأَنْتَ الْمُسْتَعَانُ وَعَلَيْكَ الْبَلَاغُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
         "reference": "(HR. Tirmidzi)",
         "translation": "Ya Allah! Kami memohon kepada-Mu kebaikan sebagaimana yang dimohonkan oleh Nabi-Mu Sayyidina Muhammad ﷺ, dan kami berlindung kepada-Mu dari keburukan sebagaimana yang dimohonkan perlindungan oleh Nabi-Mu Sayyidina Muhammad ﷺ. Engkaulah tempat memohon pertolongan dan bagi-Mu penyampean (kebenaran), serta tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
-        "latin": "Allahumma inna nas'aluka min khairi ma sa'alaka minhu nabiyyuka sayyiduna Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa na'udzu bika min syarri masta'adza minhu nabiyyuka sayyiduna Muhammadun shallallahu ta'ala 'alaihi wa alihi wa sallam, wa antal-musta'an, wa 'alaikal-balagh, wa la hawla wa la quwwata illa billah."
+        "latin": "Allāhumma innā nas'aluka min khairi mā sa'alaka minhu nabiyyuka sayyidunā Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa na'ūdzu bika min syarri masta'ādza minhu nabiyyuka sayyidunā Muhammadun shallallāhu ta'ālā 'alaihi wa ālihī wa sallam, wa antal-musta'ān, wa 'alaikal-balāgh, wa lā hawla wa lā quwwata illā billāh."
       },
       {
         "id": "kamis-22",
@@ -1763,7 +1763,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Dalam hadis shahih Rasulullah ﷺ bersabda: \"Tidak ada nabi setelahku.\" Oleh karena itu, ketika Nabi Isa 'Alaihissalam turun kembali ke bumi kelak, beliau akan menjalankan syariat yang dibawa oleh Nabi Muhammad ﷺ."
         },
-        "latin": "Allahumma shalli wa sallim asyrafash-shalati wat-taslimi 'ala habibika sayyidina wa nabiyyina Muhammadin 'abdika wa rasulikalladzi khatamta bihin-nubuwwata war-risalata haitsu qulta fi haqqih: \"Ma kana Muhammadun aba ahadim-mir-rijalikum wa lakir-rasulallahi wa khataman-nabiyyin.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī khatamta bihin-nubuwwata war-risālata haitsu qulta fī haqqih: \"Mā kāna Muhammadun abā ahadim-mir-rijālikum wa lākir-rasūlallāhi wa khātaman-nabiyyīn.\""
       }
     ]
   },
@@ -1784,7 +1784,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ bersabda bahwa barang siapa yang membaca shalawat ini, maka syafaat beliau wajib baginya."
         },
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa anzilhul-maq'adal-muqarraba 'indaka yaumal-qiyamah."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa anzilhul-maq'adal-muqarraba 'indaka yaumal-qiyāmah."
       },
       {
         "id": "sholawat-2",
@@ -1792,7 +1792,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ الْقَائِمَةِ وَالصَّلٰوةِ النَّافِعَةِ صَلِّ عَلٰى مُحَمَّدٍ وَارْضَ عَنِّيْ رِضًى لَّا تَسْخَطُ بَعْدَهُ أَبَدًا ۝",
         "reference": "(HR. Ahmad bin Mani' / Ibnu Abi Syaibah)",
         "translation": "Ya Allah, Tuhan pemilik seruan yang sempurna dan shalat yang bermanfaat ini! Limpahkanlah shalawat kepada Muhammad ﷺ dan ridhailah aku dengan keridhaan yang setelahnya Engkau tidak akan murka kepadaku selama-lamanya.",
-        "latin": "Allahumma rabba hadzihid-da'watil-qa'imati wash-shalatin-nafi'ati shalli 'ala Muhammadiw-wardha 'anni ridhal-la taskhathu ba'dahu abada."
+        "latin": "Allāhumma rabba hādzihid-da'watil-qā'imati wash-shalātin-nāfi'ati shalli 'alā Muhammadiw-wardha 'annī ridhal-lā taskhathu ba'dahū abadā."
       },
       {
         "id": "sholawat-3",
@@ -1804,7 +1804,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Abu Sa'id Al-Khudri RA meriwayatkan bahwa Rasulullah ﷺ bersabda: \"Siapa saja orang Islam yang tidak memiliki sedekah, hendaklah ia membaca shalawat ini dalam doanya, niscaya itu menjadi zakat (pembersih) baginya.\""
         },
-        "latin": "Allahumma shalli 'ala Muhammadin 'abdika wa rasulik, wa shalli 'alal-mu'minina wal-mu'minat, wal-muslimina wal-muslimat."
+        "latin": "Allāhumma shalli 'alā Muhammadin 'abdika wa rasūlik, wa shalli 'alal-mu'minīna wal-mu'mināt, wal-muslimīna wal-muslimāt."
       },
       {
         "id": "sholawat-4",
@@ -1812,7 +1812,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَارْحَمْ مُحَمَّدًا وَّآلَ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Al-Baihaqi)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada keluarga Muhammad ﷺ, berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ, serta rahmatilah Muhammad ﷺ dan keluarga Muhammad ﷺ, sebagaimana Engkau telah melimpahkan shalawat, berkah, dan rahmat kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, warham Muhammadaw-wa ala Muhammad, kama shallaita wa barakta wa tarahhamta 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, warham Muhammadaw-wa āla Muhammad, kamā shallaita wa bārakta wa tarahhamta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-5",
@@ -1820,7 +1820,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Bukhari)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala ali Ibrahima innaka hamidum-majid. Allahumma barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-6",
@@ -1828,7 +1828,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Muslim)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima fil-'alamina innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma fil-'ālamīna innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-7",
@@ -1836,7 +1836,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. An-Nasa'i)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala Ibrahima innaka hamidum-majid. Allahumma barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-8",
@@ -1844,7 +1844,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. An-Nasa'i)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala Ibrahima innaka hamidum-majid. Wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīma innaka hamīdum-majīd. Wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-9",
@@ -1852,7 +1852,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Abu Dawud)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada Ibrahim. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima fil-'alamina innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma fil-'ālamīna innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-10",
@@ -1860,7 +1860,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Abu Dawud)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā barakta 'alā Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-11",
@@ -1868,7 +1868,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Muslim)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-12",
@@ -1876,7 +1876,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ فِي الْعٰلَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Abu Dawud)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ, istri-istrinya, dan keturunannya sebagaimana Engkau telah bershalawat kepada Ibrahim. Dan berkahilah Muhammad ﷺ, istri-istrinya, dan keturunannya sebagaimana Engkau telah memberkahi keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa azwajihi wa dzurriyyatihi kama shallaita 'ala Ibrahim, wa barik 'ala Muhammadiw-wa azwajihi wa dzurriyyatihi kama barakta 'ala ali Ibrahima fil-'alamina innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa azwājihī wa dzurriyyatihī kamā shallaita 'alā Ibrāhīm, wa bārik 'alā Muhammadiw-wa azwājihī wa dzurriyyatihī kamā bārakta 'alā āli Ibrāhīma fil-'ālamīna innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-13",
@@ -1884,7 +1884,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Ibnu Majah)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ, istri-istrinya, dan keturunannya sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad ﷺ, istri-istrinya, dan keturunannya sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala azwajihi wa dzurriyyatihi kama shallaita 'ala ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala azwajihi wa dzurriyyatihi kama barakta 'ala Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā azwājihī wa dzurriyyatihī kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā azwājihī wa dzurriyyatihī kamā bārakta 'alā Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-14",
@@ -1896,7 +1896,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Abu Hurairah RA meriwayatkan bahwa Rasulullah ﷺ bersabda: \"Barang siapa yang suka takarannya dipenuhi saat bershalawat kepada kami para ahlul bait, hendaklah ia membaca doa ini.\""
         },
-        "latin": "Allahumma shalli 'ala Muhammadinin-nabiyyi wa azwajihi ummahatil-mu'minina wa dzurriyyatihi wa ahli baitihi kama shallaita 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadinin-nabiyyi wa azwājihī ummahātil-mu'minīna wa dzurriyyatihī wa ahli baitihī kamā shallaita 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-15",
@@ -1908,7 +1908,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Abu Hurairah RA meriwayatkan bahwa siapa yang bershalawat dengan lafaz ini, maka baginya pahala timbangan yang sangat sempurna."
         },
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala Ibrahima wa ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala Ibrahima wa ali Ibrahim, wa tarahham 'ala Muhammadiw-wa 'ala ali Muhammad, kama tarahhamta 'ala Ibrahima wa ali Ibrahim."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīma wa āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma wa āli Ibrāhīm, wa tarahham 'alā Muhammadiw-wa 'alā āli Muhammad, kamā tarahhamta 'alā Ibrāhīma wa āli Ibrāhīm."
       },
       {
         "id": "sholawat-16",
@@ -1916,7 +1916,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ فِي الْأَوَّلِيْنَ وَالْآخِرِيْنَ وَفِي الْمَلَإِ الْأَعْلٰى إِلٰى يَوْمِ الدِّينِ ۝",
         "reference": "(HR. Al-Mu'afiri)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ di kalangan orang-orang terdahulu maupun orang-orang kemudian, serta di kalangan para malaikat tertinggi (Al-Mala'il A'la) hingga hari pembalasan.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammadin fil-awwalina wal-akhirin, wa fil-mala'il-a'la ila yaumid-din."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammadin fil-awwalīna wal-ākhirīn, wa fil-mala'il-a'lā ilā yaumid-dīn."
       },
       {
         "id": "sholawat-17",
@@ -1924,7 +1924,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَبَارِكْ وَسَلِّمْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ وَارْحَمْ مُحَمَّدًا وَّآلَ مُحَمَّدٍ كَمَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ فِي الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Ishaq bin Rahawaih / Al-Hakim)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan keluarga Muhammad ﷺ, serta berkahilah dan limpahkanlah salam kepada Muhammad ﷺ dan keluarga Muhammad ﷺ, dan rahmatilah Muhammad ﷺ dan keluarga Muhammad ﷺ, sebagaimana Engkau telah bershalawat, memberkahi, dan merahmati Ibrahim dan keluarga Ibrahim di seluruh alam semesta, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, wa barik wa sallim 'ala Muhammadiw-wa 'ala ali Muhammad, warham Muhammadaw-wa ala Muhammad, kama shallaita wa barakta wa tarahhamta 'ala Ibrahima wa 'ala ali Ibrahima fil-'alamina innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, wa bārik wa sallim 'alā Muhammadiw-wa 'alā āli Muhammad, warham Muhammadaw-wa āla Muhammad, kamā shallaita wa bārakta wa tarahhamta 'alā Ibrāhīma wa 'alā āli Ibrāhīma fil-'ālamīna innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-18",
@@ -1932,7 +1932,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Ahmad & At-Thabrani)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammad, kama shallaita 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid. Allahumma barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-19",
@@ -1940,7 +1940,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ عَبْدِكَ وَرَسُوْلِكَ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. An-Nasa'i)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ hamba-Mu dan Rasul-Mu sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Muhammad ﷺ serta keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadin 'abdika wa rasulik, kama shallaita 'ala ali Ibrahim, wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadin 'abdika wa rasūlik, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-20",
@@ -1948,7 +1948,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَآلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. An-Nasa'i)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Nabi Muhammad ﷺ yang ummi dan keluarga Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada Ibrahim dan keluarga Ibrahim. Dan berkahilah Nabi Muhammad ﷺ yang ummi sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahumma shalli 'ala Muhammadinin-nabiyyil-ummiyyi wa 'ala ali Muhammad, kama shallaita 'ala Ibrahima wa ali Ibrahim, wa barik 'ala Muhammadinin-nabiyyil-ummiyyi kama barakta 'ala Ibrahima wa ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhumma shalli 'alā Muhammadinin-nabiyyil-ummiyyi wa 'alā āli Muhammad, kamā shallaita 'alā Ibrāhīma wa āli Ibrāhīm, wa bārik 'alā Muhammadinin-nabiyyil-ummiyyi kamā bārakta 'alā Ibrāhīma wa āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-21",
@@ -1960,7 +1960,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Ibn Abi 'Ashim RA meriwayatkan bahwa Rasulullah ﷺ bersabda: \"Barang siapa bershalawat kepadaku dengan doa ini, wajib baginya syafaatku.\""
         },
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ali Muhammadin shalatan takunu laka ridhaw-wa lihaqqihi ada'a, wa a'thihil-wasilata wal-maqamal-mahmudalladzi wa'adtah."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammadin shalātan takūnu laka ridhaw-wa lihaqqihī adā'ā, wa a'thihil-wasīlata wal-maqāmal-mahmūdalladzī wa'adtah."
       },
       {
         "id": "sholawat-22",
@@ -1968,7 +1968,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ وَعَلٰى آلِهِ وَسَلِّمْ تَسْلِيْمًا ۝",
         "reference": "(HR. Al-Baihaqi)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ, sang Nabi yang ummi, serta kepada keluarganya dan curahkanlah salam penghormatan yang sempurna kepadanya.",
-        "latin": "Allahumma shalli 'ala Muhammadinin-nabiyyil-ummiyyi wa 'ala alihi wa sallim taslima."
+        "latin": "Allāhumma shalli 'alā Muhammadinin-nabiyyil-ummiyyi wa 'alā ālihī wa sallim taslīmā."
       },
       {
         "id": "sholawat-23",
@@ -1976,7 +1976,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ صَلِّ عَلَيْنَا مَعَهُمْ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلَيْنَا مَعَهُمْ، صَلَوَاتُ اللَّهِ وَصَلَوَاتُ الْمُؤْمِنِيْنَ عَلٰى مُحَمَّدِنِ النَّبِيِّ الْأُمِّيِّ ۝",
         "reference": "(HR. Ibnu Abi Syaibah)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Muhammad ﷺ dan kepada ahli baitnya sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Limpahkanlah shalawat kepada kami bersama mereka. Ya Allah! Berkahilah Muhammad ﷺ dan ahli baitnya sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah kami bersama mereka. Semoga shalawat dari Allah dan shalawat orang-orang mukmin senantiasa tercurah kepada Muhammad ﷺ, sang Nabi yang ummi.",
-        "latin": "Allahumma shalli 'ala Muhammadiw-wa 'ala ahli baitihi kama shallaita 'ala Ibrahima innaka hamidum-majid. Allahumma shalli 'alaina ma'ahum. Allahumma barik 'ala Muhammadiw-wa 'ala ahli baitihi kama barakta 'ala Ibrahima innaka hamidum-majid. Allahumma barik 'alaina ma'ahum. Shalawatullahi wa shalawatul-mu'minina 'ala Muhammadinin-nabiyyil-ummiyy."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā ahli baitihī kamā shallaita 'alā Ibrāhīma innaka hamīdum-majīd. Allāhumma shalli 'alainā ma'ahum. Allāhumma bārik 'alā Muhammadiw-wa 'alā ahli baitihī kamā bārakta 'alā Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alainā ma'ahum. Shalawātullāhi wa shalawātul-mu'minīna 'alā Muhammadinin-nabiyyil-ummiyy."
       },
       {
         "id": "sholawat-24",
@@ -1984,7 +1984,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Ibnu Abi 'Ashim)",
         "translation": "Ya Allah! Jadikanlah shalawat-Mu dan keberkahan-Mu tercurah kepada Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah menjadikannya kepada Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Dan berkahilah Muhammad ﷺ dan keluarga Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allahummaj'al shalawatika wa barakatika 'ala Muhammadiw-wa 'ala ali Muhammad, kama ja'altaha 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid. Wa barik 'ala Muhammadiw-wa 'ala ali Muhammad, kama barakta 'ala Ibrahima wa 'ala ali Ibrahima innaka hamidum-majid."
+        "latin": "Allāhummaj'al shalawātika wa barakātika 'alā Muhammadiw-wa 'alā āli Muhammad, kamā ja'altahā 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd. Wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-25",
@@ -1992,7 +1992,7 @@ window.HIZIB_DATA = {
         "arabic": "وَصَلَّى اللهُ عَلَى النَّبِيِّ الْأُمِّيِّ ۝",
         "reference": "(HR. An-Nasa'i)",
         "translation": "Dan semoga Allah senantiasa melimpahkan shalawat kepada Nabi yang ummi.",
-        "latin": "Wa shallallahu 'alan-nabiyyil-ummiyy."
+        "latin": "Wa shallallāhu 'alan-nabiyyil-ummiyy."
       },
       {
         "id": "sholawat-26",
@@ -2004,7 +2004,7 @@ window.HIZIB_DATA = {
           "titleArab": "صِيَغُ السَّلَامِ (التَّشَهُّدُ)",
           "titleIndo": "Lafaz-lafaz Bacaan Tasyahhud & Salam"
         },
-        "latin": "Attahiyyatu lillahi wash-shalawatu wath-thayyibat, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātu lillāhi wash-shalawātu wath-thayyibāt, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-27",
@@ -2012,7 +2012,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
         "reference": "(HR. Muslim & An-Nasa'i - Tasyahhud Ibnu Abbas RA)",
         "translation": "Segala penghormatan, kebaikan, dan shalawat hanyalah milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya.",
-        "latin": "Attahiyyatuth-thayyibatush-shalawatu lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātuth-thayyibātush-shalawātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-28",
@@ -2020,7 +2020,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ لِلَّهِ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
         "reference": "(HR. An-Nasa'i & Abu Dawud - Tasyahhud Ibnu Umar RA)",
         "translation": "Segala penghormatan milik Allah, segala kebaikan dan shalawat adalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya.",
-        "latin": "Attahiyyatu lillahith-thayyibatush-shalawatu lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wahdahu la syarika lahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātu lillāhith-thayyibātush-shalawātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wahdahū lā syarīka lahū wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-29",
@@ -2028,7 +2028,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، سَلَامٌ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، سَلَامٌ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
         "reference": "(HR. An-Nasa'i & Ibnu Majah - Tasyahhud Jabir RA)",
         "translation": "Segala penghormatan yang penuh keberkahan, shalawat, dan kebaikan hanyalah milik Allah semata. Kesejahteraan tercurah kepadamu wahai Nabi, beserta rahmat Allah dan keberkahan-Nya. Kesejahteraan tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya.",
-        "latin": "Attahiyyatul-mubarakatush-shalawatuth-thayyibatu lillah, salamun 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, salamun 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātul-mubārakātush-shalawātuth-thayyibātu lillāh, salāmun 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, salāmun 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-30",
@@ -2036,7 +2036,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ وَبِاللَّهِ، اَلتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، أَسْأَلُ اللَّهَ الْجَنَّةَ وَأَعُوْذُ بِاللَّهِ مِنَ النَّارِ ۝",
         "reference": "(HR. An-Nasa'i - Tasyahhud Abu Sa'id al-Khudri RA)",
         "translation": "Dengan menyebut nama Allah dan bersama Allah. Segala penghormatan, shalawat, dan kebaikan hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya. Aku memohon surga kepada Allah dan berlindung kepada Allah dari api neraka.",
-        "latin": "Bismillahi wa billah, attahiyyatu lillahi wash-shalawatu wath-thayyibat, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh, as'alullahal-jannata wa a'udzu billahi minan-nar."
+        "latin": "Bismillāhi wa billāh, attahiyyātu lillāhi wash-shalawātu wath-thayyibāt, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh, as'alullāhal-jannata wa a'ūdzu billāhi minan-nār."
       },
       {
         "id": "sholawat-31",
@@ -2044,7 +2044,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ لِلَّهِ الزَّاكِيَاتُ لِلَّهِ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
         "reference": "(Al-Muwatta' Imam Malik - Tasyahhud Umar bin al-Khattab RA)",
         "translation": "Segala penghormatan milik Allah, segala amal kesucian milik Allah, segala kebaikan dan shalawat semata-mata milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya.",
-        "latin": "Attahiyyatu lillahiz-zakiyatu lillahith-thayyibatush-shalawatu lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātu lillāhiz-zākiyātu lillāhith-thayyibātush-shalawātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-32",
@@ -2052,7 +2052,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ وَبِاللَّهِ خَيْرِ الْأَسْمَاءِ، اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ أَرْسَلَهُ بِالْحَقِّ بَشِيْرًا وَّنَذِيْرًا وَأَنَّ السَّاعَةَ آتِيَةٌ لَّا رَيْبَ فِيْهَا، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، اَللّٰهُمَّ اغْفِرْ لِيْ وَاهْدِنِيْ ۝",
         "reference": "(HR. At-Thabrani - Tasyahhud Salman al-Farisi RA)",
         "translation": "Dengan menyebut nama Allah dan bersama Allah, sebaik-baik nama. Segala penghormatan, kebaikan, dan shalawat hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya yang diutus dengan membawa kebenaran sebagai pembawa kabar gembira dan peringatan, dan sesungguhnya hari kiamat pasti datang tanpa keraguan padanya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Ya Allah, ampunilah aku dan berilah aku petunjuk.",
-        "latin": "Bismillahi wa billahi khairil-asma', attahiyyatuth-thayyibatush-shalawatu lillah, asyhadu alla ilaha illallahu wahdahu la syarika lah, wa asyhadu anna Muhammadan 'abduhu wa rasuluh, arsalahu bil-haqqi basyiraw-wa nadzira, wa annas-sa'ata atiyatul-la raiba fiha, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, allahummaghfir li wahdini."
+        "latin": "Bismillāhi wa billāhi khairil-asmā', attahiyyātuth-thayyibātush-shalawātu lillāh, asyhadu allā ilāha illallāhu wahdahū lā syarīka lah, wa asyhadu anna Muhammadan 'abduhū wa rasūluh, arsalahū bil-haqqi basyīraw-wa nadzīrā, wa annas-sā'ata ātiyatul-lā raiba fīhā, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, allāhummaghfir lī wahdinī."
       },
       {
         "id": "sholawat-33",
@@ -2060,7 +2060,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ وَالصَّلَوَاتُ وَالْمُلْكُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ۝",
         "reference": "(HR. Abu Dawud - Tasyahhud Samurah bin Jundab RA)",
         "translation": "Segala penghormatan, kebaikan, shalawat, dan kerajaan alam semesta hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi.",
-        "latin": "Attahiyyatuth-thayyibatu wash-shalawatu wal-mulku lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh."
+        "latin": "Attahiyyātuth-thayyibātu wash-shalawātu wal-mulku lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh."
       },
       {
         "id": "sholawat-34",
@@ -2068,7 +2068,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ، اَلتَّحِيَّاتُ لِلَّهِ، اَلصَّلَوَاتُ لِلَّهِ، اَلزَّاكِيَاتُ لِلَّهِ، اَلسَّلَامُ عَلَى النَّبِيِّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، شَهِدْتُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ، شَهِدْتُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ ۝",
         "reference": "(Al-Muwatta' & Sunan Al-Baihaqi - Tasyahhud Ibnu Umar RA)",
         "translation": "Dengan nama Allah, segala penghormatan milik Allah, segala shalawat milik Allah, segala kesucian milik Allah semata. Semoga keselamatan senantiasa tercurah kepada Nabi beserta rahmat Allah dan keberkahan-Nya. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah utusan Allah.",
-        "latin": "Bismillah, attahiyyatu lillah, ash-shalawatu lillah, az-zakiyatu lillah, assalamu 'alan-nabiyyi wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, syahidtu alla ilaha illallah, syahidtu anna Muhammadar-rasulullah."
+        "latin": "Bismillāh, attahiyyātu lillāh, ash-shalawātu lillāh, az-zākiyātu lillāh, assalāmu 'alan-nabiyyi wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, syahidtu allā ilāha illallāh, syahidtu anna Muhammadar-rasūlullāh."
       },
       {
         "id": "sholawat-35",
@@ -2076,7 +2076,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝",
         "reference": "(Syarh Ma'ani al-Atsar li Ath-Thahawi - Tasyahhud Abu Musa al-Asy'ari RA)",
         "translation": "Segala penghormatan, kebaikan, shalawat, dan kesucian hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah semata, tiada sekutu bagi-Nya, dan bahwa Muhammad ﷺ adalah hamba dan utusan-Nya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.",
-        "latin": "Attahiyyatuth-thayyibatush-shalawatuz-zakiyatu lillah, asyhadu alla ilaha illallahu wahdahu la syarika lahu wa anna Muhammadan 'abduhu wa rasuluh, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin."
+        "latin": "Attahiyyātuth-thayyibātush-shalawātuz-zākiyātu lillāh, asyhadu allā ilāha illallāhu wahdahū lā syarīka lahū wa anna Muhammadan 'abduhū wa rasūluh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn."
       },
       {
         "id": "sholawat-36",
@@ -2084,7 +2084,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ الزَّاكِيَاتُ لِلَّهِ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُ اللَّهِ وَرَسُوْلُهُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝",
         "reference": "(Al-Muwatta' Imam Malik - Tasyahhud Sayyidah Aisyah RA)",
         "translation": "Segala penghormatan, kebaikan, shalawat, dan kesucian hanyalah milik Allah semata. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba Allah dan utusan-Nya. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.",
-        "latin": "Attahiyyatuth-thayyibatush-shalawatuz-zakiyatu lillah, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abdullahi wa rasuluh, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin."
+        "latin": "Attahiyyātuth-thayyibātush-shalawātuz-zākiyātu lillāh, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abdullāhi wa rasūluh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn."
       },
       {
         "id": "sholawat-37",
@@ -2092,7 +2092,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الصَّلَوَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ ۝",
         "reference": "(Syarh Ma'ani al-Atsar li Ath-Thahawi - Riwayat Al-Hasan Al-Bashri)",
         "translation": "Segala penghormatan dan shalawat hanyalah milik Allah semata. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh.",
-        "latin": "Attahiyyatush-shalawatu lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin."
+        "latin": "Attahiyyātush-shalawātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn."
       },
       {
         "id": "sholawat-38",
@@ -2100,7 +2100,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ لِلَّهِ الصَّلَوَاتُ الطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
         "reference": "(HR. Abu Dawud & Al-Baihaqi)",
         "translation": "Segala penghormatan milik Allah, serta shalawat dan kebaikan semata-mata milik-Nya. Semoga keselamatan serta rahmat Allah senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah hamba dan utusan-Nya.",
-        "latin": "Attahiyyatu lillahish-shalawatuth-thayyibat, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullah, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadan 'abduhu wa rasuluh."
+        "latin": "Attahiyyātu lillāhish-shalawātuth-thayyibāt, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
       {
         "id": "sholawat-39",
@@ -2108,7 +2108,7 @@ window.HIZIB_DATA = {
         "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ ۝",
         "reference": "(HR. Muslim - Lafaz Asy-Syafi'i / Sunan Abu Dawud)",
         "translation": "Segala penghormatan yang penuh keberkahan, shalawat, dan kebaikan semata-mata milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Muhammad ﷺ adalah utusan Allah.",
-        "latin": "Attahiyyatul-mubarakatush-shalawatuth-thayyibatu lillah, assalamu 'alaika ayyuhan-nabiyyu wa rahmatullahi wa barakatuh, assalamu 'alaina wa 'ala 'ibadillahish-shalihin, asyhadu alla ilaha illallahu wa asyhadu anna Muhammadar-rasulullah."
+        "latin": "Attahiyyātul-mubārakātush-shalawātuth-thayyibātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadar-rasūlullāh."
       },
       {
         "id": "sholawat-40",
@@ -2116,7 +2116,7 @@ window.HIZIB_DATA = {
         "arabic": "بِسْمِ اللَّهِ وَالسَّلَامُ عَلٰى رَسُوْلِ اللَّهِ ۝",
         "reference": "(HR. Al-Hakim dalam Al-Mustadrak / Ibnu Majah & Abu Dawud)",
         "translation": "Dengan menyebut nama Allah dan semoga keselamatan senantiasa tercurah kepada Rasulullah.",
-        "latin": "Bismillahi was-salamu 'ala rasulillah."
+        "latin": "Bismillāhi was-salāmu 'alā rasūlillāh."
       }
     ]
   }

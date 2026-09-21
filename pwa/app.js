@@ -277,7 +277,7 @@
                     </div>
                 </div>
                 <div class="card-arabic">وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِيْنَ ۝</div>
-                <div class="card-latin">Wa akhiru da'wana anil-hamdulillahi rabbil-'alamin.</div>
+                <div class="card-latin">Wa ākhiru da'wānā anil-hamdulillāhi rabbil-'ālamīn.</div>
                 <div class="card-ref">(Doa Penutup — QS. Yunus: 10)</div>
                 <div class="card-translation">
                     <span class="tr-label">Terjemahan:</span> Dan penutup doa kami adalah: "Segala puji bagi Allah, Tuhan semesta alam."
@@ -504,7 +504,7 @@
 
     window.app.shareClosingDoa = function () {
         const arabic = 'وَآخِرُ دَعْوَانَا أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعٰلَمِيْنَ ۝';
-        const latin = "Wa akhiru da'wana anil-hamdulillahi rabbil-'alamin.";
+        const latin = "Wa ākhiru da'wānā anil-hamdulillāhi rabbil-'ālamīn.";
         const translation = "Dan penutup doa kami adalah: 'Segala puji bagi Allah, Tuhan semesta alam.'";
         const shareText = `${arabic}\n\nBacaan Latin:\n${latin}\n\nArtinya:\n"${translation}"\n\n(Doa Penutup — QS. Yunus: 10)\n\n— Dikutip dari Doa Harian`;
 
