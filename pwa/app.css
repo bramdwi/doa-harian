@@ -464,27 +464,28 @@ body {
     margin-bottom: 12px;
 }
 
-/* Card Latin Transliteration */
+/* Card Latin Transliteration (Modern Humanist - High Legibility) */
 .card-latin {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     font-size: calc(11.5pt * var(--font-scale-latin));
-    font-style: italic;
+    font-style: normal;
     font-weight: 500;
-    line-height: 1.65;
-    color: #4A341B;
-    text-align: justify;
+    line-height: 1.75;
+    letter-spacing: 0.25px;
+    color: #382411;
+    text-align: left;
     margin-bottom: 12px;
-    padding: 8px 12px;
-    background: rgba(216, 198, 158, 0.15);
-    border-left: 3px solid var(--gold-secondary);
+    padding: 10px 14px;
+    background: rgba(184, 147, 90, 0.08);
+    border-left: 3.5px solid var(--gold-primary);
     border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
     transition: opacity 0.2s, max-height 0.3s;
 }
 
 body.dark-mode .card-latin {
-    color: #D6C29E;
-    background: rgba(255, 255, 255, 0.05);
-    border-left-color: var(--gold-primary);
+    color: #E6DBC6;
+    background: rgba(255, 255, 255, 0.04);
+    border-left-color: var(--gold-secondary);
 }
 
 /* Hide latin when toggled off */
