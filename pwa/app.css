@@ -206,17 +206,7 @@ body {
     background-color: var(--bg-surface);
 }
 
-/* --- Secondary Control Bar (Zoom, Latin, & Translation Toggle - Centered) --- */
-.control-bar {
-    max-width: 800px;
-    margin: 12px auto 6px auto;
-    padding: 0 16px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-}
+/* --- Reading Preference Controls (Shared: Zoom & Toggles) --- */
 
 .control-group {
     display: flex;
@@ -617,6 +607,86 @@ body.hide-translation .card-note {
     padding: 12px;
     overflow-y: auto;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+/* --- Drawer Section & Settings Card --- */
+.drawer-section {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.drawer-section-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--gold-deep);
+    padding: 2px 4px;
+}
+
+.drawer-settings-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--bg-card-border);
+    border-radius: var(--radius-md);
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    box-shadow: var(--shadow-sm);
+}
+
+.drawer-setting-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.setting-title {
+    font-size: 0.86rem;
+    font-weight: 600;
+    color: var(--text-ink);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.setting-title svg {
+    color: var(--gold-dark);
+}
+
+.drawer-setting-row.toggles-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    padding-top: 10px;
+    border-top: 1px dashed var(--bg-card-border);
+}
+
+.drawer-setting-row.toggles-row .toggle-btn {
+    justify-content: center;
+    padding: 8px 10px;
+    border: 1px solid var(--bg-card-border);
+    background-color: var(--bg-surface);
+    border-radius: var(--radius-full);
+    font-size: 0.8rem;
+    font-weight: 600;
+    box-shadow: var(--shadow-sm);
+    transition: all 0.2s ease;
+}
+
+.drawer-setting-row.toggles-row .toggle-btn.active {
+    background-color: var(--gold-deep);
+    border-color: var(--gold-deep);
+    color: #FFF;
+    box-shadow: 0 2px 6px rgba(142, 98, 43, 0.25);
+}
+
+.drawer-chapters-list {
     display: flex;
     flex-direction: column;
     gap: 8px;

@@ -60,39 +60,6 @@
         </div>
     </header>
 
-    <!-- CONTROL BAR (ZOOM, LATIN, & TRANSLATION TOGGLE - CENTERED) -->
-    <section class="control-bar">
-        <!-- Font Zoom Controller -->
-        <div class="control-group">
-            <button class="zoom-btn" id="zoom-out-btn" title="Perkecil Font">A-</button>
-            <span class="zoom-label" id="zoom-label">100%</span>
-            <button class="zoom-btn" id="zoom-in-btn" title="Perbesar Font">A+</button>
-        </div>
-
-        <!-- Latin Transliteration Toggle -->
-        <div class="control-group">
-            <button class="toggle-btn active" id="toggle-latin-btn" title="Aktifkan / Sembunyikan Bacaan Latin">
-                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <polyline points="4 7 4 4 20 4 20 7"></polyline>
-                    <line x1="9" y1="20" x2="15" y2="20"></line>
-                    <line x1="12" y1="4" x2="12" y2="20"></line>
-                </svg>
-                <span>Latin: ON</span>
-            </button>
-        </div>
-
-        <!-- Translation Toggle -->
-        <div class="control-group">
-            <button class="toggle-btn active" id="toggle-arti-btn" title="Aktifkan / Sembunyikan Terjemahan">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
-                    <circle cx="12" cy="12" r="3"></circle>
-                </svg>
-                <span>Arti: ON</span>
-            </button>
-        </div>
-    </section>
-
     <!-- MAIN READING CONTAINER -->
     <main class="main-content" id="content-container">
         <!-- Injected by app.js -->
@@ -105,7 +72,7 @@
                 <div class="drawer-brand">
                     <img src="pwa/icons/icon-512.png" alt="Logo" class="drawer-logo">
                     <div>
-                        <div class="drawer-title">Pilih Hari / Bab</div>
+                        <div class="drawer-title">Menu & Pengaturan</div>
                         <div class="drawer-subtitle">7 Hizib Harian & 40 Shalawat</div>
                     </div>
                 </div>
@@ -116,8 +83,57 @@
                     </svg>
                 </button>
             </div>
-            <div class="drawer-body" id="menu-chapters-list">
-                <!-- Injected dynamically by app.js -->
+
+            <div class="drawer-body">
+                <!-- READING PREFERENCES / DISPLAY SETTINGS -->
+                <div class="drawer-section">
+                    <div class="drawer-section-label">Pengaturan Tampilan</div>
+                    <div class="drawer-settings-card">
+                        <!-- Font Zoom Controller -->
+                        <div class="drawer-setting-row">
+                            <span class="setting-title">
+                                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="4 7 4 4 20 4 20 7"></polyline>
+                                    <line x1="9" y1="20" x2="15" y2="20"></line>
+                                    <line x1="12" y1="4" x2="12" y2="20"></line>
+                                </svg>
+                                Ukuran Font
+                            </span>
+                            <div class="control-group">
+                                <button class="zoom-btn" id="zoom-out-btn" title="Perkecil Font">A-</button>
+                                <span class="zoom-label" id="zoom-label">100%</span>
+                                <button class="zoom-btn" id="zoom-in-btn" title="Perbesar Font">A+</button>
+                            </div>
+                        </div>
+
+                        <!-- Latin & Translation Toggles -->
+                        <div class="drawer-setting-row toggles-row">
+                            <button class="toggle-btn active" id="toggle-latin-btn" title="Aktifkan / Sembunyikan Bacaan Latin">
+                                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="4 7 4 4 20 4 20 7"></polyline>
+                                    <line x1="9" y1="20" x2="15" y2="20"></line>
+                                    <line x1="12" y1="4" x2="12" y2="20"></line>
+                                </svg>
+                                <span>Latin: ON</span>
+                            </button>
+                            <button class="toggle-btn active" id="toggle-arti-btn" title="Aktifkan / Sembunyikan Terjemahan">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                                    <circle cx="12" cy="12" r="3"></circle>
+                                </svg>
+                                <span>Arti: ON</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- CHAPTER NAVIGATION -->
+                <div class="drawer-section">
+                    <div class="drawer-section-label">Pilih Hari / Bab</div>
+                    <div class="drawer-chapters-list" id="menu-chapters-list">
+                        <!-- Injected dynamically by app.js -->
+                    </div>
+                </div>
             </div>
         </aside>
     </div>

@@ -1,5 +1,5 @@
 // Service Worker for Daily Du'a PWA
-const CACHE_NAME = 'daily-dua-v2.6';
+const CACHE_NAME = 'daily-dua-v2.7';
 
 const PRECACHE_ASSETS = [
   '/',
