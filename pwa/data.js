@@ -142,7 +142,7 @@ window.HIZIB_DATA = {
       {
         "id": "jumat-12",
         "num": 12,
-        "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يٰأَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا ۝ لَبَّيْكِ اَللّٰهُمَّ رَبِّيْ وَسَعْدَيْكَ، صَلَوَاتُ اللَّهِ الْبَرِّ الرَّحِيْمِ وَالْمَلَائِكَةِ الْمُقَرَّبِيْنَ وَالنَّبِيِّيْنَ وَالصِّدِّيْقِيْنَ وَالشُّهَدَاءِ وَالصَّالِحِيْنَ وَمَا سَبَّحَ لَكَ مِنْ شَيْءٍ يَا رَبَّ الْعٰلَمِيْنَ، عَلٰى سَيِّدِنَا مُحَمَّدِ بْنِ عَبْدِ اللَّهِ خَاتَمِ النَّبِيِّيْنَ وَسَيِّدِ الْمُرْسَلِيْنَ وَإِمَامِ الْمُتَّقِيْنَ وَرَسُوْلِ رَبِّ الْعٰلَمِيْنَ، الشَّاهِدِ الْبَشِيْرِ الدَّاعِيْ إِلَيْكَ بِإِذْنِكَ السِّرَاجِ الْمُنِيْرِ، وَعَلَيْهِ السَّلَامُ ۝",
+        "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يٰأَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا ۝ لَبَّيْكَ اَللّٰهُمَّ رَبِّيْ وَسَعْدَيْكَ، صَلَوَاتُ اللَّهِ الْبَرِّ الرَّحِيْمِ وَالْمَلَائِكَةِ الْمُقَرَّبِيْنَ وَالنَّبِيِّيْنَ وَالصِّدِّيْقِيْنَ وَالشُّهَدَاءِ وَالصَّالِحِيْنَ وَمَا سَبَّحَ لَكَ مِنْ شَيْءٍ يَا رَبَّ الْعٰلَمِيْنَ، عَلٰى سَيِّدِنَا مُحَمَّدِ بْنِ عَبْدِ اللَّهِ خَاتَمِ النَّبِيِّيْنَ وَسَيِّدِ الْمُرْسَلِيْنَ وَإِمَامِ الْمُتَّقِيْنَ وَرَسُوْلِ رَبِّ الْعٰلَمِيْنَ، الشَّاهِدِ الْبَشِيْرِ الدَّاعِيْ إِلَيْكَ بِإِذْنِكَ السِّرَاجِ الْمُنِيْرِ، وَعَلَيْهِ السَّلَامُ ۝",
         "reference": "(QS. Al-Ahzāb: 56 & Atsar Sayyidina Ali RA)",
         "translation": "<em>\"Sesungguhnya Allah dan para malaikat-Nya bershalawat untuk Nabi. Wahai orang-orang yang beriman! Bershalawatlah kamu untuk Nabi dan ucapkanlah salam dengan penuh penghormatan kepadanya.\"</em> Aku penuhi panggilan-Mu ya Allah, Tuhanku, dengan penuh kebahagiaan. Semoga shalawat dari Allah Yang Maha Berbuat Kebaikan lagi Maha Penyayang, para malaikat yang didekatkan (<em>muqarrabīn</em>), para nabi, orang-orang jujur (<em>shiddiqin</em>), para syuhada, orang-orang shalih, serta seluruh makhluk yang bertasbih kepada-Mu wahai Tuhan semesta alam, tercurah kepada pemimpin kami Sayyidina Muhammad ﷺ bin Abdullah—penutup para nabi, pemimpin para rasul, imam orang-orang bertakwa, Rasul Tuhan semesta alam, saksi, pembawa kabar gembira, penyeru ke jalan-Mu dengan izin-Mu, serta pelita yang menerangi. Dan semoga keselamatan senantiasa tercurah kepada beliau.",
         "note": {
@@ -382,7 +382,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Allah SWT menjadikan tolok ukur kecintaan seseorang kepada-Nya terletak pada sejauh mana ia mengikuti sunnah Rasulullah ﷺ."
         },
-        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī ja'altattibā'ahū mûjibal-limahabbatika haitsu qulta fī haqqih: \"Qul in kuntum tuhibbūnallāha fattabi'ūnī yuhbibkumullāh.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī ja'altattibā'ahū mūjibal-limahabbatika haitsu qulta fī haqqih: \"Qul in kuntum tuhibbūnallāha fattabi'ūnī yuhbibkumullāh.\""
       },
       {
         "id": "sabtu-12",
@@ -623,7 +623,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Rasulullah ﷺ mengajarkan doa ini kepada Sahabat Salman Al-Farisi RA dan menyebutnya sebagai \"Kalimat-kalimat Ar-Rahman\". Beliau berpesan agar menjadikannya doa harian siang dan malam."
         },
-        "latin": "Allāhumma innī as'aluka sihhatan fī īmān, wa īmānan fī husni khuluq, wa najātay-yatba'uhā falāh, wa rahmatam-minka wa 'āfiyah, wa maghfiratam-minka wa ridhwānā."
+        "latin": "Allāhumma innī as'aluka shihhatan fī īmān, wa īmānan fī husni khuluq, wa najātay-yatba'uhā falāh, wa rahmatam-minka wa 'āfiyah, wa maghfiratam-minka wa ridhwānā."
       },
       {
         "id": "ahad-10",
@@ -1363,7 +1363,7 @@ window.HIZIB_DATA = {
       {
         "id": "rabu-8",
         "num": 8,
-        "arabic": "اَللّٰهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ الْأَشْيَاءِ إِلَيَّ وَاجْعَلْ خَشْيَتَكَ أَخْوَفَ الْأَشْيَاءِ عِنْدِيْ وَاقْطَعْ عَنِّيْ حَاجَاتِ الدُّنْيَا بِالشَّوْقِ إِلٰى لِقَاءِكَ وَإِذَا أَقْرَرْتَ أَعْيُنَ أَهْلِ الدُّنْيَا مِنْ دُنْيَاهُمْ فَأَقْرِرْ عَيْنِيْ مِنْ عِبَادَتِكَ",
+        "arabic": "اَللّٰهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ الْأَشْيَاءِ إِلَيَّ وَاجْعَلْ خَشْيَتَكَ أَخْوَفَ الْأَشْيَاءِ عِنْدِيْ وَاقْطَعْ عَنِّيْ حَاجَاتِ الدُّنْيَا بِالشَّوْقِ إِلٰى لِقَائِكَ وَإِذَا أَقْرَرْتَ أَعْيُنَ أَهْلِ الدُّنْيَا مِنْ دُنْيَاهُمْ فَأَقْرِرْ عَيْنِيْ مِنْ عِبَادَتِكَ",
         "reference": "(Hilyatul Auliya karya Abu Nu'aim)",
         "translation": "Ya Allah! Jadikanlah cintaku kepada-Mu sebagai hal yang paling aku cintai melebihi segalanya, jadikanlah rasa takut kepada-Mu sebagai hal yang paling aku takuti melebihi apa pun, putuskanlah kebergantunganku pada kebutuhan duniawi dengan kerinduan untuk bertemu dengan-Mu, dan apabila Engkau membahagiakan mata penduduk dunia dengan dunianya, maka bahagiakanlah mataku dengan beribadah kepada-Mu.",
         "latin": "Allāhummaj'al hubbaka ahabbal-asyyā'i ilayya, waj'al khasyyataka akhwafar-asyyā'i 'indī, waqtha' 'annī hājātid-dunyā bisy-syauqi ilā liqā'ika, wa idzā aqrarta a'yuna ahlid-dunyā min dunyāhum fa'aqrir 'ainī min 'ibādatik."
@@ -1379,7 +1379,7 @@ window.HIZIB_DATA = {
       {
         "id": "rabu-10",
         "num": 10,
-        "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ التَّوْفِيْقَ لِمَصَابِكَ مِنَ الْأَعْمَالِ وَصِدْقَ التَّوَكُّلِ عَلَيْكَ وَحُسْنَ الظَّنِّ بِكَ",
+        "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ التَّوْفِيْقَ لِمَحَابِّكَ مِنَ الْأَعْمَالِ وَصِدْقَ التَّوَكُّلِ عَلَيْكَ وَحُسْنَ الظَّنِّ بِكَ",
         "reference": "(Hilyatul Auliya)",
         "translation": "Ya Allah! Aku memohon kepada-Mu taufik untuk mengerjakan amalan-amalan yang Engkau sukai, kesungguhan tawakal kepada-Mu, serta prasangka yang baik terhadap-Mu.",
         "note": {
@@ -1398,7 +1398,7 @@ window.HIZIB_DATA = {
           "label": "Catatan:",
           "text": "Ayat ini berisi perintah untuk bersikap sangat hormat dan beradab kepada Rasulullah ﷺ, serta peringatan keras atas pelanggaran sekecil apa pun."
         },
-        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī nahaitāl-mu'minīna ay-yarfa'ū ashwātahum fawqa shawtih, haitsu qulta fī haqqih: \"Yā ayyuhalladzīna āmanū lā tarfa'ū ashwātakum fawqa shawtin-nabiyy.\""
+        "latin": "Allāhumma shalli wa sallim asyrafash-shalāti wat-taslīmi 'alā habībika sayyidinā wa nabiyyinā Muhammadin 'abdika wa rasūlikalladzī nahaytal-mu'minīna ay-yarfa'ū ashwātahum fawqa shawtih, haitsu qulta fī haqqih: \"Yā ayyuhalladzīna āmanū lā tarfa'ū ashwātakum fawqa shawtin-nabiyy.\""
       },
       {
         "id": "rabu-12",
@@ -1611,7 +1611,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Barang siapa membacanya rutin setiap selesai shalat, maka ia berhak mendapatkan syafaat Nabi ﷺ."
         },
-        "latin": "Allāhumma a'thi sayyidanā Muhammadaninil-wasīlata waj'al fil-mushthafaina mahabbatah, wa fil-a'layna darajatah, wa fil-muqarrabīna dzikrah."
+        "latin": "Allāhumma a'thi sayyidinā Muhammadanil-wasīlata waj'al fil-mushthafaina mahabbatah, wa fil-a'layna darajatah, wa fil-muqarrabīna dzikrah."
       },
       {
         "id": "kamis-9",
@@ -1683,7 +1683,7 @@ window.HIZIB_DATA = {
           "label": "Faedah:",
           "text": "Doa Nabawi untuk tergolong ke dalam kelompok hamba-hamba pilihan Allah Ta'ala."
         },
-        "latin": "Allāhummaj'alnī mimman tawakkala 'alaika fakafaytah, wastahdāka fahadaytah, wastan-sharkā fanashartah."
+        "latin": "Allāhummaj'alnī mimman tawakkala 'alaika fakafaytah, wastahdāka fahadaytah, wastansharaka fanashartah."
       },
       {
         "id": "kamis-15",
@@ -1691,7 +1691,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ لَا تُخْزِنِيْ فَإِنَّكَ بِيْ عَالِمٌ وَلَا تُعَذِّبْنِيْ فَإِنَّكَ عَلَيَّ قَادِرٌ",
         "reference": "(Kanzul 'Ummal / Musnad Abu Ya'la)",
         "translation": "Ya Allah! Janganlah Engkau hinakan aku (pada hari kiamat) karena Engkau Maha Mengetahui segala keadaanku, dan janganlah Engkau mengazabku karena Engkau berkuasa penuh atas diriku.",
-        "latin": "Allāhumma lā tukhzinī fa'innaka bī 'alīm, wa lā tu'adzdzibnī fa'innaka 'alayya qadīr."
+        "latin": "Allāhumma lā tukhzinī fa'innaka bī 'ālim, wa lā tu'adzdzibnī fa'innaka 'alayya qādir."
       },
       {
         "id": "kamis-16",
@@ -1860,7 +1860,7 @@ window.HIZIB_DATA = {
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى آلِ إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
         "reference": "(HR. Abu Dawud)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Sayyidina Muhammad ﷺ dan keluarga Sayyidina Muhammad ﷺ sebagaimana Engkau telah bershalawat kepada keluarga Ibrahim. Dan berkahilah Sayyidina Muhammad ﷺ dan keluarga Sayyidina Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
-        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā barakta 'alā Ibrāhīma innaka hamīdum-majīd."
+        "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā āli Muhammad, kamā shallaita 'alā āli Ibrāhīm, wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma innaka hamīdum-majīd."
       },
       {
         "id": "sholawat-11",
