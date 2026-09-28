@@ -443,7 +443,8 @@ body {
     font-size: calc(11pt * var(--font-scale-latin));
     color: var(--rubric-red);
     text-align: center;
-    direction: rtl;
+    direction: ltr;
+    unicode-bidi: isolate;
     margin-bottom: 12px;
 }
 
