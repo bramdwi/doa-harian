@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "cleanUrls": false,
+  "trailingSlash": false,
   "headers": [
     {
       "source": "/sw.js",
@@ -64,6 +66,19 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=86400"
+        }
+      ]
+    },
+    {
+      "source": "/googleb02ddcde2a0c21d2.html",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
         }
       ]
     }
