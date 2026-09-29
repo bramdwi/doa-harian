@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Host & Sitemap
-Sitemap: https://amalan-harian.vercel.app/sitemap.xml
-Host: https://amalan-harian.vercel.app
+Sitemap: https://doa-amalan-harian.vercel.app/sitemap.xml
+Host: https://doa-amalan-harian.vercel.app

@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <!-- Halaman Utama PWA -->
     <url>
-        <loc>https://amalan-harian.vercel.app/</loc>
+        <loc>https://doa-amalan-harian.vercel.app/</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -11,43 +11,43 @@
 
     <!-- 7 Hizib Harian Al-Hizbul A'zham -->
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=jumat</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=jumat</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=sabtu</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=sabtu</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=ahad</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=ahad</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=senin</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=senin</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=selasa</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=selasa</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=rabu</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=rabu</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=kamis</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=kamis</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -55,7 +55,7 @@
 
     <!-- 40 Hadits Shalawat & Salam -->
     <url>
-        <loc>https://amalan-harian.vercel.app/?bab=sholawat</loc>
+        <loc>https://doa-amalan-harian.vercel.app/?bab=sholawat</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -63,49 +63,49 @@
 
     <!-- Naskah Cetak Statis -->
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-pertama-jumat.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-pertama-jumat.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-kedua-sabtu.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-kedua-sabtu.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-ketiga-ahad.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-ketiga-ahad.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-keempat-senin.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-keempat-senin.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-kelima-selasa.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-kelima-selasa.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-keenam-rabu.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-keenam-rabu.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/hizib-ketujuh-kamis.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/hizib-ketujuh-kamis.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://amalan-harian.vercel.app/html/sholawat-40.html</loc>
+        <loc>https://doa-amalan-harian.vercel.app/html/sholawat-40.html</loc>
         <lastmod>2026-09-29</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
