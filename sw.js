@@ -1,5 +1,5 @@
 // Service Worker for Daily Du'a PWA
-const CACHE_NAME = 'daily-dua-v2.8';
+const CACHE_NAME = 'daily-dua-v2.9';
 
 const PRECACHE_ASSETS = [
   '/',
@@ -10,6 +10,7 @@ const PRECACHE_ASSETS = [
   '/pwa/data.js',
   '/pwa/icons/icon-192.png',
   '/pwa/icons/icon-512.png',
+  '/pwa/icons/og-image.jpg',
   '/pwa/icons/apple-touch-icon.png',
   '/pwa/icons/favicon.png',
   '/fonts/Amiri-Regular.ttf',

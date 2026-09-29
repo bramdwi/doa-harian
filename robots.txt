@@ -1,0 +1,7 @@
+# robots.txt for Doa Harian (Mukhtashar Al-Hizbul A'zham & Sholawat 40)
+User-agent: *
+Allow: /
+
+# Host & Sitemap
+Sitemap: https://amalan-harian.vercel.app/sitemap.xml
+Host: https://amalan-harian.vercel.app

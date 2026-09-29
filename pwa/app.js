@@ -34,6 +34,17 @@
         applyTranslationVisibility();
         applyLatinVisibility();
         updateBookmarkCount();
+
+        // Browser History Navigation (Back / Forward)
+        window.addEventListener('popstate', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const babParam = (urlParams.get('bab') || urlParams.get('chapter') || (window.location.hash ? window.location.hash.replace('#', '') : '')).toLowerCase();
+            if (babParam && window.HIZIB_DATA[babParam] && STATE.activeChapter !== babParam) {
+                STATE.activeChapter = babParam;
+                updateActiveChapterUI();
+                renderChapter(babParam, false);
+            }
+        });
     });
 
     function initDOMElements() {
@@ -100,12 +111,17 @@
             const savedTr = localStorage.getItem('dua_show_translation');
             if (savedTr !== null) STATE.showTranslation = savedTr === 'true';
 
-            // Active Chapter: Check last read, else default to today's day
+            // Active Chapter: Check URL param first (?bab=... / #...), then last read, else default to today's day
+            const urlParams = new URLSearchParams(window.location.search);
+            const hashVal = window.location.hash ? window.location.hash.replace('#', '') : '';
+            const paramChapter = (urlParams.get('bab') || urlParams.get('chapter') || hashVal).toLowerCase();
             const savedChapter = localStorage.getItem('dua_last_chapter');
             const todayDay = new Date().getDay();
             const todayChapter = DAY_MAP[todayDay] || 'jumat';
 
-            if (savedChapter && window.HIZIB_DATA[savedChapter]) {
+            if (paramChapter && window.HIZIB_DATA[paramChapter]) {
+                STATE.activeChapter = paramChapter;
+            } else if (savedChapter && window.HIZIB_DATA[savedChapter]) {
                 STATE.activeChapter = savedChapter;
             } else {
                 STATE.activeChapter = todayChapter;
@@ -198,9 +214,24 @@
     };
 
     // --- Render Chapter Content ---
-    function renderChapter(chapterId) {
+    function renderChapter(chapterId, updateUrl = true) {
         const chapter = window.HIZIB_DATA[chapterId];
         if (!chapter || !elContentContainer) return;
+
+        // Dynamic Document Title for SEO & Browsing Context
+        const displayName = MENU_NAMES[chapterId] || chapter.titleIndo;
+        document.title = `${displayName} — Doa Harian Mukhtashar Al-Hizbul A'zham & 40 Sholawat`;
+
+        // Update URL query param for deep linking without page reload
+        if (updateUrl) {
+            try {
+                const url = new URL(window.location.href);
+                if (url.searchParams.get('bab') !== chapterId) {
+                    url.searchParams.set('bab', chapterId);
+                    window.history.replaceState({ chapter: chapterId }, '', url.pathname + url.search);
+                }
+            } catch (e) {}
+        }
 
         let html = '';
 

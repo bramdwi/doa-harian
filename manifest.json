@@ -10,6 +10,8 @@
   "theme_color": "#FAF6EC",
   "orientation": "portrait-primary",
   "categories": ["books", "lifestyle", "education"],
+  "lang": "id",
+  "dir": "ltr",
   "icons": [
     {
       "src": "pwa/icons/icon-192.png",
@@ -34,6 +36,36 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Doa Hari Jumat",
+      "short_name": "Jumat",
+      "description": "Buka Hizib Pertama Hari Jumat",
+      "url": "/?bab=jumat",
+      "icons": [{ "src": "pwa/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "40 Hadits Shalawat",
+      "short_name": "Shalawat",
+      "description": "Buka 40 Shalawat & Salam",
+      "url": "/?bab=sholawat",
+      "icons": [{ "src": "pwa/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Doa Hari Senin",
+      "short_name": "Senin",
+      "description": "Buka Hizib Keempat Hari Senin",
+      "url": "/?bab=senin",
+      "icons": [{ "src": "pwa/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Doa Hari Kamis",
+      "short_name": "Kamis",
+      "description": "Buka Hizib Ketujuh Hari Kamis",
+      "url": "/?bab=kamis",
+      "icons": [{ "src": "pwa/icons/icon-192.png", "sizes": "192x192" }]
     }
   ]
 }
