@@ -1,10 +1,12 @@
 // Service Worker for Daily Du'a PWA
-const CACHE_NAME = 'daily-dua-v2.9';
+const CACHE_NAME = 'daily-dua-v3.0';
 
 const PRECACHE_ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
+  '/favicon.ico',
+  '/favicon.png',
   '/pwa/app.css',
   '/pwa/app.js',
   '/pwa/data.js',

@@ -4,6 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Hizib Kedua - Hari Sabtu</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="64x64" href="/pwa/icons/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/pwa/icons/apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
@@ -48,9 +53,25 @@
 
         @font-face {
             font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond Bold'),
+                 url('../fonts/CormorantGaramond-Var.ttf') format('truetype');
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
             src: local('Cormorant Garamond Italic'),
                  url('../fonts/CormorantGaramond-Italic-Var.ttf') format('truetype');
             font-weight: normal;
+            font-style: italic;
+        }
+
+        @font-face {
+            font-family: 'Cormorant Garamond';
+            src: local('Cormorant Garamond Bold Italic'),
+                 url('../fonts/CormorantGaramond-Italic-Var.ttf') format('truetype');
+            font-weight: bold;
             font-style: italic;
         }
 
@@ -58,6 +79,27 @@
             size: A5;
             margin: 14mm 15mm 13mm 15mm;
             background-color: #FAF6EC;
+
+            @top-center {
+                content: "الحِزْبُ الثَّانِي (يَوْمُ السَّبْتِ)";
+                font-family: 'Amiri', 'ArabicFont', serif;
+                font-size: 8.5pt;
+                color: #967140;
+                direction: rtl;
+            }
+
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Cormorant Garamond', serif;
+                font-size: 9.5pt;
+                color: #967140;
+            }
+        }
+
+        @page :first {
+            @top-center {
+                content: none;
+            }
         }
 
         body {
@@ -110,6 +152,8 @@
 
         /* Meta / Nomor Doa */
         .doa-header {
+            break-after: avoid;
+            page-break-after: avoid;
             text-align: center;
             margin-bottom: 8px;
             position: relative;
@@ -139,6 +183,8 @@
 
         /* Teks Arab */
         .teks-arab {
+            break-before: avoid;
+            page-break-before: avoid;
             font-family: 'Amiri', 'ArabicFont', serif;
             font-size: 20.5pt;
             line-height: 1.95;
@@ -184,6 +230,8 @@
             margin-top: 6px;
             margin-bottom: 8px;
             font-size: 9.5pt;
+            break-inside: avoid;
+            page-break-inside: avoid;
         }
 
         .catatan-box .label-catatan {
@@ -194,6 +242,8 @@
 
         /* Pemisah Antar Doa */
         .pemisah-doa {
+            break-after: avoid;
+            page-break-after: avoid;
             text-align: center;
             color: #B8935A;
             font-size: 10pt;
@@ -202,6 +252,8 @@
 
         /* Penutup */
         .penutup-blok {
+            break-inside: avoid;
+            page-break-inside: avoid;
             text-align: center;
             margin-top: 25px;
             padding-top: 10px;
@@ -215,6 +267,27 @@
             color: #2B2016;
             margin-top: 14px;
             direction: rtl;
+        }
+
+        /* Media Print: Tipografi Standar Kitab A5 sesuai Promptnya.md */
+        @media print {
+            body {
+                font-size: 10.5pt;
+                line-height: 1.45;
+            }
+
+            .teks-arab {
+                font-size: 12.5pt;
+                line-height: 1.75;
+            }
+
+            .referensi {
+                font-size: 8.5pt;
+            }
+
+            .catatan-box {
+                font-size: 8.5pt;
+            }
         }
     </style>
 </head>
@@ -749,7 +822,7 @@
     <div class="pemisah-doa">۞</div>
 
     <!-- DOA 22 -->
-    <div class="doa-blok">
+    <div class="doa-blok" style="break-inside: avoid; page-break-inside: avoid;">
         <div class="doa-header">
             <span class="nomor-doa">22</span>
             <div class="garis-pembatas-top"></div>
