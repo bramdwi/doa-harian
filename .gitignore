@@ -15,3 +15,9 @@ Thumbs.db
 
 # Logs and databases
 *.log
+
+# Scratch, render caches & local documents
+scratch/
+render_pdf.py
+*.pdf
+ori-pdf/
