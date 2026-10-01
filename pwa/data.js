@@ -2006,7 +2006,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-23",
         "num": 23,
         "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ صَلِّ عَلَيْنَا مَعَهُمْ، اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى أَهْلِ بَيْتِهِ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، اَللّٰهُمَّ بَارِكْ عَلَيْنَا مَعَهُمْ، صَلَوَاتُ اللَّهِ وَصَلَوَاتُ الْمُؤْمِنِيْنَ عَلٰى مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ ۝",
-        "reference": "(HR. Ibnu Abi Syaibah dlm Al-Mushannaf no. 8446)",
+        "reference": "(HR. Ibnu Abi Syaibah dlm Al-Mushannaf no. 8446 - Atsar Ibrahim an-Nakha'i)",
         "translation": "Ya Allah! Limpahkanlah shalawat kepada Sayyidina Muhammad ﷺ dan kepada ahli baitnya sebagaimana Engkau telah bershalawat kepada Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Limpahkanlah shalawat kepada kami bersama mereka. Ya Allah! Berkahilah Sayyidina Muhammad ﷺ dan ahli baitnya sebagaimana Engkau telah memberkahi Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah! Berkahilah kami bersama mereka. Semoga shalawat dari Allah dan shalawat orang-orang mukmin senantiasa tercurah kepada Sayyidina Muhammad ﷺ, sang Nabi yang ummi.",
         "latin": "Allāhumma shalli 'alā Muhammadiw-wa 'alā ahli baitihī kamā shallaita 'alā Ibrāhīma innaka hamīdum-majīd. Allāhumma shalli 'alainā ma'ahum. Allāhumma bārik 'alā Muhammadiw-wa 'alā ahli baitihī kamā bārakta 'alā Ibrāhīma innaka hamīdum-majīd. Allāhumma bārik 'alainā ma'ahum. Shalawātullāhi wa shalawātul-mu'minīna 'alā Muhammadin-nabiyyil-ummiyy."
       },
@@ -2014,7 +2014,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-24",
         "num": 24,
         "arabic": "اَللّٰهُمَّ اجْعَلْ صَلَوَاتِكَ وَبَرَكَاتِكَ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا جَعَلْتَهَا عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ، وَبَارِكْ عَلٰى مُحَمَّدٍ وَّعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى إِبْرَاهِيْمَ وَعَلٰى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ۝",
-        "reference": "(HR. Ibnu Abi 'Ashim no. 62 & Al-Baghawi)",
+        "reference": "(HR. Ibnu Abi 'Ashim no. 62 & Al-Baghawi - Atsar Ibnu Mas'ud RA)",
         "translation": "Ya Allah! Jadikanlah shalawat-Mu dan keberkahan-Mu tercurah kepada Sayyidina Muhammad ﷺ dan keluarga Sayyidina Muhammad ﷺ sebagaimana Engkau telah menjadikannya kepada Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Dan berkahilah Sayyidina Muhammad ﷺ dan keluarga Sayyidina Muhammad ﷺ sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
         "latin": "Allāhummaj'al shalawātika wa barakātika 'alā Muhammadiw-wa 'alā āli Muhammad, kamā ja'altahā 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd. Wa bārik 'alā Muhammadiw-wa 'alā āli Muhammad, kamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīma innaka hamīdum-majīd."
       },
@@ -2022,7 +2022,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-25",
         "num": 25,
         "arabic": "وَصَلَّى اللهُ عَلَى النَّبِيِّ الْأُمِّيِّ ۝",
-        "reference": "(HR. An-Nasa'i dlm As-Sunan al-Kubra no. 1238 & Abu Dawud no. 969)",
+        "reference": "(HR. An-Nasa'i dlm As-Sunan al-Kubra no. 1238 - Atsar Ibnu Mas'ud RA)",
         "translation": "Dan semoga Allah senantiasa melimpahkan shalawat kepada Nabi yang ummi.",
         "latin": "Wa shallallāhu 'alan-nabiyyil-ummiyy."
       },
@@ -2130,7 +2130,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-38",
         "num": 38,
         "arabic": "اَلتَّحِيَّاتُ لِلَّهِ الصَّلَوَاتُ الطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ۝",
-        "reference": "(HR. Abu Dawud no. 968 & Al-Baihaqi no. 2876)",
+        "reference": "(HR. Abu Dawud no. 968 & Al-Baihaqi no. 2876 - Tasyahhud Abdullah bin Mas'ud RA)",
         "translation": "Segala penghormatan milik Allah, serta shalawat dan kebaikan semata-mata milik-Nya. Semoga keselamatan serta rahmat Allah senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Sayyidina Muhammad ﷺ adalah hamba dan utusan-Nya.",
         "latin": "Attahiyyātu lillāhish-shalawātuth-thayyibāt, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadan 'abduhū wa rasūluh."
       },
@@ -2138,7 +2138,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-39",
         "num": 39,
         "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللَّهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ ۝",
-        "reference": "(HR. Muslim no. 403 & Asy-Syafi'i dlm Al-Umm; Lafaz Tasyahhud Madzhab Syafi'i)",
+        "reference": "(HR. Muslim no. 403 & Asy-Syafi'i dlm Al-Umm - Tasyahhud Abdullah bin Abbas RA; Madzhab Syafi'i)",
         "translation": "Segala penghormatan yang penuh keberkahan, shalawat, dan kebaikan semata-mata milik Allah. Semoga keselamatan, rahmat Allah, dan keberkahan-Nya senantiasa tercurah kepadamu wahai Nabi. Semoga keselamatan senantiasa tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada tuhan selain Allah, dan aku bersaksi bahwa Sayyidina Muhammad ﷺ adalah utusan Allah.",
         "latin": "Attahiyyātul-mubārakātush-shalawātuth-thayyibātu lillāh, assalāmu 'alaika ayyuhan-nabiyyu wa rahmatullāhi wa barakātuh, assalāmu 'alainā wa 'alā 'ibādillāhish-shālihīn, asyhadu allā ilāha illallāhu wa asyhadu anna Muhammadar-rasūlullāh."
       },
@@ -2146,7 +2146,7 @@ window.HIZIB_DATA = {
         "id": "sholawat-40",
         "num": 40,
         "arabic": "بِسْمِ اللَّهِ وَالسَّلَامُ عَلٰى رَسُوْلِ اللَّهِ ۝",
-        "reference": "(HR. Abu Dawud no. 465, Ibnu Majah no. 771 & Al-Hakim no. 991)",
+        "reference": "(HR. Abu Dawud no. 465, Ibnu Majah no. 771 & Al-Hakim no. 991 - Doa Masuk/Keluar Masjid)",
         "translation": "Dengan menyebut nama Allah dan semoga keselamatan senantiasa tercurah kepada Rasulullah ﷺ.",
         "latin": "Bismillāhi was-salāmu 'alā rasūlillāh."
       }
